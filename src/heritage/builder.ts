@@ -75,8 +75,7 @@ export class HeritageBuilder {
     const geometry=new THREE.TubeGeometry(curve,segments,radius,5,false);
     this.add(geometry,material,start,options);geometry.dispose();
   }
-  finish(scene:THREE.Scene){
-    const inject=(m:THREE.Material)=>{
+  applyConstructionShader(m:THREE.Material){
       m.onBeforeCompile=shader=>{
         shader.uniforms.uBuildProgress=this.progress;
         shader.vertexShader="attribute vec3 aBuild; uniform float uBuildProgress; varying float vConstruction;\n"+shader.vertexShader.replace("#include <begin_vertex>",`#include <begin_vertex>
@@ -87,7 +86,9 @@ export class HeritageBuilder {
         shader.fragmentShader="varying float vConstruction;\n"+shader.fragmentShader.replace("void main() {","void main() { if(vConstruction<=0.0) discard;");
       };
       m.customProgramCacheKey=()=>"heritage-solid-assembly-v2";
-    };
+  }
+  finish(scene:THREE.Scene){
+    const inject=(m:THREE.Material)=>this.applyConstructionShader(m);
     for(const [name,geometries]of this.batches){
       const combined=mergeGeometries(geometries,false)!;
       combined.computeBoundingSphere();geometries.forEach(g=>g.dispose());
