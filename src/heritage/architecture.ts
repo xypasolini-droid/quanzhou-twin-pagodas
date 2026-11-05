@@ -7,7 +7,8 @@ import { renderSculpture } from "./sculptureGeometry";
 /** Photo-informed exterior study of the Kaiyuan Temple stone pagodas.
  * Elevations are display units, not surveyed metres. Heights retain the
  * official 48.27 : 45.06 ratio; the inter-tower distance is compressed.
- * The low reliefs are an abstract interpretation, not copies of 160 icons.
+ * Reliefs use a corrected photographic surface when available, or a
+ * catalogue-based geometric interpretation.
  */
 export const TOWERS = {
   west: { x: -17, height: 31.90 * 45.06 / 48.27, name: "仁寿塔" },
@@ -21,6 +22,16 @@ const FLOOR_Y = [.86, 5.98, 10.68, 15.20, 19.48];
 const WALL_A = [4.787, 4.60, 4.39, 4.18, 3.98];
 const WALL_H = [3.55, 3.04, 2.86, 2.62, 2.08];
 const EAVE_Y = [5.70, 10.40, 14.92, 19.20, 22.78];
+
+/** Exact exterior panel anchor, sharing the same dimensions and numbering as
+ * wallStorey()/relief(). Used by the photographic catalogue's camera link. */
+export function sculptureFocus(tower:"east"|"west",level:number,number:number) {
+  const i=THREE.MathUtils.clamp(Math.round(level)-1,0,4),n=THREE.MathUtils.clamp(Math.round(number),1,16);
+  const side=(8-Math.floor((n-1)/2))%8,angle=side*Math.PI/4,sign=n%2?1:-1;
+  const scale=i===0?1.04:.88,sy=tower==="east"?1:45.06/48.27,sx=tower==="east"?1:44.48/46.4;
+  const u=sign*(2*WALL_A[i]*TAN*.33),r=WALL_A[i]+.13+.061,y=FLOOR_Y[i]+(i===0?.66:.54)+.86*scale;
+  return {target:new THREE.Vector3((tower==="east"?17:-17)+(u*Math.cos(angle)+r*Math.sin(angle))*sx,y*sy,(r*Math.cos(angle)-u*Math.sin(angle))*sx),normal:new THREE.Vector3(Math.sin(angle),0,Math.cos(angle))};
+}
 const noise = (n: number) => { const x = Math.sin(n * 127.1 + 78.23) * 43758.5453; return x - Math.floor(x); };
 const face = (x: number, y: number, z: number, a: number): Point => [x * Math.cos(a) + z * Math.sin(a), y, z * Math.cos(a) - x * Math.sin(a)];
 

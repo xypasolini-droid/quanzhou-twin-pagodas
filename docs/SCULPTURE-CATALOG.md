@@ -217,5 +217,5 @@
 | W-5-12 / 东北面左 | 图像核对 | 长袍冠饰人物带圆头光，一手持矩形扇，另一手有念珠。 | [PDF 118 · 图版19](https://archive.org/download/in.ernet.dli.2015.127766/2015.127766.The-Twin-Pagodas-Of-Zayton_text.pdf#page=118) |
 | W-5-13 / 东面右 | 图像核对 | 双髻短袍童子形人物持长筒，宽袖与裤腿分开。 | [PDF 118 · 图版19](https://archive.org/download/in.ernet.dli.2015.127766/2015.127766.The-Twin-Pagodas-Of-Zayton_text.pdf#page=118) |
 | W-5-14 / 东面左 | 图像核对 | 双髻短袍童子形人物在胸前捧包布的方印。 | [PDF 126 · 图版27](https://archive.org/download/in.ernet.dli.2015.127766/2015.127766.The-Twin-Pagodas-Of-Zayton_text.pdf#page=126) |
-| W-5-15 / 东南面右 | 文字补形 | 原著记菩萨形人物手持盛饭的钵。 | [PDF 44](https://archive.org/download/in.ernet.dli.2015.127766/2015.127766.The-Twin-Pagodas-Of-Zayton_text.pdf#page=44) |
-| W-5-16 / 东南面左 | 文字补形 | 原著记菩萨形人物手持插花的瓶。 | [PDF 44](https://archive.org/download/in.ernet.dli.2015.127766/2015.127766.The-Twin-Pagodas-Of-Zayton_text.pdf#page=44) |
+| W-5-15 / 东南面右 | 图像核对 | 现代远摄可见长袍及腹前的钵，原著记为盛饭的钵。 | [PDF 44](https://archive.org/download/in.ernet.dli.2015.127766/2015.127766.The-Twin-Pagodas-Of-Zayton_text.pdf#page=44) · [实拍](https://commons.wikimedia.org/wiki/File:Quanzhou_Kaiyuan_Si_20120229-81.jpg) |
+| W-5-16 / 东南面左 | 图像核对 | 现代远摄可见立像垂袍与身前持物，原著记为插花的瓶。 | [PDF 44](https://archive.org/download/in.ernet.dli.2015.127766/2015.127766.The-Twin-Pagodas-Of-Zayton_text.pdf#page=44) · [实拍](https://commons.wikimedia.org/wiki/File:Quanzhou_Kaiyuan_Si_20120229-81.jpg) |

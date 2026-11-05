@@ -46,4 +46,31 @@ for (const tower of ['east','west']) for (let level=1; level<=5; level++) {
   assert.equal(seen.size,16);
 }
 const counts = Object.fromEntries(['east','west'].map(tower => [tower, Object.fromEntries(['photo','text','unresolved'].map(evidence => [evidence, records.filter(r=>r.tower===tower&&r.evidence===evidence).length]))]));
-console.log(JSON.stringify({panels:records.length,evidence:counts},null,2));
+const photos = read('../src/heritage/data/relief-photos.json');
+const atlas = read('../public/sculptures/relief-atlas.json');
+const photoIds = new Set();
+const byId = new Map(photos.map(photo => [photo.id, photo]));
+const mounted = new Set();
+assert.equal(atlas.version, 1);
+assert.equal(atlas.image, './relief-atlas.webp');
+for (const photo of photos) {
+  assert(ids.has(photo.id) && !photoIds.has(photo.id), `Invalid gallery panel ${photo.id}`);
+  assert.equal(photo.image, `${photo.id.toLowerCase()}.webp`);
+  assert(photo.title && photo.introduction && photo.photographer, `Missing gallery details for ${photo.id}`);
+  assert(photo.sourceUrl.startsWith('https://commons.wikimedia.org/') && photo.licenseUrl.startsWith('https://creativecommons.org/'));
+  assert(readFileSync(new URL(`../public/sculptures/${photo.image}`, import.meta.url)).length > 0);
+  photoIds.add(photo.id);
+}
+assert(readFileSync(new URL('../public/sculptures/relief-atlas.webp', import.meta.url)).length > 0);
+for (const entry of atlas.entries) {
+  const photo = byId.get(entry.id);
+  const [x,y,w,h] = entry.rect;
+  assert(photo?.onTower && !mounted.has(entry.id), `Invalid atlas panel ${entry.id}`);
+  assert.equal(entry.sourceUrl, photo.sourceUrl);
+  assert.equal(entry.author, photo.photographer);
+  assert.equal(entry.license, photo.license);
+  assert([x,y,w,h].every(Number.isInteger) && x>=0 && y>=0 && w>0 && h>0 && x+w<=atlas.width && y+h<=atlas.height, `Invalid atlas rectangle for ${entry.id}`);
+  mounted.add(entry.id);
+}
+assert.equal(mounted.size, photos.filter(photo => photo.onTower).length);
+console.log(JSON.stringify({panels:records.length,evidence:counts,galleryPhotos:photos.length,photographicReliefs:mounted.size},null,2));

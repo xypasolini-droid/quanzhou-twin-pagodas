@@ -113,9 +113,9 @@ class Carver {
   }
 }
 
-function panel(c: Carver) {
+function panel(c: Carver, boardWidth=.66) {
   const { q, at } = c, { size: s, u, y, radius, angle: a, time: t } = at;
-  const width = .66 * s, height = 1.72 * s;
+  const width = boardWidth * s, height = 1.72 * s;
   q.atFace([width + .14, height + .14, .055], u, y + height / 2, radius, a, "stone", t, .93);
   q.atFace([width, height, .045], u, y + height / 2, radius + .032, a, "stone", t, .975);
   for (const sign of [-1, 1]) q.atFace([.025, height + .06, .026], u + sign * (width / 2 + .035), y + height / 2, radius + .056, a, "stone", t + .001, 1.0);
@@ -656,6 +656,30 @@ function companions(c:Carver) {
  * index-modulo fallback is used; unknown data keeps a neutral silhouette. */
 export function renderSculpture(q:SculptureSurface, placement:SculpturePlacement, record:SculptureRecord) {
   const c=new Carver(q,placement,record);
+  const atlas=q.b.reliefAtlas,entry=atlas?.entries.get(record.id);
+  if(atlas && entry) {
+    const [rx,ry,rw,rh]=entry.rect;
+    // Corrected eastern photographs show wider stone panels than the earlier
+    // abstract models. Expand the covered panel and its dressed border together.
+    // Keep the photograph's proportions; the widest crops leave only a narrow
+    // stone margin above/below instead of compressing faces or cropping hands.
+    const boardWidth=Math.min(.95,Math.max(.66,1.72*rw/rh));
+    panel(c,boardWidth);
+    const fit=Math.min(boardWidth/rw,1.72/rh),width=rw*fit,height=rh*fit;
+    const geometry=q.b.geo(`photographic-relief:${record.id}:${entry.rect.join(":")}:${atlas.manifest.width}:${atlas.manifest.height}:${width}:${height}`,()=>{
+      const g=new THREE.PlaneGeometry(width,height),uv=g.getAttribute("uv");
+      for(let i=0;i<uv.count;i++)uv.setXY(i,(rx+uv.getX(i)*rw)/atlas.manifest.width,1-(ry+(1-uv.getY(i))*rh)/atlas.manifest.height);
+      return g;
+    });
+    const {angle:a,u,y,radius,time,size:s}=placement;
+    // panel() uses a fixed .032 centre offset and .045 thickness, so its
+    // front is radius+.0545 even when the figure scale is .88 upstairs.
+    // This mounting clearance must not be scaled with the photograph.
+    const z=radius+.061;
+    const p:Point=[u*Math.cos(a)+z*Math.sin(a),y+.86*s,z*Math.cos(a)-u*Math.sin(a)];
+    q.add(geometry,"sculpture-photo",time+.002,p,a,{s:[s,s,s],shade:1,tint:[1,1,1],lift:.15,duration:.012});
+    return;
+  }
   panel(c);
   support(c);
   companions(c);

@@ -1,6 +1,7 @@
 import * as THREE from "three";
 import { mergeGeometries } from "three/examples/jsm/utils/BufferGeometryUtils.js";
 import type { SurfaceName } from "./materials";
+import type { ReliefAtlas } from "./reliefAtlas";
 
 export type Point = [number, number, number];
 type Transform = { p?: Point; r?: Point; s?: Point; shade?: number; tint?: Point; duration?: number; lift?: number };
@@ -17,7 +18,7 @@ export class HeritageBuilder {
   readonly meshes: THREE.Mesh[] = [];
   private depths: THREE.MeshDepthMaterial[] = [];
   pieces = 0;
-  constructor(readonly materials: Record<SurfaceName,THREE.MeshStandardMaterial>) {}
+  constructor(readonly materials: Record<SurfaceName,THREE.MeshStandardMaterial>,readonly reliefAtlas:ReliefAtlas|null=null) {}
 
   add(geometry:THREE.BufferGeometry,material:SurfaceName,start:number,options:Transform={}) {
     this.transform.position.set(...(options.p??[0,0,0]));
@@ -31,7 +32,7 @@ export class HeritageBuilder {
     const shade=options.shade??1,tint=options.tint??[1,1,1];
     // Per-piece atlas offsets remove identical grain on repeated masonry/wood.
     const uv=g.getAttribute("uv");
-    if(uv && !["plaster","glass"].includes(material)){
+    if(uv && !["plaster","glass","sculpture-photo"].includes(material)){
       const offset=(Math.sin(this.pieces*127.1)*43758.5453)%1;
       for(let i=0;i<uv.count;i++)uv.setXY(i,uv.getX(i)+offset,uv.getY(i)+offset*.731);
     }

@@ -3556,8 +3556,13 @@
     "tower": "west",
     "level": 5,
     "number": 15,
-    "evidence": "text",
+    "evidence": "photo",
     "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Quanzhou_Kaiyuan_Si_20120229-81.jpg",
+        "title": "Zhangzhugang，仁寿塔五层东南面实拍",
+        "note": "东南面右侧板面长衣与腹前持物可见，细小指法与钵内纹样仍未辨。"
+      },
       {
         "url": "https://archive.org/download/in.ernet.dli.2015.127766/2015.127766.The-Twin-Pagodas-Of-Zayton_text.pdf#page=44",
         "title": "The Twin Pagodas of Zayton (1935), Iconography: Western Pagoda",
@@ -3565,8 +3570,8 @@
         "note": "逐条读取原著的形制描述；传统人物归名不作为无争议身份。"
       }
     ],
-    "description": "原著记菩萨形人物手持盛饭的钵。",
-    "body": "unknown",
+    "description": "现代远摄可见长袍及腹前的钵，原著记为盛饭的钵。",
+    "body": "robe",
     "head": "unknown",
     "halo": "unknown",
     "pose": "unknown",
@@ -3596,8 +3601,13 @@
     "tower": "west",
     "level": 5,
     "number": 16,
-    "evidence": "text",
+    "evidence": "photo",
     "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Quanzhou_Kaiyuan_Si_20120229-81.jpg",
+        "title": "Zhangzhugang，仁寿塔五层东南面实拍",
+        "note": "东南面左侧板面长衣与瓶状持物可见，花瓣细节仍未辨。"
+      },
       {
         "url": "https://archive.org/download/in.ernet.dli.2015.127766/2015.127766.The-Twin-Pagodas-Of-Zayton_text.pdf#page=44",
         "title": "The Twin Pagodas of Zayton (1935), Iconography: Western Pagoda",
@@ -3605,8 +3615,8 @@
         "note": "逐条读取原著的形制描述；传统人物归名不作为无争议身份。"
       }
     ],
-    "description": "原著记菩萨形人物手持插花的瓶。",
-    "body": "unknown",
+    "description": "现代远摄可见立像垂袍与身前持物，原著记为插花的瓶。",
+    "body": "robe",
     "head": "unknown",
     "halo": "unknown",
     "pose": "unknown",

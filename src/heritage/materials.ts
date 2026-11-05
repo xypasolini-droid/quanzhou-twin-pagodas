@@ -1,13 +1,15 @@
 import * as THREE from "three";
+import type { ReliefAtlas } from "./reliefAtlas";
 
-export type SurfaceName = "brick" | "wood" | "jade" | "stone" | "plaster" | "tile" | "bronze" | "recess" | "cloth" | "paper" | "moss" | "glass";
+export type SurfaceName = "brick" | "wood" | "jade" | "stone" | "plaster" | "tile" | "bronze" | "recess" | "cloth" | "paper" | "moss" | "glass" | "sculpture-photo";
+type ProceduralSurface=Exclude<SurfaceName,"sculpture-photo">;
 type SurfaceSpec = { color: string; grain: number; roughness: number; bump: number; metalness?: number };
 
 // API names come from the starter. jade/tile/plaster are granite variants here.
 // Observed in the user's BT.709 drone footage, especially clip 0086 at 17s:
 // cool grey roof strips, grey-brown wall blocks, pale reliefs and ochre weathering.
 // These are interpretive albedos, not sampled sunlit pixels or calibrated colours.
-const surfaces: Record<SurfaceName, SurfaceSpec> = {
+const surfaces: Record<ProceduralSurface, SurfaceSpec> = {
   stone:   {color:"#978a7a",grain:12,roughness:.98,bump:.015},
   plaster: {color:"#bdb19f",grain:8,roughness:.97,bump:.009},
   tile:    {color:"#7e7c74",grain:14,roughness:.99,bump:.017},
@@ -43,14 +45,14 @@ function sample(f:NoiseField,u:number,v:number) {
 }
 const smooth=(a:number,b:number,v:number)=>{const t=Math.max(0,Math.min(1,(v-a)/(b-a)));return t*t*(3-2*t);};
 
-export function createHeritageMaterials(renderer:THREE.WebGLRenderer) {
+export function createHeritageMaterials(renderer:THREE.WebGLRenderer,reliefAtlas:ReliefAtlas|null=null) {
   const textures:THREE.Texture[]=[],materials={} as Record<SurfaceName,THREE.MeshStandardMaterial>;
   const anisotropy=Math.min(8,renderer.capabilities.getMaxAnisotropy());
   const makeTexture=(canvas:HTMLCanvasElement,name:string,color=false)=>{
     const t=new THREE.CanvasTexture(canvas);t.name=name;if(color)t.colorSpace=THREE.SRGBColorSpace;
     t.wrapS=t.wrapT=THREE.RepeatWrapping;t.anisotropy=anisotropy;textures.push(t);return t;
   };
-  for(const [name,spec] of Object.entries(surfaces) as [SurfaceName,SurfaceSpec][]){
+  for(const [name,spec] of Object.entries(surfaces) as [ProceduralSurface,SurfaceSpec][]){
     if(name==="glass"){
       materials[name]=new THREE.MeshPhysicalMaterial({color:spec.color,roughness:.24,metalness:0,transparent:true,opacity:.08,depthWrite:false,clearcoat:.35,vertexColors:true});continue;
     }
@@ -117,5 +119,15 @@ export function createHeritageMaterials(renderer:THREE.WebGLRenderer) {
       bumpScale:spec.bump,roughness:spec.roughness,metalness:spec.metalness??0,vertexColors:true,
     });
   }
+  if(reliefAtlas)reliefAtlas.texture.anisotropy=Math.min(4,anisotropy);
+  materials["sculpture-photo"]=new THREE.MeshStandardMaterial({
+    color:0xf8f5ee,map:reliefAtlas?.texture??null,roughness:.98,metalness:0,
+    bumpMap:reliefAtlas?.texture??null,bumpScale:.005,
+    // A small photographic fill prevents the source's existing shading from
+    // being crushed a second time on a north-facing panel. It remains a lit,
+    // shadow-receiving stone surface rather than an unlit billboard.
+    emissive:0xffffff,emissiveMap:reliefAtlas?.texture??null,emissiveIntensity:reliefAtlas?.texture ? .1 : 0,
+    vertexColors:true,polygonOffset:true,polygonOffsetFactor:-1,polygonOffsetUnits:-1,
+  });
   return {materials,dispose(){textures.forEach(t=>t.dispose());Object.values(materials).forEach(m=>m.dispose());}};
 }
