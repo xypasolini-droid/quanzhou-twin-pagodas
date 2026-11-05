@@ -1,0 +1,9 @@
+node_modules/
+dist/
+.env*
+*.log
+.DS_Store
+*.tsbuildinfo
+
+# Incomplete viewport capture retained locally only
+/docs/qa/mobile-390.jpg
