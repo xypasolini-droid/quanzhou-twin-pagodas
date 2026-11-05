@@ -25,8 +25,10 @@ type Props = {
 
 export default function ReliefGallery({ open, tower, selectedId, onClose, onLocate, canLocate }: Props) {
   const dialog = useRef<HTMLDialogElement>(null);
+  const strip = useRef<HTMLDivElement>(null);
   const [side, setSide] = useState(tower);
   const [selected, setSelected] = useState<string>();
+  const [floor, setFloor] = useState<number>();
 
   useEffect(() => {
     const element = dialog.current;
@@ -34,16 +36,45 @@ export default function ReliefGallery({ open, tower, selectedId, onClose, onLoca
     if (open && !element.open) {
       setSide(tower);
       setSelected(selectedId);
+      setFloor(undefined);
       element.showModal();
       element.scrollTop = 0;
     }
     if (!open && element.open) element.close();
   }, [open, tower, selectedId]);
 
-  const photos = exhibits.filter(entry => entry.record.tower === side);
-  const exhibit = photos.find(entry => entry.photo.id === selected) ?? photos[0];
+  const towerPhotos = exhibits.filter(entry => entry.record.tower === side);
+  const floors = Array.from(new Set(towerPhotos.map(entry => entry.record.level))).sort((a, b) => a - b);
+  const photos = floor ? towerPhotos.filter(entry => entry.record.level === floor) : towerPhotos;
+  const index = Math.max(0, photos.findIndex(entry => entry.photo.id === selected));
+  const exhibit = photos[index];
+  const chooseTower = (next: TowerSide) => {
+    if (next === side) return;
+    setSide(next);
+    setFloor(undefined);
+    setSelected(undefined);
+  };
+  const step = (delta: number) => {
+    const next = photos[index + delta];
+    if (next) setSelected(next.photo.id);
+  };
 
-  return <dialog ref={dialog} className="source-dialog relief-gallery" aria-labelledby="relief-gallery-title" onClose={onClose}>
+  useEffect(() => {
+    if (!open) return;
+    const row = strip.current;
+    const item = row?.querySelector<HTMLButtonElement>('[aria-pressed="true"]');
+    if (!row || !item) return;
+    const viewport = row.getBoundingClientRect();
+    const bounds = item.getBoundingClientRect();
+    if (bounds.left < viewport.left) row.scrollLeft += bounds.left - viewport.left - 5;
+    if (bounds.right > viewport.right) row.scrollLeft += bounds.right - viewport.right + 5;
+  }, [open, exhibit?.photo.id]);
+
+  return <dialog ref={dialog} className="source-dialog relief-gallery" aria-labelledby="relief-gallery-title" onClose={onClose} onClick={event => {
+    if (event.target !== event.currentTarget) return;
+    const { left, top, right, bottom } = event.currentTarget.getBoundingClientRect();
+    if (event.clientX < left || event.clientX > right || event.clientY < top || event.clientY > bottom) onClose();
+  }}>
     <div className="dialog-top">
       <div>
         <p className="eyebrow">KAIYUAN TEMPLE · STONE RELIEFS</p>
@@ -53,10 +84,23 @@ export default function ReliefGallery({ open, tower, selectedId, onClose, onLoca
     </div>
     {open && <>
       <div className="relief-gallery-bar">
-        <p>{exhibits.length} 处实物照片。选一张细看人物的手势、衣纹和持物。</p>
+        <p>从实物照片细看手势、衣纹和持物。<span className="relief-total">已上塔 {exhibits.length} 处</span></p>
         <div className="relief-gallery-towers" role="group" aria-label="选择石刻所在塔">
-          <button type="button" aria-pressed={side === 'east'} onClick={() => setSide('east')}>东塔 · 镇国</button>
-          <button type="button" aria-pressed={side === 'west'} onClick={() => setSide('west')}>西塔 · 仁寿</button>
+          <button type="button" aria-pressed={side === 'east'} onClick={() => chooseTower('east')}>东塔 · 镇国</button>
+          <button type="button" aria-pressed={side === 'west'} onClick={() => chooseTower('west')}>西塔 · 仁寿</button>
+        </div>
+      </div>
+      <div className="relief-gallery-tools">
+        <div className="relief-gallery-floors" role="group" aria-label="按楼层筛选石刻">
+          <button type="button" aria-pressed={floor === undefined} onClick={() => setFloor(undefined)}>全部</button>
+          {floors.map(level => <button key={level} type="button" aria-pressed={floor === level} onClick={() => setFloor(level)}>{level} 层</button>)}
+        </div>
+        <div className="relief-gallery-navigation">
+          <p aria-live="polite">第 {index + 1} 件 <span>/</span> {photos.length} 件</p>
+          <div role="group" aria-label="逐件翻阅">
+            <button type="button" disabled={index === 0} onClick={() => step(-1)} aria-label="上一件石刻">← <span>上一件</span></button>
+            <button type="button" disabled={index === photos.length - 1} onClick={() => step(1)} aria-label="下一件石刻"><span>下一件</span> →</button>
+          </div>
         </div>
       </div>
       {exhibit && <div className="relief-exhibit">
@@ -70,15 +114,15 @@ export default function ReliefGallery({ open, tower, selectedId, onClose, onLoca
           <p>{exhibit.photo.introduction}</p>
           <p className="relief-catalogue-id">图录编号 {exhibit.record.id} · 方位按面向石板时的左右</p>
           <button className="relief-locate" type="button" disabled={!canLocate} onClick={() => onLocate(exhibit.record)}>在塔上查看 <span aria-hidden="true">↗</span></button>
-          {!exhibit.photo.onTower && <p className="relief-catalogue-id">此处塔身使用形态示意，左图为实物。</p>}
+          {!exhibit.photo.onTower && <p className="relief-catalogue-id">实物照片供对照，对应塔身为形态示意。</p>}
           <div className="relief-photo-source">
             <span>摄影 {exhibit.photo.photographer} · 裁切与透视校正</span>
-            <a href={exhibit.photo.sourceUrl} target="_blank" rel="noreferrer">打开原图 ↗</a>
+            <a href={exhibit.photo.sourceUrl} target="_blank" rel="noreferrer">原图与出处 ↗</a>
             <a href={exhibit.photo.licenseUrl} target="_blank" rel="noreferrer">{exhibit.photo.license}</a>
           </div>
         </div>
       </div>}
-      <div className="relief-gallery-strip" role="group" aria-label="选择实物照片">
+      <div ref={strip} className="relief-gallery-strip" role="group" aria-label="选择实物照片">
         {photos.map(({ photo, record }) => <button key={photo.id} type="button" aria-pressed={exhibit?.photo.id === photo.id} onClick={() => setSelected(photo.id)}>
           <img src={photoUrl(photo.image)} alt="" loading="lazy" decoding="async" />
           <span><b>{photo.title}</b><small>第 {record.level} 层 · {faces[Math.floor((record.number - 1) / 2)]}面</small></span>

@@ -2,95 +2,134 @@
   "version": 1,
   "image": "./relief-atlas.webp",
   "width": 2048,
-  "height": 2048,
+  "height": 4096,
   "entries": [
     {
-      "id": "E-3-12",
+      "id": "E-1-01",
       "rect": [
         8,
-        59,
+        14,
         240,
-        394
+        484
       ],
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kaiyuan_Temple_-_Zhenguo_Pagoda_-_DSCF8608.JPG",
-      "author": "Vmenkov",
-      "license": "CC BY-SA 3.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/"
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:20231021_Zhenguo_Ta.jpg",
+      "author": "Yumeto",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
     },
     {
-      "id": "E-3-11",
+      "id": "E-1-02",
       "rect": [
         264,
-        59,
+        14,
         240,
-        394
+        484
       ],
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kaiyuan_Temple_-_Zhenguo_Pagoda_-_DSCF8608.JPG",
-      "author": "Vmenkov",
-      "license": "CC BY-SA 3.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/"
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:20231021_Zhenguo_Ta.jpg",
+      "author": "Yumeto",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
     },
     {
-      "id": "E-2-12",
+      "id": "E-1-03",
       "rect": [
+        525,
+        8,
+        230,
+        496
+      ],
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:20231021_Zhenguo_Ta.jpg",
+      "author": "Yumeto",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+    },
+    {
+      "id": "E-1-04",
+      "rect": [
+        781,
+        8,
+        229,
+        496
+      ],
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:20231021_Zhenguo_Ta.jpg",
+      "author": "Yumeto",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+    },
+    {
+      "id": "E-1-05",
+      "rect": [
+        1040,
+        8,
+        223,
+        496
+      ],
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Quanzhou_Kaiyuan_Si_20120229-06.jpg",
+      "author": "Zhangzhugang",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+    },
+    {
+      "id": "E-1-06",
+      "rect": [
+        1297,
+        8,
+        222,
+        496
+      ],
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Quanzhou_Kaiyuan_Si_20120229-06.jpg",
+      "author": "Zhangzhugang",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+    },
+    {
+      "id": "E-1-07",
+      "rect": [
+        1546,
+        8,
+        236,
+        496
+      ],
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Quanzhou_Kaiyuan_Si_20120229-06.jpg",
+      "author": "Zhangzhugang",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+    },
+    {
+      "id": "E-1-08",
+      "rect": [
+        1802,
+        8,
+        236,
+        496
+      ],
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Quanzhou_Kaiyuan_Si_20120229-06.jpg",
+      "author": "Zhangzhugang",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+    },
+    {
+      "id": "E-1-09",
+      "rect": [
+        12,
         520,
-        29,
-        240,
-        453
+        232,
+        496
       ],
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kaiyuan_Temple_-_Zhenguo_Pagoda_-_DSCF8609.JPG",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kaiyuan_Temple_-_Zhenguo_Pagoda_-_DSCF8600.JPG",
       "author": "Vmenkov",
       "license": "CC BY-SA 3.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/"
     },
     {
-      "id": "E-2-11",
+      "id": "E-1-10",
       "rect": [
-        776,
-        29,
-        240,
-        453
+        269,
+        520,
+        230,
+        496
       ],
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kaiyuan_Temple_-_Zhenguo_Pagoda_-_DSCF8609.JPG",
-      "author": "Vmenkov",
-      "license": "CC BY-SA 3.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/"
-    },
-    {
-      "id": "E-4-12",
-      "rect": [
-        1032,
-        25,
-        240,
-        461
-      ],
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kaiyuan_Temple_-_Zhenguo_Pagoda_-_DSCF8607.JPG",
-      "author": "Vmenkov",
-      "license": "CC BY-SA 3.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/"
-    },
-    {
-      "id": "E-4-11",
-      "rect": [
-        1288,
-        25,
-        240,
-        461
-      ],
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kaiyuan_Temple_-_Zhenguo_Pagoda_-_DSCF8607.JPG",
-      "author": "Vmenkov",
-      "license": "CC BY-SA 3.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/"
-    },
-    {
-      "id": "E-1-12",
-      "rect": [
-        1544,
-        59,
-        240,
-        394
-      ],
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kaiyuan_Temple_-_Zhenguo_Pagoda_-_DSCF8605.JPG",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kaiyuan_Temple_-_Zhenguo_Pagoda_-_DSCF8600.JPG",
       "author": "Vmenkov",
       "license": "CC BY-SA 3.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/"
@@ -98,8 +137,8 @@
     {
       "id": "E-1-11",
       "rect": [
-        1800,
-        59,
+        520,
+        571,
         240,
         394
       ],
@@ -109,36 +148,140 @@
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/"
     },
     {
-      "id": "E-5-12",
+      "id": "E-1-12",
       "rect": [
-        8,
-        561,
+        776,
+        571,
         240,
-        414
+        394
       ],
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kaiyuan_Temple_-_Zhenguo_Pagoda_-_DSCF8607.JPG",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kaiyuan_Temple_-_Zhenguo_Pagoda_-_DSCF8605.JPG",
       "author": "Vmenkov",
       "license": "CC BY-SA 3.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/"
     },
     {
-      "id": "E-5-11",
+      "id": "E-1-13",
       "rect": [
-        264,
-        561,
-        240,
-        414
+        1043,
+        520,
+        218,
+        496
       ],
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kaiyuan_Temple_-_Zhenguo_Pagoda_-_DSCF8607.JPG",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kaiyuan_Temple_-_Zhenguo_Pagoda_-_DSCF8603.JPG",
       "author": "Vmenkov",
       "license": "CC BY-SA 3.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    {
+      "id": "E-1-14",
+      "rect": [
+        1299,
+        520,
+        218,
+        496
+      ],
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kaiyuan_Temple_-_Zhenguo_Pagoda_-_DSCF8603.JPG",
+      "author": "Vmenkov",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    {
+      "id": "E-1-15",
+      "rect": [
+        1549,
+        520,
+        229,
+        496
+      ],
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:20231021_Zhenguo_Ta.jpg",
+      "author": "Yumeto",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+    },
+    {
+      "id": "E-1-16",
+      "rect": [
+        1805,
+        520,
+        230,
+        496
+      ],
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:20231021_Zhenguo_Ta.jpg",
+      "author": "Yumeto",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+    },
+    {
+      "id": "E-2-01",
+      "rect": [
+        13,
+        1032,
+        229,
+        496
+      ],
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:20231021_Zhenguo_Ta.jpg",
+      "author": "Yumeto",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+    },
+    {
+      "id": "E-2-02",
+      "rect": [
+        269,
+        1032,
+        229,
+        496
+      ],
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:20231021_Zhenguo_Ta.jpg",
+      "author": "Yumeto",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+    },
+    {
+      "id": "E-2-06",
+      "rect": [
+        531,
+        1032,
+        218,
+        496
+      ],
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Quanzhou_Kaiyuan_Si_20120229-06.jpg",
+      "author": "Zhangzhugang",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+    },
+    {
+      "id": "E-2-07",
+      "rect": [
+        783,
+        1032,
+        225,
+        496
+      ],
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Quanzhou_Kaiyuan_Si_20120229-06.jpg",
+      "author": "Zhangzhugang",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+    },
+    {
+      "id": "E-2-08",
+      "rect": [
+        1039,
+        1032,
+        225,
+        496
+      ],
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Quanzhou_Kaiyuan_Si_20120229-06.jpg",
+      "author": "Zhangzhugang",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
     },
     {
       "id": "E-2-09",
       "rect": [
-        520,
-        541,
+        1288,
+        1053,
         240,
         453
       ],
@@ -150,8 +293,8 @@
     {
       "id": "E-2-10",
       "rect": [
-        776,
-        541,
+        1544,
+        1053,
         240,
         453
       ],
@@ -161,10 +304,23 @@
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/"
     },
     {
-      "id": "E-2-14",
+      "id": "E-2-11",
       "rect": [
-        1032,
-        541,
+        1800,
+        1053,
+        240,
+        453
+      ],
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kaiyuan_Temple_-_Zhenguo_Pagoda_-_DSCF8609.JPG",
+      "author": "Vmenkov",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    {
+      "id": "E-2-12",
+      "rect": [
+        8,
+        1565,
         240,
         453
       ],
@@ -176,8 +332,8 @@
     {
       "id": "E-2-13",
       "rect": [
-        1288,
-        541,
+        264,
+        1565,
         240,
         453
       ],
@@ -187,10 +343,75 @@
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/"
     },
     {
+      "id": "E-2-14",
+      "rect": [
+        520,
+        1565,
+        240,
+        453
+      ],
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kaiyuan_Temple_-_Zhenguo_Pagoda_-_DSCF8609.JPG",
+      "author": "Vmenkov",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    {
+      "id": "E-3-01",
+      "rect": [
+        792,
+        1544,
+        207,
+        496
+      ],
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:20231021_Zhenguo_Ta.jpg",
+      "author": "Yumeto",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+    },
+    {
+      "id": "E-3-02",
+      "rect": [
+        1048,
+        1544,
+        207,
+        496
+      ],
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:20231021_Zhenguo_Ta.jpg",
+      "author": "Yumeto",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+    },
+    {
+      "id": "E-3-07",
+      "rect": [
+        1299,
+        1544,
+        218,
+        496
+      ],
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Quanzhou_Kaiyuan_Si_20120229-06.jpg",
+      "author": "Zhangzhugang",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+    },
+    {
+      "id": "E-3-08",
+      "rect": [
+        1555,
+        1544,
+        218,
+        496
+      ],
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Quanzhou_Kaiyuan_Si_20120229-06.jpg",
+      "author": "Zhangzhugang",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+    },
+    {
       "id": "E-3-09",
       "rect": [
-        1544,
-        571,
+        1800,
+        1595,
         240,
         394
       ],
@@ -200,10 +421,88 @@
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/"
     },
     {
+      "id": "E-3-11",
+      "rect": [
+        8,
+        2107,
+        240,
+        394
+      ],
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kaiyuan_Temple_-_Zhenguo_Pagoda_-_DSCF8608.JPG",
+      "author": "Vmenkov",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    {
+      "id": "E-3-12",
+      "rect": [
+        264,
+        2107,
+        240,
+        394
+      ],
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kaiyuan_Temple_-_Zhenguo_Pagoda_-_DSCF8608.JPG",
+      "author": "Vmenkov",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    {
+      "id": "E-4-11",
+      "rect": [
+        520,
+        2073,
+        240,
+        461
+      ],
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kaiyuan_Temple_-_Zhenguo_Pagoda_-_DSCF8607.JPG",
+      "author": "Vmenkov",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    {
+      "id": "E-4-12",
+      "rect": [
+        776,
+        2073,
+        240,
+        461
+      ],
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kaiyuan_Temple_-_Zhenguo_Pagoda_-_DSCF8607.JPG",
+      "author": "Vmenkov",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    {
+      "id": "E-5-11",
+      "rect": [
+        1032,
+        2097,
+        240,
+        414
+      ],
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kaiyuan_Temple_-_Zhenguo_Pagoda_-_DSCF8607.JPG",
+      "author": "Vmenkov",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    {
+      "id": "E-5-12",
+      "rect": [
+        1288,
+        2097,
+        240,
+        414
+      ],
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kaiyuan_Temple_-_Zhenguo_Pagoda_-_DSCF8607.JPG",
+      "author": "Vmenkov",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    {
       "id": "W-1-01",
       "rect": [
-        1800,
-        537,
+        1544,
+        2073,
         240,
         461
       ],
@@ -215,8 +514,8 @@
     {
       "id": "W-1-02",
       "rect": [
-        8,
-        1049,
+        1800,
+        2073,
         240,
         461
       ],
@@ -226,10 +525,62 @@
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
     },
     {
-      "id": "W-1-13",
+      "id": "W-1-03",
+      "rect": [
+        8,
+        2585,
+        240,
+        461
+      ],
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Quanzhou_Kaiyuan_Si_20120229-70.jpg",
+      "author": "Zhangzhugang",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+    },
+    {
+      "id": "W-1-04",
       "rect": [
         264,
-        1049,
+        2585,
+        240,
+        461
+      ],
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Quanzhou_Kaiyuan_Si_20120229-70.jpg",
+      "author": "Zhangzhugang",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+    },
+    {
+      "id": "W-1-11",
+      "rect": [
+        520,
+        2585,
+        240,
+        461
+      ],
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Quanzhou_Kaiyuan_Si_20120229-68.jpg",
+      "author": "Zhangzhugang",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+    },
+    {
+      "id": "W-1-12",
+      "rect": [
+        776,
+        2585,
+        240,
+        461
+      ],
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Quanzhou_Kaiyuan_Si_20120229-68.jpg",
+      "author": "Zhangzhugang",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+    },
+    {
+      "id": "W-1-13",
+      "rect": [
+        1032,
+        2585,
         240,
         461
       ],
@@ -241,8 +592,8 @@
     {
       "id": "W-1-14",
       "rect": [
-        520,
-        1049,
+        1288,
+        2585,
         240,
         461
       ],
@@ -252,10 +603,166 @@
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
     },
     {
-      "id": "W-5-13",
+      "id": "W-1-15",
+      "rect": [
+        1544,
+        2585,
+        240,
+        461
+      ],
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Quanzhou_Kaiyuan_Si_20120229-68.jpg",
+      "author": "Zhangzhugang",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+    },
+    {
+      "id": "W-1-16",
+      "rect": [
+        1800,
+        2585,
+        240,
+        461
+      ],
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Quanzhou_Kaiyuan_Si_20120229-68.jpg",
+      "author": "Zhangzhugang",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+    },
+    {
+      "id": "W-2-12",
+      "rect": [
+        29,
+        3080,
+        198,
+        496
+      ],
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Quanzhou_Kaiyuan_Si_20120229-67.jpg",
+      "author": "Zhangzhugang",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+    },
+    {
+      "id": "W-2-13",
+      "rect": [
+        285,
+        3080,
+        198,
+        496
+      ],
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Quanzhou_Kaiyuan_Si_20120229-67.jpg",
+      "author": "Zhangzhugang",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+    },
+    {
+      "id": "W-3-12",
+      "rect": [
+        541,
+        3080,
+        198,
+        496
+      ],
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Quanzhou_Kaiyuan_Si_20120229-67.jpg",
+      "author": "Zhangzhugang",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+    },
+    {
+      "id": "W-3-13",
       "rect": [
         797,
-        1032,
+        3080,
+        198,
+        496
+      ],
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Quanzhou_Kaiyuan_Si_20120229-67.jpg",
+      "author": "Zhangzhugang",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+    },
+    {
+      "id": "W-3-14",
+      "rect": [
+        1053,
+        3080,
+        198,
+        496
+      ],
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Quanzhou_Kaiyuan_Si_20120229-67.jpg",
+      "author": "Zhangzhugang",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+    },
+    {
+      "id": "W-4-12",
+      "rect": [
+        1309,
+        3080,
+        198,
+        496
+      ],
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Quanzhou_Kaiyuan_Si_20120229-80.jpg",
+      "author": "Zhangzhugang",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+    },
+    {
+      "id": "W-4-13",
+      "rect": [
+        1565,
+        3080,
+        198,
+        496
+      ],
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Quanzhou_Kaiyuan_Si_20120229-80.jpg",
+      "author": "Zhangzhugang",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+    },
+    {
+      "id": "W-4-14",
+      "rect": [
+        1821,
+        3080,
+        198,
+        496
+      ],
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Quanzhou_Kaiyuan_Si_20120229-80.jpg",
+      "author": "Zhangzhugang",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+    },
+    {
+      "id": "W-4-15",
+      "rect": [
+        29,
+        3592,
+        198,
+        496
+      ],
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Quanzhou_Kaiyuan_Si_20120229-80.jpg",
+      "author": "Zhangzhugang",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+    },
+    {
+      "id": "W-4-16",
+      "rect": [
+        285,
+        3592,
+        198,
+        496
+      ],
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Quanzhou_Kaiyuan_Si_20120229-80.jpg",
+      "author": "Zhangzhugang",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+    },
+    {
+      "id": "W-5-13",
+      "rect": [
+        541,
+        3592,
         198,
         496
       ],
@@ -267,8 +774,8 @@
     {
       "id": "W-5-14",
       "rect": [
-        1053,
-        1032,
+        797,
+        3592,
         198,
         496
       ],
@@ -280,8 +787,8 @@
     {
       "id": "W-5-15",
       "rect": [
-        1309,
-        1032,
+        1053,
+        3592,
         198,
         496
       ],
@@ -293,8 +800,8 @@
     {
       "id": "W-5-16",
       "rect": [
-        1565,
-        1032,
+        1309,
+        3592,
         198,
         496
       ],

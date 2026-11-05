@@ -1,5 +1,6 @@
 import * as THREE from "three";
 import { HeritageBuilder, type Point } from "./builder";
+import { WEST_BUILD_END } from "./history";
 import type { SurfaceName } from "./materials";
 import { getSculpture } from "./sculptureCatalog";
 import { renderSculpture } from "./sculptureGeometry";
@@ -40,6 +41,8 @@ class StoneTower {
   get x() { return this.east ? 17 : -17; }
   get sy() { return this.east ? 1 : 45.06 / 48.27; }
   get sx() { return this.east ? 1 : this.pedestal ? 60.8 / 60 : 44.48 / 46.4; }
+  private get buildSpan() { return this.east ? 1 - WEST_BUILD_END : WEST_BUILD_END; }
+  private buildTime(local: number) { return (this.east ? WEST_BUILD_END : 0) + local * this.buildSpan; }
   point(p: Point): Point { return [this.x + p[0] * this.sx, p[1] * this.sy, p[2] * this.sx]; }
   stoneTint(p: Point, material: SurfaceName): Point {
     if (!["stone", "plaster", "tile", "jade", "brick"].includes(material)) return [1, 1, 1];
@@ -53,7 +56,7 @@ class StoneTower {
   }
   add(g: THREE.BufferGeometry, m: SurfaceName, t: number, p: Point = [0, 0, 0], a = 0, options: { shade?: number; duration?: number; lift?: number; s?: Point; tint?: Point } = {}) {
     const s = options.s ?? [1, 1, 1];
-    this.b.add(g, m, t, { p: this.point(p), r: [0, a, 0], s: [s[0] * this.sx, s[1] * this.sy, s[2] * this.sx], shade: options.shade ?? 1, tint: options.tint ?? this.stoneTint(p, m), duration: options.duration ?? .012, lift: (options.lift ?? .28) * this.sy });
+    this.b.add(g, m, this.buildTime(t), { p: this.point(p), r: [0, a, 0], s: [s[0] * this.sx, s[1] * this.sy, s[2] * this.sx], shade: options.shade ?? 1, tint: options.tint ?? this.stoneTint(p, m), duration: (options.duration ?? .012) * this.buildSpan, lift: (options.lift ?? .28) * this.sy });
   }
   box(size: Point, p: Point, m: SurfaceName, t: number, a = 0, shade = 1, lift = .25) {
     // Small masonry courses retain real joints without paying for 44-triangle bevels.
@@ -61,7 +64,7 @@ class StoneTower {
       const g = this.b.geo("kaiyuan-simple-block", () => new THREE.BoxGeometry(1, 1, 1));
       this.add(g, m, t, p, a, { s: size, shade, duration: .011, lift });
     } else {
-      this.b.box([size[0] * this.sx, size[1] * this.sy, size[2] * this.sx], this.point(p), m, t, { r: [0, a, 0], shade, tint: this.stoneTint(p, m), duration: .011, lift: lift * this.sy });
+      this.b.box([size[0] * this.sx, size[1] * this.sy, size[2] * this.sx], this.point(p), m, this.buildTime(t), { r: [0, a, 0], shade, tint: this.stoneTint(p, m), duration: .011 * this.buildSpan, lift: lift * this.sy });
     }
   }
   atFace(size: Point, u: number, y: number, radius: number, a: number, m: SurfaceName, t: number, shade = 1) {
@@ -72,7 +75,7 @@ class StoneTower {
     this.add(sphere, m, t, p, a, { s: size, shade, lift: .15 });
   }
   tube(points: Point[], r: number, m: SurfaceName, t: number, segments = 8) {
-    this.b.tube(points.map(p => this.point(p)), r * this.sx, m, t, { duration: .012, lift: .15 * this.sy }, segments);
+    this.b.tube(points.map(p => this.point(p)), r * this.sx, m, this.buildTime(t), { duration: .012 * this.buildSpan, lift: .15 * this.sy }, segments);
   }
   ring(radius: number, y: number, height: number, m: SurfaceName, t: number, top = radius, shade = 1) {
     const g = this.b.geo(`kaiyuan-oct:${radius}:${height}:${top}`, () => {

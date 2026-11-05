@@ -19,9 +19,20 @@
 }
 
 .source-dialog.relief-gallery {
+  --gallery-padding: clamp(16px, 2.6vw, 30px);
   width: min(980px, calc(100vw - 32px));
   max-height: calc(100svh - 40px);
-  padding: clamp(16px, 2.6vw, 30px);
+  padding: 0 var(--gallery-padding) var(--gallery-padding);
+}
+
+.relief-gallery .dialog-top {
+  position: sticky;
+  top: 0;
+  z-index: 1;
+  margin-inline: calc(-1 * var(--gallery-padding));
+  padding: clamp(12px, 2.2vw, 24px) var(--gallery-padding) 12px;
+  background: var(--paper);
+  border-bottom: 1px solid var(--line);
 }
 
 .relief-gallery .close-button {
@@ -35,7 +46,7 @@
   justify-content: space-between;
   gap: 12px 24px;
   flex-wrap: wrap;
-  margin: 14px 0 16px;
+  margin: 10px 0 12px;
 }
 
 .relief-gallery-bar p {
@@ -62,6 +73,80 @@
   min-height: 40px;
   padding: 6px 16px;
   font-size: 12px;
+}
+
+.relief-total {
+  display: inline-block;
+  margin-inline-start: 12px;
+  color: var(--accent);
+  white-space: nowrap;
+}
+
+.relief-gallery-tools {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: 6px 16px;
+  margin-bottom: 12px;
+}
+
+.relief-gallery-floors,
+.relief-gallery-navigation,
+.relief-gallery-navigation > div {
+  display: flex;
+  align-items: center;
+}
+
+.relief-gallery-floors {
+  gap: 6px;
+  max-width: 100%;
+  overflow-x: auto;
+}
+
+.relief-gallery-floors button,
+.relief-gallery-navigation button {
+  min-height: 40px;
+  padding: 6px 10px;
+  color: var(--ink);
+  background: transparent;
+  border: 1px solid transparent;
+  border-radius: 3px;
+  font-size: 12px;
+  white-space: nowrap;
+}
+
+.relief-gallery-floors button[aria-pressed="true"] {
+  background: #e9e5d9;
+  border-color: var(--line);
+}
+
+.relief-gallery-navigation {
+  justify-content: space-between;
+  gap: 14px;
+}
+
+.relief-gallery-navigation p {
+  color: var(--muted);
+  font-size: 12px;
+  margin: 0;
+}
+
+.relief-gallery-navigation p span {
+  margin-inline: 4px;
+}
+
+.relief-gallery-navigation button {
+  border-color: var(--line);
+  min-width: 72px;
+}
+
+.relief-gallery-navigation button:disabled {
+  opacity: .44;
+}
+
+.relief-gallery-navigation > div {
+  gap: 6px;
 }
 
 .relief-gallery-towers button[aria-pressed="true"],
@@ -246,4 +331,7 @@
   .relief-interpretation { padding: 16px; }
   .relief-gallery-bar { margin-block: 8px 12px; }
   .relief-gallery-strip { margin-top: 8px; }
+  .relief-total { display: block; margin: 4px 0 0; }
+  .relief-gallery-navigation { width: 100%; }
+  .relief-gallery-floors button, .relief-gallery-navigation button { min-height: 44px; }
 }

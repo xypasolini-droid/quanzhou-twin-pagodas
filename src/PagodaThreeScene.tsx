@@ -15,12 +15,12 @@ import { loadReliefAtlas, type ReliefAtlas } from './heritage/reliefAtlas';
 export type DetailView='overview'|'east'|'west'|'eaves'|'base'|'reliefs';
 export type CameraAction={type:'reset'|'left'|'right'|'in'|'out';sequence:number};
 type SculptureFocus={tower:TowerSide;level:number;number:number};
-type Props={progress:number;view:DetailView;action:CameraAction;tower:TowerSide;sculpture?:SculptureFocus;sunlight:'day'|'late';onReady:()=>void;onError:(message:string)=>void};
-export default function PagodaThreeScene({progress,view,action,tower,sculpture,sunlight,onReady,onError}:Props){
-  const mountRef=useRef<HTMLDivElement>(null),state=useRef({progress,view,action,tower,sculpture,sunlight}),callbacks=useRef({onReady,onError});
+type Props={progress:number;view:DetailView;action:CameraAction;tower:TowerSide;sculpture?:SculptureFocus;sunlight:'day'|'late';onReady:()=>void;onError:(message:string)=>void;onInspectRelief?:(id:string)=>void};
+export default function PagodaThreeScene({progress,view,action,tower,sculpture,sunlight,onReady,onError,onInspectRelief}:Props){
+  const mountRef=useRef<HTMLDivElement>(null),state=useRef({progress,view,action,tower,sculpture,sunlight}),callbacks=useRef({onReady,onError,onInspectRelief});
   const [reliefAtlas,setReliefAtlas]=useState<ReliefAtlas|null|undefined>(undefined);
   useEffect(()=>{state.current={progress,view,action,tower,sculpture,sunlight};},[progress,view,action,tower,sculpture,sunlight]);
-  useEffect(()=>{callbacks.current={onReady,onError};},[onReady,onError]);
+  useEffect(()=>{callbacks.current={onReady,onError,onInspectRelief};},[onReady,onError,onInspectRelief]);
   useEffect(()=>{
     const controller=new AbortController();let resource:ReliefAtlas|null=null;
     loadReliefAtlas(controller.signal).then(atlas=>{if(controller.signal.aborted){atlas?.dispose();return;}resource=atlas;setReliefAtlas(atlas);});
@@ -125,6 +125,44 @@ export default function PagodaThreeScene({progress,view,action,tower,sculpture,s
     };
     const ro=new ResizeObserver(resize);ro.observe(mount);resize();
     const interrupt=()=>{transition=false;};controls.addEventListener('start',interrupt);
+    const canvas=renderer.domElement;
+    const photoMesh=builder.meshes.find(mesh=>mesh.name==='heritage-sculpture-photo');
+    const occluders=builder.meshes.filter(mesh=>mesh!==photoMesh);
+    const raycaster=new THREE.Raycaster();
+    const pointer=new THREE.Vector2();
+    let press:{id:number;x:number;y:number}|undefined;
+    const canPick=()=>photoMesh&&state.current.view==='reliefs'&&state.current.progress===1&&callbacks.current.onInspectRelief;
+    const pickStart=(event:PointerEvent)=>{
+      press=event.isPrimary&&event.button===0&&canPick()?{id:event.pointerId,x:event.clientX,y:event.clientY}:undefined;
+    };
+    const movedPastTap=(event:PointerEvent,start:NonNullable<typeof press>)=>Math.hypot(event.clientX-start.x,event.clientY-start.y)>6;
+    const pickMove=(event:PointerEvent)=>{
+      if(press?.id===event.pointerId&&movedPastTap(event,press))press=undefined;
+    };
+    const pickEnd=(event:PointerEvent)=>{
+      const start=press;
+      press=undefined;
+      if(!start||event.pointerId!==start.id||movedPastTap(event,start)||!canPick()||!photoMesh)return;
+      const bounds=canvas.getBoundingClientRect();
+      pointer.set((event.clientX-bounds.left)/bounds.width*2-1,1-(event.clientY-bounds.top)/bounds.height*2);
+      raycaster.setFromCamera(pointer,camera);
+      raycaster.far=Infinity;
+      const hit=raycaster.intersectObject(photoMesh,false)[0];
+      if(hit?.faceIndex==null)return;
+      raycaster.far=hit.distance-.003;
+      if(raycaster.intersectObjects(occluders,false).length)return;
+      const id=builder.reliefPanelIds[Math.floor(hit.faceIndex/2)];
+      if(id){
+        canvas.focus({preventScroll:true});
+        callbacks.current.onInspectRelief?.(id);
+      }
+    };
+    const clearPress=()=>{press=undefined;};
+    canvas.tabIndex=-1;
+    canvas.addEventListener('pointerdown',pickStart);
+    canvas.addEventListener('pointermove',pickMove);
+    canvas.addEventListener('pointerup',pickEnd);
+    canvas.addEventListener('pointercancel',clearPress);
     const contextLost=(e:Event)=>{e.preventDefault();callbacks.current.onError('三维图形连接已中断。请重新加载恢复场景。');};renderer.domElement.addEventListener('webglcontextlost',contextLost);
     builder.progress.value=state.current.progress;renderer.compile(scene,camera);
     const render=(now:number)=>{
@@ -153,7 +191,7 @@ export default function PagodaThreeScene({progress,view,action,tower,sculpture,s
       raf=requestAnimationFrame(render);
     };
     raf=requestAnimationFrame(render);callbacks.current.onReady();
-    return()=>{cancelAnimationFrame(raf);ro.disconnect();controls.removeEventListener('start',interrupt);controls.dispose();renderer.domElement.removeEventListener('webglcontextlost',contextLost);builder.dispose();materialKit.dispose();ground.geometry.dispose();ground.material.dispose();environment.dispose();key.shadow.map?.dispose();ao.dispose();renderPass.dispose();outputPass.dispose();composer.dispose();renderer.dispose();renderer.domElement.remove();};
+    return()=>{cancelAnimationFrame(raf);ro.disconnect();canvas.removeEventListener('pointerdown',pickStart);canvas.removeEventListener('pointermove',pickMove);canvas.removeEventListener('pointerup',pickEnd);canvas.removeEventListener('pointercancel',clearPress);controls.removeEventListener('start',interrupt);controls.dispose();canvas.removeEventListener('webglcontextlost',contextLost);builder.dispose();materialKit.dispose();ground.geometry.dispose();ground.material.dispose();environment.dispose();key.shadow.map?.dispose();ao.dispose();renderPass.dispose();outputPass.dispose();composer.dispose();renderer.dispose();canvas.remove();};
   },[reliefAtlas]);
   return <div ref={mountRef} className="three-scene" aria-label="可旋转的泉州开元寺镇国塔与仁寿塔三维模型"/>;
 }

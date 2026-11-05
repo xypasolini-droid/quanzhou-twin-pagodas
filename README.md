@@ -12,7 +12,7 @@
 
 ![泉州开元寺双塔总览](preview-overview.jpg)
 
-![仁寿塔垂剑武士与全宽控制区](preview-details.jpg)
+![镇国塔南面两尊护法的实拍上塔近景](preview-details.jpg)
 
 ## 运行
 
@@ -36,12 +36,12 @@ npm run dev -- --port 5179 --strictPort
 - 三维场景占据全宽首屏。右上角“全屏观赏”打开浏览器全屏，按 Esc 或点击“退出全屏”返回。
 - 拖动旋转、滚轮缩放；画面上提供同等功能按钮。
 - 切换双塔、仁寿塔、镇国塔、石檐斗拱、人物石刻与须弥塔座视角。
-- 点击“观看营造”播放22秒组装过程；支持暂停、0.5/1/2倍速。
-- 拖动时间轴会自动暂停；点击阶段文字直接查看对应阶段完成状态。
-- “重新营造”从台基开始重演。原来的营造流程保持不变。
-- 日光与斜阳呈现同一石面在不同光线下的冷暖。场景下方“双塔小志”补充寺院沿革、双塔差别、时间线与保护记录。
+- 点击“观看营造”沿22秒时间轴先看仁寿塔落成，再看镇国塔接建。支持暂停及0.5/1/2倍速。
+- 拖动时间轴会暂停。点击西塔或东塔年代可跳入相应营造段，台基、五层和塔刹按钮可定位到各阶段。
+- “重新营造”回到双塔全景，从西塔台基开始重演。
+- 日光与斜阳呈现同一石面在不同光线下的冷暖。右上角“双塔小志”在当前场景中弹出，可切换阅读对象和章节。[查看小志弹窗](docs/qa/history-dialog.jpg)
 - “构造细赏”沿石檐、人物石刻、栏座近观。
-- 打开右上角“石刻图志”，可查看29处实拍、人物形态说明、图录编号和摄影出处。“在塔上查看”定位至相应石板。[查看图志界面](docs/qa/relief-gallery.jpg)
+- “石刻图志”收录39处定位实拍，可按塔和楼层筛选、逐件翻阅。点击“在塔上查看”定位到石板，点塔身的实拍石板可打开对应展签。[查看图志界面](docs/qa/relief-gallery.jpg)
 - 右上角“实景参考与说明”可查看图片、来源与建模范围。
 
 ## 参考与建模范围
@@ -50,20 +50,20 @@ npm run dev -- --port 5179 --strictPort
 
 细部参考：[闽南文化生态保护区《泉州开元寺东西塔风华录》](https://www.mnwhstq.com/bhjg/202406/t20240621_214053.htm)。增加浅浮雕人物的头光、衣褶与持物差异、石栏卷草、檐角铃、石柱分节及塔座线脚。详见 `docs/DETAIL-NOTES.md`。
 
-人物补充资料：[Ecke、Demiéville《刺桐双塔》（1935）扫描本](https://archive.org/details/in.ernet.dli.2015.127766)与可定位现代照片。两塔160处均有独立来源记录：123处有可核对图像（含历史照片与局部残幅），37处主要据文字保守补形。衣冠、手势、持物、承托与从者由逐条记录驱动，未知细节留缺，不随机制造差异。见 [160处逐尊索引](docs/SCULPTURE-CATALOG.md)、[研究方法与缺口](docs/SCULPTURE-RESEARCH.md)及[航拍校核说明](docs/DRONE-REFINEMENT.md)。模型仍是形态概括，不是160尊高精度测绘复原。
+人物补充资料：[Ecke、Demiéville《刺桐双塔》（1935）扫描本](https://archive.org/details/in.ernet.dli.2015.127766)与可定位现代照片。两塔160处均有独立来源记录：126处有可核对图像（含历史照片与局部残幅），34处主要据文字保守补形。衣冠、手势、持物、承托与从者由逐条记录驱动，未知细节留缺，不随机制造差异。见 [160处逐尊索引](docs/SCULPTURE-CATALOG.md)、[研究方法与缺口](docs/SCULPTURE-RESEARCH.md)及[航拍校核说明](docs/DRONE-REFINEMENT.md)。模型仍是形态概括，不是160尊高精度测绘复原。
 
 补充的 [kknews 页面](https://kknews.cc/zh-sg/culture/ag48e6x.html)在本次制作时受站点访问验证阻挡，未取得正文与图片，因此未作为已验证的建模依据。
 
-高度与年代采用[泉州市政府开元寺介绍](https://www.quanzhou.gov.cn/lyb/lytj/rmjdtj/202202/t20220224_2699974.htm)：东塔镇国塔48.27米，1238—1250年；西塔仁寿塔45.06米，1228—1237年。
+高度与年代采用[泉州市政府开元寺介绍](https://www.quanzhou.gov.cn/lyb/lytj/rmjdtj/202202/t20220224_2699974.htm)：东塔镇国塔48.27米，1238—1250年；西塔仁寿塔45.06米，1228—1237年。动画依据年代先西后东，单塔按台基、五层、塔刹演示石构叠筑。构件进场和播放节奏为展陈编排，校核说明见 [历史来源与营造顺序](docs/HISTORY-SOURCES.md)。
 
-双塔间距为并置展陈而缩短。23处石板使用对应实拍校正表面，浅凹凸来自图像明暗，雕刻深度仍为展示性估计。其余石刻保留基于图录的形态模型。
+双塔间距为并置展陈而缩短。62处石板使用对应实拍校正表面，浅凹凸来自图像明暗，雕刻深度仍为展示性估计。其余石刻保留基于图录的形态模型。
 
 选图依据与明细见 `docs/REFERENCE-NOTES.md`，验证结果见 `docs/design/UI-QA-REPORT.md`。
 
 ## 素材与许可
 
 - 代码基于 Hailey 的 [threejs-architecture-effects](https://github.com/lhlGitHub/threejs-architecture-effects)，保留 MIT LICENSE；本项目新增双塔几何、石材材质、相机、界面与交互。
-- [石刻图志照片及塔身图集署名](public/sculptures/ATTRIBUTION.md)。东塔照片为 Vmenkov 摄，CC BY-SA 3.0，西塔照片为 Zhangzhugang 摄，CC BY-SA 4.0。用户航拍用于本地核对，历史图录通过出处链接查阅。
+- [石刻图志照片及塔身图集署名](public/sculptures/ATTRIBUTION.md)。每处实拍标有摄影者、原图与适用的 CC BY-SA 许可。用户航拍用于本地核对，历史图录通过出处链接查阅。
 - `public/references/zhenguo-full.jpg`、`renshou-full.jpg`：摄影 Windmemories，Wikimedia Commons，CC BY-SA 4.0。各原图页面及许可链接见 `public/references/ATTRIBUTION.md`。照片的许可独立于代码 MIT 许可。
 - 搜狐文章图解和闽南文化生态保护区照片用于观察分析，未打包进公开页面资源；网页提供原文链接。
 

@@ -1224,8 +1224,13 @@
     "tower": "west",
     "level": 2,
     "number": 12,
-    "evidence": "text",
+    "evidence": "photo",
     "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Quanzhou_Kaiyuan_Si_20120229-67.jpg",
+        "title": "Zhangzhugang，仁寿塔实拍",
+        "note": "核对原始照片与图录方位，确认为 W-2-12；经裁切及透视校正。"
+      },
       {
         "url": "https://archive.org/download/in.ernet.dli.2015.127766/2015.127766.The-Twin-Pagodas-Of-Zayton_text.pdf#page=35",
         "title": "The Twin Pagodas of Zayton (1935), Iconography: Western Pagoda",
@@ -2776,8 +2781,13 @@
     "tower": "west",
     "level": 4,
     "number": 14,
-    "evidence": "text",
+    "evidence": "photo",
     "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Quanzhou_Kaiyuan_Si_20120229-80.jpg",
+        "title": "Zhangzhugang，仁寿塔实拍",
+        "note": "核对原始照片与图录方位，确认为 W-4-14；经裁切及透视校正。"
+      },
       {
         "url": "https://archive.org/download/in.ernet.dli.2015.127766/2015.127766.The-Twin-Pagodas-Of-Zayton_text.pdf#page=40",
         "title": "The Twin Pagodas of Zayton (1935), Iconography: Western Pagoda",
@@ -2826,8 +2836,13 @@
     "tower": "west",
     "level": 4,
     "number": 15,
-    "evidence": "text",
+    "evidence": "photo",
     "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Quanzhou_Kaiyuan_Si_20120229-80.jpg",
+        "title": "Zhangzhugang，仁寿塔实拍",
+        "note": "核对原始照片与图录方位，确认为 W-4-15；经裁切及透视校正。"
+      },
       {
         "url": "https://archive.org/download/in.ernet.dli.2015.127766/2015.127766.The-Twin-Pagodas-Of-Zayton_text.pdf#page=40",
         "title": "The Twin Pagodas of Zayton (1935), Iconography: Western Pagoda",

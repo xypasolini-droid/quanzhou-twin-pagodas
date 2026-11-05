@@ -1,17 +1,22 @@
 /** Historical text for the exhibition sidebar. Every factual group has source IDs.
  * Observation prompts are reading aids, not a claim of survey-level reconstruction.
  */
-export type HistorySourceId = 'qz-history' | 'qz-heritage' | 'qz-english' | 'mnwh-detail' | 'unesco' | 'fz-earthquake' | 'zayton-1935';
+export type HistorySourceId = 'qz-history' | 'qz-heritage' | 'qz-english' | 'qz-buddhism' | 'qz-gazetteer' | 'mnwh-detail' | 'unesco' | 'fz-earthquake' | 'zayton-1935';
 export type CitedText = { title: string; body: string; sourceIds: HistorySourceId[] };
+
+/** The two display intervals share the same time budget, independent of their historical duration. */
+export const WEST_BUILD_END = .5;
 
 export const HISTORY_SOURCES: { id: HistorySourceId; title: string; publisher: string; url: string }[] = [
   { id: 'qz-history', title: '开元寺 · 重点文物', publisher: '泉州市人民政府', url: 'https://www.quanzhou.gov.cn/lyb/lswh/zdww/201510/t20151029_183313.htm' },
   { id: 'qz-heritage', title: '开元寺 · 世界遗产专题', publisher: '泉州市人民政府', url: 'https://www.quanzhou.gov.cn/lyb/lytj/rmjdtj/202202/t20220224_2699974.htm' },
   { id: 'qz-english', title: 'Kaiyuan Temple', publisher: '泉州市人民政府', url: 'https://www.quanzhou.gov.cn/gastronomy/en/about/unesco-heritage/202412/t20241228_3124001.htm' },
+  { id: 'qz-buddhism', title: '佛教 · 宋代双塔营建记载', publisher: '泉州市人民政府', url: 'https://www.quanzhou.gov.cn/lyb/lswh/zjwh/201609/t20160913_372277.htm' },
   { id: 'mnwh-detail', title: '泉州开元寺东西塔风华录', publisher: '闽南文化生态保护区', url: 'https://www.mnwhstq.com/bhjg/202406/t20240621_214053.htm' },
   { id: 'unesco', title: '泉州：宋元中国的世界海洋商贸中心', publisher: 'UNESCO 世界遗产中心', url: 'https://whc.unesco.org/en/list/1561/' },
   { id: 'fz-earthquake', title: '1604年泉州近海地震', publisher: '福州市防震减灾中心', url: 'https://www.fuzhou.gov.cn/zgfzzt/fzjzzl/fzjzzl/kpzs/201609/t20160930_212637.htm' },
   { id: 'zayton-1935', title: 'The Twin Pagodas of Zayton（1935）', publisher: 'G. Ecke / P. Demiéville，Internet Archive 扫描本', url: 'https://archive.org/details/in.ernet.dli.2015.127766' },
+  { id: 'qz-gazetteer', title: '《泉州府志》卷二十四 · 寺观宫庙类', publisher: '识典古籍', url: 'https://www.shidianguji.com/book/NGJ89241200000147187156/chapter/1lqjd076urvvo' },
 ];
 
 export const TEMPLE_STORY: CitedText[] = [
@@ -46,8 +51,8 @@ export const TOWER_HISTORY = {
 export const HISTORY_TIMELINE = [
   { year: '686 / 738', title: '建寺 · 定名', body: '唐代建寺，后以“开元”为名。', sourceIds: ['qz-history'] },
   { year: '865 / 916', title: '双塔的前身', body: '东、西两塔先后从木塔起步。', sourceIds: ['qz-history'] },
-  { year: '1228—1237', title: '仁寿塔石构落成', body: '西塔改建为今天的五层石塔。', sourceIds: ['qz-history', 'qz-heritage'] },
-  { year: '1238—1250', title: '镇国塔石构落成', body: '东塔接续营建，双塔相望。', sourceIds: ['qz-history', 'qz-heritage'] },
+  { year: '1228—1237', title: '仁寿塔改建为石塔', body: '僧自证于绍定元年主持改建，嘉熙元年落成。西塔的现存石构先于东塔。', sourceIds: ['qz-buddhism', 'qz-heritage'] },
+  { year: '1238—1250', title: '镇国塔接续营建', body: '嘉熙二年，本洪主持改建石塔首层。法权接建至第四层，天锡续建第五层。淳祐十年落成。', sourceIds: ['qz-gazetteer', 'qz-buddhism', 'qz-heritage'] },
   { year: '2021', title: '列入世界遗产', body: '开元寺随“泉州：宋元中国的世界海洋商贸中心”列入名录。', sourceIds: ['unesco', 'qz-english'] },
 ] satisfies { year: string; title: string; body: string; sourceIds: HistorySourceId[] }[];
 

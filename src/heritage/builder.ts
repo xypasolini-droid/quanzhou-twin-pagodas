@@ -16,6 +16,7 @@ export class HeritageBuilder {
   private transform = new THREE.Object3D();
   readonly progress = {value:0};
   readonly meshes: THREE.Mesh[] = [];
+  readonly reliefPanelIds: string[] = [];
   private depths: THREE.MeshDepthMaterial[] = [];
   pieces = 0;
   constructor(readonly materials: Record<SurfaceName,THREE.MeshStandardMaterial>,readonly reliefAtlas:ReliefAtlas|null=null) {}

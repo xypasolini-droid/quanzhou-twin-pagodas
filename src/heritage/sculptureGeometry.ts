@@ -678,6 +678,8 @@ export function renderSculpture(q:SculptureSurface, placement:SculpturePlacement
     const z=radius+.061;
     const p:Point=[u*Math.cos(a)+z*Math.sin(a),y+.86*s,z*Math.cos(a)-u*Math.sin(a)];
     q.add(geometry,"sculpture-photo",time+.002,p,a,{s:[s,s,s],shade:1,tint:[1,1,1],lift:.15,duration:.012});
+    // The photo batch preserves this order and has two triangles per panel.
+    q.b.reliefPanelIds.push(record.id);
     return;
   }
   panel(c);
