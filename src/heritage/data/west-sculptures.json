@@ -1,0 +1,3639 @@
+[
+  {
+    "id": "W-1-01",
+    "tower": "west",
+    "level": 1,
+    "number": 1,
+    "evidence": "photo",
+    "sources": [
+      {
+        "url": "https://archive.org/download/in.ernet.dli.2015.127766/2015.127766.The-Twin-Pagodas-Of-Zayton_text.pdf#page=110",
+        "title": "The Twin Pagodas of Zayton (1935), plate 13",
+        "pdfPage": 110,
+        "plate": "13",
+        "note": "实际查看历史图版中的该尊；不是当下保存状态。"
+      },
+      {
+        "url": "https://archive.org/download/in.ernet.dli.2015.127766/2015.127766.The-Twin-Pagodas-Of-Zayton_text.pdf#page=32",
+        "title": "The Twin Pagodas of Zayton (1935), Iconography: Western Pagoda",
+        "pdfPage": 32,
+        "note": "逐条读取原著的形制描述；传统人物归名不作为无争议身份。"
+      }
+    ],
+    "description": "全身甲胄，横于胸前的手臂与向右下斜出的长剑形成交叠。",
+    "body": "armoured",
+    "head": "cap",
+    "halo": "unknown",
+    "pose": "frontal",
+    "hands": {
+      "left": "waist",
+      "right": "chest"
+    },
+    "objects": [
+      {
+        "kind": "sword",
+        "side": "center",
+        "orientation": "diagonal"
+      }
+    ],
+    "support": "unknown",
+    "companions": [],
+    "details": [
+      "分腿站立",
+      "裙甲分层",
+      "背后飘带",
+      "剑尖朝观察者右下",
+      "靴",
+      "披带"
+    ]
+  },
+  {
+    "id": "W-1-02",
+    "tower": "west",
+    "level": 1,
+    "number": 2,
+    "evidence": "photo",
+    "sources": [
+      {
+        "url": "https://archive.org/download/in.ernet.dli.2015.127766/2015.127766.The-Twin-Pagodas-Of-Zayton_text.pdf#page=110",
+        "title": "The Twin Pagodas of Zayton (1935), plate 13",
+        "pdfPage": 110,
+        "plate": "13",
+        "note": "实际查看历史图版中的该尊；不是当下保存状态。"
+      },
+      {
+        "url": "https://archive.org/download/in.ernet.dli.2015.127766/2015.127766.The-Twin-Pagodas-Of-Zayton_text.pdf#page=32",
+        "title": "The Twin Pagodas of Zayton (1935), Iconography: Western Pagoda",
+        "pdfPage": 32,
+        "note": "逐条读取原著的形制描述；传统人物归名不作为无争议身份。"
+      }
+    ],
+    "description": "甲胄立像，双手在腰腹处持剑，剑身朝观察者右上。",
+    "body": "armoured",
+    "head": "cap",
+    "halo": "unknown",
+    "pose": "frontal",
+    "hands": {
+      "left": "holding",
+      "right": "holding"
+    },
+    "objects": [
+      {
+        "kind": "sword",
+        "side": "right",
+        "orientation": "diagonal"
+      }
+    ],
+    "support": "unknown",
+    "companions": [],
+    "details": [
+      "甲片与长靴",
+      "剑尖朝观察者右上",
+      "头后曲线为披带，不能直接当完整头光",
+      "靴",
+      "披带"
+    ]
+  },
+  {
+    "id": "W-1-03",
+    "tower": "west",
+    "level": 1,
+    "number": 3,
+    "evidence": "photo",
+    "sources": [
+      {
+        "url": "https://archive.org/download/in.ernet.dli.2015.127766/2015.127766.The-Twin-Pagodas-Of-Zayton_text.pdf#page=110",
+        "title": "The Twin Pagodas of Zayton (1935), plate 13",
+        "pdfPage": 110,
+        "plate": "13",
+        "note": "实际查看历史图版中的该尊；不是当下保存状态。"
+      },
+      {
+        "url": "https://archive.org/download/in.ernet.dli.2015.127766/2015.127766.The-Twin-Pagodas-Of-Zayton_text.pdf#page=32",
+        "title": "The Twin Pagodas of Zayton (1935), Iconography: Western Pagoda",
+        "pdfPage": 32,
+        "note": "逐条读取原著的形制描述；传统人物归名不作为无争议身份。"
+      }
+    ],
+    "description": "无帽披袍人物带圆头光，一只手伸向身旁虎头。",
+    "body": "robe",
+    "head": "bare",
+    "halo": "round",
+    "pose": "frontal",
+    "hands": {
+      "left": "down",
+      "right": "chest"
+    },
+    "objects": [],
+    "support": "unknown",
+    "companions": [
+      "tiger"
+    ],
+    "details": [
+      "左侧虎",
+      "人物自身右手即观察者左手触虎头",
+      "耳环",
+      "长袍下摆"
+    ]
+  },
+  {
+    "id": "W-1-04",
+    "tower": "west",
+    "level": 1,
+    "number": 4,
+    "evidence": "photo",
+    "sources": [
+      {
+        "url": "https://archive.org/download/in.ernet.dli.2015.127766/2015.127766.The-Twin-Pagodas-Of-Zayton_text.pdf#page=110",
+        "title": "The Twin Pagodas of Zayton (1935), plate 13",
+        "pdfPage": 110,
+        "plate": "13",
+        "note": "实际查看历史图版中的该尊；不是当下保存状态。"
+      },
+      {
+        "url": "https://archive.org/download/in.ernet.dli.2015.127766/2015.127766.The-Twin-Pagodas-Of-Zayton_text.pdf#page=32",
+        "title": "The Twin Pagodas of Zayton (1935), Iconography: Western Pagoda",
+        "pdfPage": 32,
+        "note": "逐条读取原著的形制描述；传统人物归名不作为无争议身份。"
+      }
+    ],
+    "description": "带圆头光的披袍人物，双手在胸前持带小像的如意形器物。",
+    "body": "robe",
+    "head": "bare",
+    "halo": "round",
+    "pose": "frontal",
+    "hands": {
+      "left": "holding",
+      "right": "holding"
+    },
+    "objects": [
+      {
+        "kind": "ruyi",
+        "side": "center",
+        "orientation": "diagonal"
+      }
+    ],
+    "support": "unknown",
+    "companions": [],
+    "details": [
+      "如意头部有小佛像，文字明确但旧扫描细节有限",
+      "宽袖"
+    ]
+  },
+  {
+    "id": "W-1-05",
+    "tower": "west",
+    "level": 1,
+    "number": 5,
+    "evidence": "photo",
+    "sources": [
+      {
+        "url": "https://archive.org/download/in.ernet.dli.2015.127766/2015.127766.The-Twin-Pagodas-Of-Zayton_text.pdf#page=111",
+        "title": "The Twin Pagodas of Zayton (1935), plate 14",
+        "pdfPage": 111,
+        "plate": "14",
+        "note": "实际查看历史图版中的该尊；不是当下保存状态。"
+      },
+      {
+        "url": "https://archive.org/download/in.ernet.dli.2015.127766/2015.127766.The-Twin-Pagodas-Of-Zayton_text.pdf#page=33",
+        "title": "The Twin Pagodas of Zayton (1935), Iconography: Western Pagoda",
+        "pdfPage": 33,
+        "note": "逐条读取原著的形制描述；传统人物归名不作为无争议身份。"
+      }
+    ],
+    "description": "闭口持杵人物，腹前交叠手臂，长杵斜向观察者右上。",
+    "body": "bare",
+    "head": "topknot",
+    "halo": "unknown",
+    "pose": "frontal",
+    "hands": {
+      "left": "holding",
+      "right": "holding"
+    },
+    "objects": [
+      {
+        "kind": "vajra",
+        "side": "right",
+        "orientation": "diagonal"
+      }
+    ],
+    "support": "unknown",
+    "companions": [],
+    "details": [
+      "裸露胸腹与前臂",
+      "下身裙褶",
+      "闭口",
+      "杵头朝观察者右上"
+    ]
+  },
+  {
+    "id": "W-1-06",
+    "tower": "west",
+    "level": 1,
+    "number": 6,
+    "evidence": "photo",
+    "sources": [
+      {
+        "url": "https://archive.org/download/in.ernet.dli.2015.127766/2015.127766.The-Twin-Pagodas-Of-Zayton_text.pdf#page=111",
+        "title": "The Twin Pagodas of Zayton (1935), plate 14",
+        "pdfPage": 111,
+        "plate": "14",
+        "note": "实际查看历史图版中的该尊；不是当下保存状态。"
+      },
+      {
+        "url": "https://archive.org/download/in.ernet.dli.2015.127766/2015.127766.The-Twin-Pagodas-Of-Zayton_text.pdf#page=33",
+        "title": "The Twin Pagodas of Zayton (1935), Iconography: Western Pagoda",
+        "pdfPage": 33,
+        "note": "逐条读取原著的形制描述；传统人物归名不作为无争议身份。"
+      }
+    ],
+    "description": "开口持杵人物，一臂高举、一臂跨过腰前，下身姿态外展。",
+    "body": "bare",
+    "head": "topknot",
+    "halo": "unknown",
+    "pose": "frontal",
+    "hands": {
+      "left": "raised",
+      "right": "waist"
+    },
+    "objects": [
+      {
+        "kind": "vajra",
+        "side": "left",
+        "orientation": "diagonal"
+      }
+    ],
+    "support": "unknown",
+    "companions": [],
+    "details": [
+      "裸露胸腹",
+      "开口",
+      "抬臂在观察者左",
+      "原图高举手局部接近裁边"
+    ]
+  },
+  {
+    "id": "W-1-07",
+    "tower": "west",
+    "level": 1,
+    "number": 7,
+    "evidence": "photo",
+    "sources": [
+      {
+        "url": "https://archive.org/download/in.ernet.dli.2015.127766/2015.127766.The-Twin-Pagodas-Of-Zayton_text.pdf#page=111",
+        "title": "The Twin Pagodas of Zayton (1935), plate 14",
+        "pdfPage": 111,
+        "plate": "14",
+        "note": "实际查看历史图版中的该尊；不是当下保存状态。"
+      },
+      {
+        "url": "https://archive.org/download/in.ernet.dli.2015.127766/2015.127766.The-Twin-Pagodas-Of-Zayton_text.pdf#page=33",
+        "title": "The Twin Pagodas of Zayton (1935), Iconography: Western Pagoda",
+        "pdfPage": 33,
+        "note": "逐条读取原著的形制描述；传统人物归名不作为无争议身份。"
+      }
+    ],
+    "description": "圆头光人物披单肩衣，胸与一侧前臂外露，双手持卷与卷带。",
+    "body": "robe",
+    "head": "bare",
+    "halo": "round",
+    "pose": "frontal",
+    "hands": {
+      "left": "holding",
+      "right": "holding"
+    },
+    "objects": [
+      {
+        "kind": "scroll",
+        "side": "center",
+        "orientation": "diagonal"
+      }
+    ],
+    "support": "unknown",
+    "companions": [],
+    "details": [
+      "胸部外露",
+      "细卷带",
+      "凉鞋",
+      "持卷的左右分配不清"
+    ]
+  },
+  {
+    "id": "W-1-08",
+    "tower": "west",
+    "level": 1,
+    "number": 8,
+    "evidence": "photo",
+    "sources": [
+      {
+        "url": "https://archive.org/download/in.ernet.dli.2015.127766/2015.127766.The-Twin-Pagodas-Of-Zayton_text.pdf#page=111",
+        "title": "The Twin Pagodas of Zayton (1935), plate 14",
+        "pdfPage": 111,
+        "plate": "14",
+        "note": "实际查看历史图版中的该尊；不是当下保存状态。"
+      },
+      {
+        "url": "https://archive.org/download/in.ernet.dli.2015.127766/2015.127766.The-Twin-Pagodas-Of-Zayton_text.pdf#page=33",
+        "title": "The Twin Pagodas of Zayton (1935), Iconography: Western Pagoda",
+        "pdfPage": 33,
+        "note": "逐条读取原著的形制描述；传统人物归名不作为无争议身份。"
+      }
+    ],
+    "description": "圆头光长袍人物，胸前有念珠和拂尘，宽袖垂于身旁。",
+    "body": "robe",
+    "head": "bare",
+    "halo": "round",
+    "pose": "frontal",
+    "hands": {
+      "left": "holding",
+      "right": "holding"
+    },
+    "objects": [
+      {
+        "kind": "rosary",
+        "side": "right",
+        "orientation": "vertical"
+      },
+      {
+        "kind": "whisk",
+        "side": "left",
+        "orientation": "diagonal"
+      }
+    ],
+    "support": "unknown",
+    "companions": [],
+    "details": [
+      "原文自身左手念珠、右手拂尘，已转为观察者左右",
+      "汉式长袍"
+    ]
+  },
+  {
+    "id": "W-1-09",
+    "tower": "west",
+    "level": 1,
+    "number": 9,
+    "evidence": "photo",
+    "sources": [
+      {
+        "url": "https://archive.org/download/in.ernet.dli.2015.127766/2015.127766.The-Twin-Pagodas-Of-Zayton_text.pdf#page=112",
+        "title": "The Twin Pagodas of Zayton (1935), plate 15",
+        "pdfPage": 112,
+        "plate": "15",
+        "note": "实际查看历史图版中的该尊；不是当下保存状态。"
+      },
+      {
+        "url": "https://archive.org/download/in.ernet.dli.2015.127766/2015.127766.The-Twin-Pagodas-Of-Zayton_text.pdf#page=33",
+        "title": "The Twin Pagodas of Zayton (1935), Iconography: Western Pagoda",
+        "pdfPage": 33,
+        "note": "逐条读取原著的形制描述；传统人物归名不作为无争议身份。"
+      }
+    ],
+    "description": "甲胄人物双臂在腰前持长剑，剑尖朝观察者左上。",
+    "body": "armoured",
+    "head": "cap",
+    "halo": "unknown",
+    "pose": "frontal",
+    "hands": {
+      "left": "holding",
+      "right": "holding"
+    },
+    "objects": [
+      {
+        "kind": "sword",
+        "side": "left",
+        "orientation": "diagonal"
+      }
+    ],
+    "support": "unknown",
+    "companions": [],
+    "details": [
+      "长剑左上斜",
+      "披带卷起",
+      "长靴分立",
+      "靴",
+      "披带"
+    ]
+  },
+  {
+    "id": "W-1-10",
+    "tower": "west",
+    "level": 1,
+    "number": 10,
+    "evidence": "photo",
+    "sources": [
+      {
+        "url": "https://archive.org/download/in.ernet.dli.2015.127766/2015.127766.The-Twin-Pagodas-Of-Zayton_text.pdf#page=112",
+        "title": "The Twin Pagodas of Zayton (1935), plate 15",
+        "pdfPage": 112,
+        "plate": "15",
+        "note": "实际查看历史图版中的该尊；不是当下保存状态。"
+      },
+      {
+        "url": "https://archive.org/download/in.ernet.dli.2015.127766/2015.127766.The-Twin-Pagodas-Of-Zayton_text.pdf#page=33",
+        "title": "The Twin Pagodas of Zayton (1935), Iconography: Western Pagoda",
+        "pdfPage": 33,
+        "note": "逐条读取原著的形制描述；传统人物归名不作为无争议身份。"
+      }
+    ],
+    "description": "甲胄人物持长剑横斜过腰胸，剑尖朝观察者右上。",
+    "body": "armoured",
+    "head": "cap",
+    "halo": "unknown",
+    "pose": "frontal",
+    "hands": {
+      "left": "holding",
+      "right": "holding"
+    },
+    "objects": [
+      {
+        "kind": "sword",
+        "side": "right",
+        "orientation": "diagonal"
+      }
+    ],
+    "support": "unknown",
+    "companions": [],
+    "details": [
+      "长剑右上斜",
+      "头部侧翼与披带",
+      "裙甲宽",
+      "靴",
+      "披带"
+    ]
+  },
+  {
+    "id": "W-1-11",
+    "tower": "west",
+    "level": 1,
+    "number": 11,
+    "evidence": "photo",
+    "sources": [
+      {
+        "url": "https://archive.org/download/in.ernet.dli.2015.127766/2015.127766.The-Twin-Pagodas-Of-Zayton_text.pdf#page=112",
+        "title": "The Twin Pagodas of Zayton (1935), plate 15",
+        "pdfPage": 112,
+        "plate": "15",
+        "note": "实际查看历史图版中的该尊；不是当下保存状态。"
+      },
+      {
+        "url": "https://archive.org/download/in.ernet.dli.2015.127766/2015.127766.The-Twin-Pagodas-Of-Zayton_text.pdf#page=33",
+        "title": "The Twin Pagodas of Zayton (1935), Iconography: Western Pagoda",
+        "pdfPage": 33,
+        "note": "逐条读取原著的形制描述；传统人物归名不作为无争议身份。"
+      }
+    ],
+    "description": "圆头光宽袍人物一手抬到肩侧，另一手在腹前，钟铃为原著明确持物。",
+    "body": "robe",
+    "head": "bare",
+    "halo": "round",
+    "pose": "lean-right",
+    "hands": {
+      "left": "raised",
+      "right": "waist"
+    },
+    "objects": [
+      {
+        "kind": "bell",
+        "side": "left",
+        "orientation": "unknown"
+      }
+    ],
+    "support": "unknown",
+    "companions": [],
+    "details": [
+      "身体向观察者右偏",
+      "钟铃细形在扫描中不清，物类取自正文",
+      "衣摆褶线多而浅"
+    ]
+  },
+  {
+    "id": "W-1-12",
+    "tower": "west",
+    "level": 1,
+    "number": 12,
+    "evidence": "photo",
+    "sources": [
+      {
+        "url": "https://archive.org/download/in.ernet.dli.2015.127766/2015.127766.The-Twin-Pagodas-Of-Zayton_text.pdf#page=112",
+        "title": "The Twin Pagodas of Zayton (1935), plate 15",
+        "pdfPage": 112,
+        "plate": "15",
+        "note": "实际查看历史图版中的该尊；不是当下保存状态。"
+      },
+      {
+        "url": "https://archive.org/download/in.ernet.dli.2015.127766/2015.127766.The-Twin-Pagodas-Of-Zayton_text.pdf#page=33",
+        "title": "The Twin Pagodas of Zayton (1935), Iconography: Western Pagoda",
+        "pdfPage": 33,
+        "note": "逐条读取原著的形制描述；传统人物归名不作为无争议身份。"
+      }
+    ],
+    "description": "圆头光披袍人物弯臂递钱，身旁有一个伸手的小童。",
+    "body": "robe",
+    "head": "bare",
+    "halo": "round",
+    "pose": "frontal",
+    "hands": {
+      "left": "down",
+      "right": "holding"
+    },
+    "objects": [
+      {
+        "kind": "other",
+        "side": "right",
+        "orientation": "vertical"
+      }
+    ],
+    "support": "unknown",
+    "companions": [
+      "child"
+    ],
+    "details": [
+      "左侧童子",
+      "other 为钱串",
+      "原文自身左手持钱串、右手递钱，已换算",
+      "童子背后手中另藏钱，细节只据文字"
+    ]
+  },
+  {
+    "id": "W-1-13",
+    "tower": "west",
+    "level": 1,
+    "number": 13,
+    "evidence": "photo",
+    "sources": [
+      {
+        "url": "https://archive.org/download/in.ernet.dli.2015.127766/2015.127766.The-Twin-Pagodas-Of-Zayton_text.pdf#page=120",
+        "title": "The Twin Pagodas of Zayton (1935), plate 20",
+        "pdfPage": 120,
+        "plate": "20",
+        "note": "实际查看历史图版中的该尊；不是当下保存状态。"
+      },
+      {
+        "url": "https://archive.org/download/in.ernet.dli.2015.127766/2015.127766.The-Twin-Pagodas-Of-Zayton_text.pdf#page=33",
+        "title": "The Twin Pagodas of Zayton (1935), Iconography: Western Pagoda",
+        "pdfPage": 33,
+        "note": "逐条读取原著的形制描述；传统人物归名不作为无争议身份。"
+      }
+    ],
+    "description": "戴盔甲胄人物持长柄戟形兵器，腰前手臂与裙甲叠压。",
+    "body": "armoured",
+    "head": "cap",
+    "halo": "unknown",
+    "pose": "frontal",
+    "hands": {
+      "left": "holding",
+      "right": "chest"
+    },
+    "objects": [
+      {
+        "kind": "staff",
+        "side": "center",
+        "orientation": "unknown"
+      }
+    ],
+    "support": "unknown",
+    "companions": [],
+    "details": [
+      "staff 表示长柄戟，不能渲染为僧杖",
+      "兵器锋端在扫描不清",
+      "头盔与甲胄均有正文支持",
+      "头盔",
+      "长柄戟"
+    ]
+  },
+  {
+    "id": "W-1-14",
+    "tower": "west",
+    "level": 1,
+    "number": 14,
+    "evidence": "photo",
+    "sources": [
+      {
+        "url": "https://archive.org/download/in.ernet.dli.2015.127766/2015.127766.The-Twin-Pagodas-Of-Zayton_text.pdf#page=120",
+        "title": "The Twin Pagodas of Zayton (1935), plate 20",
+        "pdfPage": 120,
+        "plate": "20",
+        "note": "实际查看历史图版中的该尊；不是当下保存状态。"
+      },
+      {
+        "url": "https://archive.org/download/in.ernet.dli.2015.127766/2015.127766.The-Twin-Pagodas-Of-Zayton_text.pdf#page=33",
+        "title": "The Twin Pagodas of Zayton (1935), Iconography: Western Pagoda",
+        "pdfPage": 33,
+        "note": "逐条读取原著的形制描述；传统人物归名不作为无争议身份。"
+      }
+    ],
+    "description": "戴兽首形盔的甲胄人物，长剑经过身前，披带弯向两侧。",
+    "body": "armoured",
+    "head": "cap",
+    "halo": "unknown",
+    "pose": "frontal",
+    "hands": {
+      "left": "holding",
+      "right": "holding"
+    },
+    "objects": [
+      {
+        "kind": "sword",
+        "side": "center",
+        "orientation": "unknown"
+      }
+    ],
+    "support": "unknown",
+    "companions": [],
+    "details": [
+      "狮头盔为正文记录",
+      "粗厚裙甲",
+      "长剑具体尖端被高反差削弱",
+      "头盔",
+      "披带"
+    ]
+  },
+  {
+    "id": "W-1-15",
+    "tower": "west",
+    "level": 1,
+    "number": 15,
+    "evidence": "photo",
+    "sources": [
+      {
+        "url": "https://archive.org/download/in.ernet.dli.2015.127766/2015.127766.The-Twin-Pagodas-Of-Zayton_text.pdf#page=120",
+        "title": "The Twin Pagodas of Zayton (1935), plate 20",
+        "pdfPage": 120,
+        "plate": "20",
+        "note": "实际查看历史图版中的该尊；不是当下保存状态。"
+      },
+      {
+        "url": "https://archive.org/download/in.ernet.dli.2015.127766/2015.127766.The-Twin-Pagodas-Of-Zayton_text.pdf#page=34",
+        "title": "The Twin Pagodas of Zayton (1935), Iconography: Western Pagoda",
+        "pdfPage": 34,
+        "note": "逐条读取原著的形制描述；传统人物归名不作为无争议身份。"
+      }
+    ],
+    "description": "圆头光披袍人物持钵与枝条，两旁各有一名童子。",
+    "body": "robe",
+    "head": "hood",
+    "halo": "round",
+    "pose": "frontal",
+    "hands": {
+      "left": "holding",
+      "right": "holding"
+    },
+    "objects": [
+      {
+        "kind": "bowl",
+        "side": "left",
+        "orientation": "horizontal"
+      },
+      {
+        "kind": "flower",
+        "side": "right",
+        "orientation": "vertical"
+      }
+    ],
+    "support": "unknown",
+    "companions": [
+      "child"
+    ],
+    "details": [
+      "左右各一童子",
+      "左侧童子持瓶，右侧童子持锡杖",
+      "钵在人物自身右手即观察者左",
+      "flower 表示柳枝，枝端云和塔/莲座解释不确定",
+      "头肩有罩帽",
+      "双童子",
+      "左侧童子",
+      "右侧童子",
+      "柳枝"
+    ]
+  },
+  {
+    "id": "W-1-16",
+    "tower": "west",
+    "level": 1,
+    "number": 16,
+    "evidence": "photo",
+    "sources": [
+      {
+        "url": "https://archive.org/download/in.ernet.dli.2015.127766/2015.127766.The-Twin-Pagodas-Of-Zayton_text.pdf#page=120",
+        "title": "The Twin Pagodas of Zayton (1935), plate 20",
+        "pdfPage": 120,
+        "plate": "20",
+        "note": "实际查看历史图版中的该尊；不是当下保存状态。"
+      },
+      {
+        "url": "https://archive.org/download/in.ernet.dli.2015.127766/2015.127766.The-Twin-Pagodas-Of-Zayton_text.pdf#page=34",
+        "title": "The Twin Pagodas of Zayton (1935), Iconography: Western Pagoda",
+        "pdfPage": 34,
+        "note": "逐条读取原著的形制描述；传统人物归名不作为无争议身份。"
+      }
+    ],
+    "description": "裸胸披衣人物带圆头光，一侧举着有火焰形轮廓的钵，另手持珠。",
+    "body": "bare",
+    "head": "bare",
+    "halo": "round",
+    "pose": "lean-left",
+    "hands": {
+      "left": "holding",
+      "right": "raised"
+    },
+    "objects": [
+      {
+        "kind": "bowl",
+        "side": "right",
+        "orientation": "horizontal"
+      },
+      {
+        "kind": "pearl",
+        "side": "left",
+        "orientation": "vertical"
+      }
+    ],
+    "support": "unknown",
+    "companions": [],
+    "details": [
+      "耳环",
+      "观察者右侧钵上火焰",
+      "龙仅为原作者推测，未加入从者",
+      "腹部外露"
+    ]
+  },
+  {
+    "id": "W-2-01",
+    "tower": "west",
+    "level": 2,
+    "number": 1,
+    "evidence": "photo",
+    "sources": [
+      {
+        "url": "https://archive.org/download/in.ernet.dli.2015.127766/2015.127766.The-Twin-Pagodas-Of-Zayton_text.pdf#page=121",
+        "title": "The Twin Pagodas of Zayton (1935), plate 22",
+        "pdfPage": 121,
+        "plate": "22",
+        "note": "实际查看历史图版中的该尊；不是当下保存状态。"
+      },
+      {
+        "url": "https://archive.org/download/in.ernet.dli.2015.127766/2015.127766.The-Twin-Pagodas-Of-Zayton_text.pdf#page=34",
+        "title": "The Twin Pagodas of Zayton (1935), Iconography: Western Pagoda",
+        "pdfPage": 34,
+        "note": "逐条读取原著的形制描述；传统人物归名不作为无争议身份。"
+      }
+    ],
+    "description": "短袍宽袖人物向两侧展开手臂，头与躯干略向观察者左倾。",
+    "body": "short-robe",
+    "head": "unknown",
+    "halo": "unknown",
+    "pose": "lean-left",
+    "hands": {
+      "left": "open",
+      "right": "raised"
+    },
+    "objects": [],
+    "support": "unknown",
+    "companions": [],
+    "details": [
+      "衣长到膝附近",
+      "蓬散发际",
+      "左右手具体持物未辨，不硬配书卷或念珠"
+    ]
+  },
+  {
+    "id": "W-2-02",
+    "tower": "west",
+    "level": 2,
+    "number": 2,
+    "evidence": "photo",
+    "sources": [
+      {
+        "url": "https://archive.org/download/in.ernet.dli.2015.127766/2015.127766.The-Twin-Pagodas-Of-Zayton_text.pdf#page=121",
+        "title": "The Twin Pagodas of Zayton (1935), plate 22",
+        "pdfPage": 121,
+        "plate": "22",
+        "note": "实际查看历史图版中的该尊；不是当下保存状态。"
+      },
+      {
+        "url": "https://archive.org/download/in.ernet.dli.2015.127766/2015.127766.The-Twin-Pagodas-Of-Zayton_text.pdf#page=34",
+        "title": "The Twin Pagodas of Zayton (1935), Iconography: Western Pagoda",
+        "pdfPage": 34,
+        "note": "逐条读取原著的形制描述；传统人物归名不作为无争议身份。"
+      }
+    ],
+    "description": "齐肩发短袍人物，一手抬起，另一手持长扫帚形物。",
+    "body": "short-robe",
+    "head": "unknown",
+    "halo": "unknown",
+    "pose": "frontal",
+    "hands": {
+      "left": "raised",
+      "right": "holding"
+    },
+    "objects": [
+      {
+        "kind": "broom",
+        "side": "right",
+        "orientation": "vertical"
+      }
+    ],
+    "support": "unknown",
+    "companions": [],
+    "details": [
+      "宽袖",
+      "下摆到膝",
+      "观察者右侧长扫帚",
+      "齐肩发不等同罩帽"
+    ]
+  },
+  {
+    "id": "W-2-03",
+    "tower": "west",
+    "level": 2,
+    "number": 3,
+    "evidence": "photo",
+    "sources": [
+      {
+        "url": "https://www.mnwhstq.com/bhjg/202406/t20240621_214053.htm",
+        "title": "泉州开元寺东西塔风华录（2024-06-21）",
+        "note": "现代图注：哼将（西塔二层）；与原著 W II 3 闭口、全甲持杵特征对应；已实际查看原网页的该尊照片。发表日期不是拍摄日期。"
+      },
+      {
+        "url": "https://archive.org/download/in.ernet.dli.2015.127766/2015.127766.The-Twin-Pagodas-Of-Zayton_text.pdf#page=34",
+        "title": "The Twin Pagodas of Zayton (1935), Iconography: Western Pagoda",
+        "pdfPage": 34,
+        "note": "逐条读取原著的形制描述；传统人物归名不作为无争议身份。"
+      }
+    ],
+    "description": "闭口甲胄持杵人物，两手在腹前交握，杵头伸向观察者右上。",
+    "body": "armoured",
+    "head": "cap",
+    "halo": "unknown",
+    "pose": "lean-left",
+    "hands": {
+      "left": "holding",
+      "right": "holding"
+    },
+    "objects": [
+      {
+        "kind": "vajra",
+        "side": "right",
+        "orientation": "diagonal"
+      }
+    ],
+    "support": "unknown",
+    "companions": [],
+    "details": [
+      "闭口",
+      "甲片肩罩",
+      "头盔",
+      "杵头朝观察者右上",
+      "长靴分腿站立",
+      "现代图注只给二层哼将，编号以原著闭口持杵条目对应",
+      "靴",
+      "披带"
+    ]
+  },
+  {
+    "id": "W-2-04",
+    "tower": "west",
+    "level": 2,
+    "number": 4,
+    "evidence": "photo",
+    "sources": [
+      {
+        "url": "https://www.mnwhstq.com/bhjg/202406/t20240621_214053.htm",
+        "title": "泉州开元寺东西塔风华录（2024-06-21）",
+        "note": "现代图注：哈将（西塔二层）；与原著 W II 4 开口、全甲持杵特征对应；已实际查看原网页的该尊照片。发表日期不是拍摄日期。"
+      },
+      {
+        "url": "https://archive.org/download/in.ernet.dli.2015.127766/2015.127766.The-Twin-Pagodas-Of-Zayton_text.pdf#page=34",
+        "title": "The Twin Pagodas of Zayton (1935), Iconography: Western Pagoda",
+        "pdfPage": 34,
+        "note": "逐条读取原著的形制描述；传统人物归名不作为无争议身份。"
+      }
+    ],
+    "description": "开口甲胄人物向观察者右倾，左上举杵，另一只手在腰前。",
+    "body": "armoured",
+    "head": "cap",
+    "halo": "unknown",
+    "pose": "lean-right",
+    "hands": {
+      "left": "raised",
+      "right": "waist"
+    },
+    "objects": [
+      {
+        "kind": "vajra",
+        "side": "left",
+        "orientation": "diagonal"
+      }
+    ],
+    "support": "unknown",
+    "companions": [],
+    "details": [
+      "开口",
+      "头冠小像据原文，现代照上部风化未细辨",
+      "左侧手高举",
+      "躯干斜扭",
+      "现代图注只给二层哈将，编号以原著开口持杵条目对应",
+      "头盔",
+      "靴",
+      "披带"
+    ]
+  },
+  {
+    "id": "W-2-05",
+    "tower": "west",
+    "level": 2,
+    "number": 5,
+    "evidence": "photo",
+    "sources": [
+      {
+        "url": "https://archive.org/download/in.ernet.dli.2015.127766/2015.127766.The-Twin-Pagodas-Of-Zayton_text.pdf#page=121",
+        "title": "The Twin Pagodas of Zayton (1935), plate 22",
+        "pdfPage": 121,
+        "plate": "22",
+        "note": "实际查看历史图版中的该尊；不是当下保存状态。"
+      },
+      {
+        "url": "https://archive.org/download/in.ernet.dli.2015.127766/2015.127766.The-Twin-Pagodas-Of-Zayton_text.pdf#page=34",
+        "title": "The Twin Pagodas of Zayton (1935), Iconography: Western Pagoda",
+        "pdfPage": 34,
+        "note": "逐条读取原著的形制描述；传统人物归名不作为无争议身份。"
+      }
+    ],
+    "description": "圆头光披袍人物双手合掌于胸，穿长靴，袖口宽。",
+    "body": "robe",
+    "head": "bare",
+    "halo": "round",
+    "pose": "frontal",
+    "hands": {
+      "left": "joined",
+      "right": "joined"
+    },
+    "objects": [],
+    "support": "unknown",
+    "companions": [],
+    "details": [
+      "宽袖",
+      "原著明确汉式衣靴",
+      "靴"
+    ]
+  },
+  {
+    "id": "W-2-06",
+    "tower": "west",
+    "level": 2,
+    "number": 6,
+    "evidence": "text",
+    "sources": [
+      {
+        "url": "https://archive.org/download/in.ernet.dli.2015.127766/2015.127766.The-Twin-Pagodas-Of-Zayton_text.pdf#page=35",
+        "title": "The Twin Pagodas of Zayton (1935), Iconography: Western Pagoda",
+        "pdfPage": 35,
+        "note": "逐条读取原著的形制描述；传统人物归名不作为无争议身份。"
+      }
+    ],
+    "description": "原著记一名带头光的官服形人物，双手捧礼仪笏板。",
+    "body": "official",
+    "head": "unknown",
+    "halo": "round",
+    "pose": "unknown",
+    "hands": {
+      "left": "holding",
+      "right": "holding"
+    },
+    "objects": [
+      {
+        "kind": "tablet",
+        "side": "center",
+        "orientation": "unknown"
+      }
+    ],
+    "support": "unknown",
+    "companions": [],
+    "details": [
+      "Pl16 缺失，未见该尊独立照片",
+      "头冠形状未知",
+      "仅文字依据；手势、头饰及持物方向未说明者保留未知，不添加随机差异。",
+      "文字未给出左右的持物以center占位；未给出朝向则orientation为unknown。"
+    ]
+  },
+  {
+    "id": "W-2-07",
+    "tower": "west",
+    "level": 2,
+    "number": 7,
+    "evidence": "text",
+    "sources": [
+      {
+        "url": "https://archive.org/download/in.ernet.dli.2015.127766/2015.127766.The-Twin-Pagodas-Of-Zayton_text.pdf#page=35",
+        "title": "The Twin Pagodas of Zayton (1935), Iconography: Western Pagoda",
+        "pdfPage": 35,
+        "note": "逐条读取原著的形制描述；传统人物归名不作为无争议身份。"
+      }
+    ],
+    "description": "原著记全身着衣的护法，戴扁平头盔状头饰，持长剑。",
+    "body": "robe",
+    "head": "cap",
+    "halo": "unknown",
+    "pose": "unknown",
+    "hands": {
+      "left": "unknown",
+      "right": "unknown"
+    },
+    "objects": [
+      {
+        "kind": "sword",
+        "side": "center",
+        "orientation": "unknown"
+      }
+    ],
+    "support": "unknown",
+    "companions": [],
+    "details": [
+      "原作者对扁平头盔带问号",
+      "与8成对，但姿势差别未知",
+      "Pl16 缺失",
+      "仅文字依据；手势、头饰及持物方向未说明者保留未知，不添加随机差异。",
+      "文字未给出左右的持物以center占位；未给出朝向则orientation为unknown。"
+    ]
+  },
+  {
+    "id": "W-2-08",
+    "tower": "west",
+    "level": 2,
+    "number": 8,
+    "evidence": "text",
+    "sources": [
+      {
+        "url": "https://archive.org/download/in.ernet.dli.2015.127766/2015.127766.The-Twin-Pagodas-Of-Zayton_text.pdf#page=35",
+        "title": "The Twin Pagodas of Zayton (1935), Iconography: Western Pagoda",
+        "pdfPage": 35,
+        "note": "逐条读取原著的形制描述；传统人物归名不作为无争议身份。"
+      }
+    ],
+    "description": "原著记全身着衣的护法，戴扁平头盔状头饰，持长剑。",
+    "body": "robe",
+    "head": "cap",
+    "halo": "unknown",
+    "pose": "unknown",
+    "hands": {
+      "left": "unknown",
+      "right": "unknown"
+    },
+    "objects": [
+      {
+        "kind": "sword",
+        "side": "center",
+        "orientation": "unknown"
+      }
+    ],
+    "support": "unknown",
+    "companions": [],
+    "details": [
+      "原作者对扁平头盔带问号",
+      "与7成对，不能随机造另一手势",
+      "Pl16 缺失",
+      "仅文字依据；手势、头饰及持物方向未说明者保留未知，不添加随机差异。",
+      "文字未给出左右的持物以center占位；未给出朝向则orientation为unknown。"
+    ]
+  },
+  {
+    "id": "W-2-09",
+    "tower": "west",
+    "level": 2,
+    "number": 9,
+    "evidence": "text",
+    "sources": [
+      {
+        "url": "https://archive.org/download/in.ernet.dli.2015.127766/2015.127766.The-Twin-Pagodas-Of-Zayton_text.pdf#page=35",
+        "title": "The Twin Pagodas of Zayton (1935), Iconography: Western Pagoda",
+        "pdfPage": 35,
+        "note": "逐条读取原著的形制描述；传统人物归名不作为无争议身份。"
+      }
+    ],
+    "description": "原著记站于莲花上的人物，手持花茎状长柄器，另一手插入香枝。",
+    "body": "unknown",
+    "head": "unknown",
+    "halo": "unknown",
+    "pose": "unknown",
+    "hands": {
+      "left": "unknown",
+      "right": "unknown"
+    },
+    "objects": [
+      {
+        "kind": "censer",
+        "side": "center",
+        "orientation": "unknown"
+      },
+      {
+        "kind": "flower",
+        "side": "center",
+        "orientation": "unknown"
+      }
+    ],
+    "support": "lotus",
+    "companions": [],
+    "details": [
+      "器物被原文描述为莲茎、形似柄香炉",
+      "双手左右关系未明",
+      "Pl16 缺失",
+      "仅文字依据；手势、头饰及持物方向未说明者保留未知，不添加随机差异。",
+      "文字未给出左右的持物以center占位；未给出朝向则orientation为unknown。"
+    ]
+  },
+  {
+    "id": "W-2-10",
+    "tower": "west",
+    "level": 2,
+    "number": 10,
+    "evidence": "text",
+    "sources": [
+      {
+        "url": "https://archive.org/download/in.ernet.dli.2015.127766/2015.127766.The-Twin-Pagodas-Of-Zayton_text.pdf#page=35",
+        "title": "The Twin Pagodas of Zayton (1935), Iconography: Western Pagoda",
+        "pdfPage": 35,
+        "note": "逐条读取原著的形制描述；传统人物归名不作为无争议身份。"
+      }
+    ],
+    "description": "原著记站于莲花上的人物，持钟铃。",
+    "body": "unknown",
+    "head": "unknown",
+    "halo": "unknown",
+    "pose": "unknown",
+    "hands": {
+      "left": "unknown",
+      "right": "unknown"
+    },
+    "objects": [
+      {
+        "kind": "bell",
+        "side": "center",
+        "orientation": "unknown"
+      }
+    ],
+    "support": "lotus",
+    "companions": [],
+    "details": [
+      "衣冠和手势未细述",
+      "Pl16 缺失",
+      "仅文字依据；手势、头饰及持物方向未说明者保留未知，不添加随机差异。",
+      "文字未给出左右的持物以center占位；未给出朝向则orientation为unknown。"
+    ]
+  },
+  {
+    "id": "W-2-11",
+    "tower": "west",
+    "level": 2,
+    "number": 11,
+    "evidence": "text",
+    "sources": [
+      {
+        "url": "https://archive.org/download/in.ernet.dli.2015.127766/2015.127766.The-Twin-Pagodas-Of-Zayton_text.pdf#page=35",
+        "title": "The Twin Pagodas of Zayton (1935), Iconography: Western Pagoda",
+        "pdfPage": 35,
+        "note": "逐条读取原著的形制描述；传统人物归名不作为无争议身份。"
+      }
+    ],
+    "description": "原著记穿锁子甲的护法，持剑，另一手作特定手势但未详述。",
+    "body": "armoured",
+    "head": "unknown",
+    "halo": "unknown",
+    "pose": "unknown",
+    "hands": {
+      "left": "unknown",
+      "right": "unknown"
+    },
+    "objects": [
+      {
+        "kind": "sword",
+        "side": "center",
+        "orientation": "unknown"
+      }
+    ],
+    "support": "unknown",
+    "companions": [],
+    "details": [
+      "原文将自身左手姿态与另一塔作比较，不能据比较补出精确手印",
+      "Pl16 缺失",
+      "仅文字依据；手势、头饰及持物方向未说明者保留未知，不添加随机差异。",
+      "文字未给出左右的持物以center占位；未给出朝向则orientation为unknown。"
+    ]
+  },
+  {
+    "id": "W-2-12",
+    "tower": "west",
+    "level": 2,
+    "number": 12,
+    "evidence": "text",
+    "sources": [
+      {
+        "url": "https://archive.org/download/in.ernet.dli.2015.127766/2015.127766.The-Twin-Pagodas-Of-Zayton_text.pdf#page=35",
+        "title": "The Twin Pagodas of Zayton (1935), Iconography: Western Pagoda",
+        "pdfPage": 35,
+        "note": "逐条读取原著的形制描述；传统人物归名不作为无争议身份。"
+      }
+    ],
+    "description": "原著记神将形人物把剑横放在两条前臂上。",
+    "body": "unknown",
+    "head": "unknown",
+    "halo": "unknown",
+    "pose": "unknown",
+    "hands": {
+      "left": "holding",
+      "right": "holding"
+    },
+    "objects": [
+      {
+        "kind": "sword",
+        "side": "center",
+        "orientation": "horizontal"
+      }
+    ],
+    "support": "unknown",
+    "companions": [],
+    "details": [
+      "双前臂横托剑是明确结构",
+      "衣甲与头饰未细述",
+      "Pl16 缺失",
+      "仅文字依据；手势、头饰及持物方向未说明者保留未知，不添加随机差异。",
+      "文字未给出左右的持物以center占位；未给出朝向则orientation为unknown。"
+    ]
+  },
+  {
+    "id": "W-2-13",
+    "tower": "west",
+    "level": 2,
+    "number": 13,
+    "evidence": "photo",
+    "sources": [
+      {
+        "url": "https://archive.org/download/in.ernet.dli.2015.127766/2015.127766.The-Twin-Pagodas-Of-Zayton_text.pdf#page=121",
+        "title": "The Twin Pagodas of Zayton (1935), plate 22",
+        "pdfPage": 121,
+        "plate": "22",
+        "note": "实际查看历史图版中的该尊；不是当下保存状态。"
+      },
+      {
+        "url": "https://archive.org/download/in.ernet.dli.2015.127766/2015.127766.The-Twin-Pagodas-Of-Zayton_text.pdf#page=35",
+        "title": "The Twin Pagodas of Zayton (1935), Iconography: Western Pagoda",
+        "pdfPage": 35,
+        "note": "逐条读取原著的形制描述；传统人物归名不作为无争议身份。"
+      }
+    ],
+    "description": "高冠长袍人物在胸前托长条经书形物，宽袖与下摆垂至脚面。",
+    "body": "robe",
+    "head": "crown",
+    "halo": "unknown",
+    "pose": "frontal",
+    "hands": {
+      "left": "holding",
+      "right": "holding"
+    },
+    "objects": [
+      {
+        "kind": "book",
+        "side": "center",
+        "orientation": "horizontal"
+      }
+    ],
+    "support": "unknown",
+    "companions": [],
+    "details": [
+      "原著明确贝叶式经书与题字",
+      "仅概括书块，不伪造可读文字",
+      "脚尖从长袍下露出"
+    ]
+  },
+  {
+    "id": "W-2-14",
+    "tower": "west",
+    "level": 2,
+    "number": 14,
+    "evidence": "text",
+    "sources": [
+      {
+        "url": "https://archive.org/download/in.ernet.dli.2015.127766/2015.127766.The-Twin-Pagodas-Of-Zayton_text.pdf#page=35",
+        "title": "The Twin Pagodas of Zayton (1935), Iconography: Western Pagoda",
+        "pdfPage": 35,
+        "note": "逐条读取原著的形制描述；传统人物归名不作为无争议身份。"
+      }
+    ],
+    "description": "原著记圆帽僧人，一手持杆，另一手放在虎头上。",
+    "body": "robe",
+    "head": "cap",
+    "halo": "unknown",
+    "pose": "unknown",
+    "hands": {
+      "left": "holding",
+      "right": "down"
+    },
+    "objects": [
+      {
+        "kind": "staff",
+        "side": "left",
+        "orientation": "unknown"
+      }
+    ],
+    "support": "unknown",
+    "companions": [
+      "tiger"
+    ],
+    "details": [
+      "原文自身右手持杆即观察者左侧",
+      "右侧虎",
+      "人物自身左手触虎头",
+      "Pl16 缺失",
+      "仅文字依据；手势、头饰及持物方向未说明者保留未知，不添加随机差异。",
+      "文字未给出左右的持物以center占位；未给出朝向则orientation为unknown。"
+    ]
+  },
+  {
+    "id": "W-2-15",
+    "tower": "west",
+    "level": 2,
+    "number": 15,
+    "evidence": "text",
+    "sources": [
+      {
+        "url": "https://archive.org/download/in.ernet.dli.2015.127766/2015.127766.The-Twin-Pagodas-Of-Zayton_text.pdf#page=36",
+        "title": "The Twin Pagodas of Zayton (1935), Iconography: Western Pagoda",
+        "pdfPage": 36,
+        "note": "逐条读取原著的形制描述；传统人物归名不作为无争议身份。"
+      }
+    ],
+    "description": "原著记全身甲胄、持长剑的护法，与16成对。",
+    "body": "armoured",
+    "head": "unknown",
+    "halo": "unknown",
+    "pose": "unknown",
+    "hands": {
+      "left": "unknown",
+      "right": "unknown"
+    },
+    "objects": [
+      {
+        "kind": "sword",
+        "side": "center",
+        "orientation": "unknown"
+      }
+    ],
+    "support": "unknown",
+    "companions": [],
+    "details": [
+      "头冠及姿态仅与东塔形象类比，未据类比强行还原",
+      "Pl16 缺失",
+      "仅文字依据；手势、头饰及持物方向未说明者保留未知，不添加随机差异。",
+      "文字未给出左右的持物以center占位；未给出朝向则orientation为unknown。"
+    ]
+  },
+  {
+    "id": "W-2-16",
+    "tower": "west",
+    "level": 2,
+    "number": 16,
+    "evidence": "text",
+    "sources": [
+      {
+        "url": "https://archive.org/download/in.ernet.dli.2015.127766/2015.127766.The-Twin-Pagodas-Of-Zayton_text.pdf#page=36",
+        "title": "The Twin Pagodas of Zayton (1935), Iconography: Western Pagoda",
+        "pdfPage": 36,
+        "note": "逐条读取原著的形制描述；传统人物归名不作为无争议身份。"
+      }
+    ],
+    "description": "原著记全身甲胄、持长剑的护法，与15成对。",
+    "body": "armoured",
+    "head": "unknown",
+    "halo": "unknown",
+    "pose": "unknown",
+    "hands": {
+      "left": "unknown",
+      "right": "unknown"
+    },
+    "objects": [
+      {
+        "kind": "sword",
+        "side": "center",
+        "orientation": "unknown"
+      }
+    ],
+    "support": "unknown",
+    "companions": [],
+    "details": [
+      "该尊独立姿势未有可用照片",
+      "Pl16 缺失",
+      "仅文字依据；手势、头饰及持物方向未说明者保留未知，不添加随机差异。",
+      "文字未给出左右的持物以center占位；未给出朝向则orientation为unknown。"
+    ]
+  },
+  {
+    "id": "W-3-01",
+    "tower": "west",
+    "level": 3,
+    "number": 1,
+    "evidence": "photo",
+    "sources": [
+      {
+        "url": "https://archive.org/download/in.ernet.dli.2015.127766/2015.127766.The-Twin-Pagodas-Of-Zayton_text.pdf#page=116",
+        "title": "The Twin Pagodas of Zayton (1935), plate 17",
+        "pdfPage": 116,
+        "plate": "17",
+        "note": "实际查看历史图版中的该尊；不是当下保存状态。"
+      },
+      {
+        "url": "https://archive.org/download/in.ernet.dli.2015.127766/2015.127766.The-Twin-Pagodas-Of-Zayton_text.pdf#page=36",
+        "title": "The Twin Pagodas of Zayton (1935), Iconography: Western Pagoda",
+        "pdfPage": 36,
+        "note": "逐条读取原著的形制描述；传统人物归名不作为无争议身份。"
+      }
+    ],
+    "description": "甲胄人物一手抬至肩侧持杵，另一手横于腰前，双腿分立。",
+    "body": "armoured",
+    "head": "cap",
+    "halo": "unknown",
+    "pose": "frontal",
+    "hands": {
+      "left": "waist",
+      "right": "raised"
+    },
+    "objects": [
+      {
+        "kind": "vajra",
+        "side": "right",
+        "orientation": "diagonal"
+      }
+    ],
+    "support": "unknown",
+    "companions": [],
+    "details": [
+      "肩甲与裙甲分层",
+      "观察者右侧手举起",
+      "短颈厚肩"
+    ]
+  },
+  {
+    "id": "W-3-02",
+    "tower": "west",
+    "level": 3,
+    "number": 2,
+    "evidence": "photo",
+    "sources": [
+      {
+        "url": "https://archive.org/download/in.ernet.dli.2015.127766/2015.127766.The-Twin-Pagodas-Of-Zayton_text.pdf#page=116",
+        "title": "The Twin Pagodas of Zayton (1935), plate 17",
+        "pdfPage": 116,
+        "plate": "17",
+        "note": "实际查看历史图版中的该尊；不是当下保存状态。"
+      },
+      {
+        "url": "https://archive.org/download/in.ernet.dli.2015.127766/2015.127766.The-Twin-Pagodas-Of-Zayton_text.pdf#page=36",
+        "title": "The Twin Pagodas of Zayton (1935), Iconography: Western Pagoda",
+        "pdfPage": 36,
+        "note": "逐条读取原著的形制描述；传统人物归名不作为无争议身份。"
+      }
+    ],
+    "description": "甲胄人物两手在胸腹前交错，持斜杵，头后有卷曲披带。",
+    "body": "armoured",
+    "head": "cap",
+    "halo": "unknown",
+    "pose": "frontal",
+    "hands": {
+      "left": "chest",
+      "right": "holding"
+    },
+    "objects": [
+      {
+        "kind": "vajra",
+        "side": "center",
+        "orientation": "diagonal"
+      }
+    ],
+    "support": "unknown",
+    "companions": [],
+    "details": [
+      "下摆分成数层甲片",
+      "头后卷带非完整头光",
+      "披带"
+    ]
+  },
+  {
+    "id": "W-3-03",
+    "tower": "west",
+    "level": 3,
+    "number": 3,
+    "evidence": "photo",
+    "sources": [
+      {
+        "url": "https://archive.org/download/in.ernet.dli.2015.127766/2015.127766.The-Twin-Pagodas-Of-Zayton_text.pdf#page=116",
+        "title": "The Twin Pagodas of Zayton (1935), plate 17",
+        "pdfPage": 116,
+        "plate": "17",
+        "note": "实际查看历史图版中的该尊；不是当下保存状态。"
+      },
+      {
+        "url": "https://archive.org/download/in.ernet.dli.2015.127766/2015.127766.The-Twin-Pagodas-Of-Zayton_text.pdf#page=36",
+        "title": "The Twin Pagodas of Zayton (1935), Iconography: Western Pagoda",
+        "pdfPage": 36,
+        "note": "逐条读取原著的形制描述；传统人物归名不作为无争议身份。"
+      }
+    ],
+    "description": "圆头光长袍人物倚长杆，杆身从肩侧斜向左下。",
+    "body": "robe",
+    "head": "bare",
+    "halo": "round",
+    "pose": "frontal",
+    "hands": {
+      "left": "holding",
+      "right": "holding"
+    },
+    "objects": [
+      {
+        "kind": "staff",
+        "side": "left",
+        "orientation": "diagonal"
+      }
+    ],
+    "support": "unknown",
+    "companions": [],
+    "details": [
+      "耳环据正文",
+      "长袖包住手臂",
+      "杖脚落在观察者左侧"
+    ]
+  },
+  {
+    "id": "W-3-04",
+    "tower": "west",
+    "level": 3,
+    "number": 4,
+    "evidence": "photo",
+    "sources": [
+      {
+        "url": "https://archive.org/download/in.ernet.dli.2015.127766/2015.127766.The-Twin-Pagodas-Of-Zayton_text.pdf#page=113",
+        "title": "The Twin Pagodas of Zayton (1935), plate 17",
+        "pdfPage": 113,
+        "plate": "17",
+        "note": "实际查看历史图版中的该尊；不是当下保存状态。"
+      },
+      {
+        "url": "https://archive.org/download/in.ernet.dli.2015.127766/2015.127766.The-Twin-Pagodas-Of-Zayton_text.pdf#page=36",
+        "title": "The Twin Pagodas of Zayton (1935), Iconography: Western Pagoda",
+        "pdfPage": 36,
+        "note": "逐条读取原著的形制描述；传统人物归名不作为无争议身份。"
+      }
+    ],
+    "description": "圆头光长袍人物拿矩形扇，另一侧抬手与云中小塔相接。",
+    "body": "robe",
+    "head": "bare",
+    "halo": "round",
+    "pose": "frontal",
+    "hands": {
+      "left": "holding",
+      "right": "raised"
+    },
+    "objects": [
+      {
+        "kind": "fan",
+        "side": "left",
+        "orientation": "diagonal"
+      },
+      {
+        "kind": "stupa",
+        "side": "right",
+        "orientation": "vertical"
+      }
+    ],
+    "support": "unknown",
+    "companions": [],
+    "details": [
+      "矩形扇在人物自身右手即观察者左",
+      "云和小塔在观察者右侧",
+      "耳环",
+      "该图右缘略截",
+      "矩形扇"
+    ]
+  },
+  {
+    "id": "W-3-05",
+    "tower": "west",
+    "level": 3,
+    "number": 5,
+    "evidence": "photo",
+    "sources": [
+      {
+        "url": "https://archive.org/download/in.ernet.dli.2015.127766/2015.127766.The-Twin-Pagodas-Of-Zayton_text.pdf#page=113",
+        "title": "The Twin Pagodas of Zayton (1935), plate 17",
+        "pdfPage": 113,
+        "plate": "17",
+        "note": "实际查看历史图版中的该尊；不是当下保存状态。"
+      },
+      {
+        "url": "https://archive.org/download/in.ernet.dli.2015.127766/2015.127766.The-Twin-Pagodas-Of-Zayton_text.pdf#page=36",
+        "title": "The Twin Pagodas of Zayton (1935), Iconography: Western Pagoda",
+        "pdfPage": 36,
+        "note": "逐条读取原著的形制描述；传统人物归名不作为无争议身份。"
+      }
+    ],
+    "description": "全身着衣护法，双手前握长剑，剑身斜向观察者左上。",
+    "body": "robe",
+    "head": "cap",
+    "halo": "unknown",
+    "pose": "frontal",
+    "hands": {
+      "left": "holding",
+      "right": "holding"
+    },
+    "objects": [
+      {
+        "kind": "sword",
+        "side": "left",
+        "orientation": "diagonal"
+      }
+    ],
+    "support": "unknown",
+    "companions": [],
+    "details": [
+      "腰带和下摆分层",
+      "原著只明确着衣，甲胄程度不强配"
+    ]
+  },
+  {
+    "id": "W-3-06",
+    "tower": "west",
+    "level": 3,
+    "number": 6,
+    "evidence": "photo",
+    "sources": [
+      {
+        "url": "https://archive.org/download/in.ernet.dli.2015.127766/2015.127766.The-Twin-Pagodas-Of-Zayton_text.pdf#page=113",
+        "title": "The Twin Pagodas of Zayton (1935), plate 17",
+        "pdfPage": 113,
+        "plate": "17",
+        "note": "实际查看历史图版中的该尊；不是当下保存状态。"
+      },
+      {
+        "url": "https://archive.org/download/in.ernet.dli.2015.127766/2015.127766.The-Twin-Pagodas-Of-Zayton_text.pdf#page=36",
+        "title": "The Twin Pagodas of Zayton (1935), Iconography: Western Pagoda",
+        "pdfPage": 36,
+        "note": "逐条读取原著的形制描述；传统人物归名不作为无争议身份。"
+      }
+    ],
+    "description": "胸腹外露的持杵人物，观察者左臂举起，另一手在腹前。",
+    "body": "bare",
+    "head": "cap",
+    "halo": "unknown",
+    "pose": "frontal",
+    "hands": {
+      "left": "raised",
+      "right": "waist"
+    },
+    "objects": [
+      {
+        "kind": "vajra",
+        "side": "left",
+        "orientation": "diagonal"
+      }
+    ],
+    "support": "unknown",
+    "companions": [],
+    "details": [
+      "旧图左边缘裁切",
+      "裸胸判断同时参照正文带问号描述",
+      "持杵锋端不清"
+    ]
+  },
+  {
+    "id": "W-3-07",
+    "tower": "west",
+    "level": 3,
+    "number": 7,
+    "evidence": "photo",
+    "sources": [
+      {
+        "url": "https://archive.org/download/in.ernet.dli.2015.127766/2015.127766.The-Twin-Pagodas-Of-Zayton_text.pdf#page=122",
+        "title": "The Twin Pagodas of Zayton (1935), plate 23",
+        "pdfPage": 122,
+        "plate": "23",
+        "note": "实际查看历史图版中的该尊；不是当下保存状态。"
+      },
+      {
+        "url": "https://archive.org/download/in.ernet.dli.2015.127766/2015.127766.The-Twin-Pagodas-Of-Zayton_text.pdf#page=36",
+        "title": "The Twin Pagodas of Zayton (1935), Iconography: Western Pagoda",
+        "pdfPage": 36,
+        "note": "逐条读取原著的形制描述；传统人物归名不作为无争议身份。"
+      }
+    ],
+    "description": "圆头光披衣人物撩起衣襟，露出膝腿，双手在腹前整理衣物。",
+    "body": "robe",
+    "head": "bare",
+    "halo": "round",
+    "pose": "frontal",
+    "hands": {
+      "left": "waist",
+      "right": "waist"
+    },
+    "objects": [],
+    "support": "unknown",
+    "companions": [],
+    "details": [
+      "耳环",
+      "腰带中夹草鞋据正文",
+      "足下芦苇状线条",
+      "不是盘坐像",
+      "踏芦苇"
+    ]
+  },
+  {
+    "id": "W-3-08",
+    "tower": "west",
+    "level": 3,
+    "number": 8,
+    "evidence": "photo",
+    "sources": [
+      {
+        "url": "https://archive.org/download/in.ernet.dli.2015.127766/2015.127766.The-Twin-Pagodas-Of-Zayton_text.pdf#page=122",
+        "title": "The Twin Pagodas of Zayton (1935), plate 23",
+        "pdfPage": 122,
+        "plate": "23",
+        "note": "实际查看历史图版中的该尊；不是当下保存状态。"
+      },
+      {
+        "url": "https://archive.org/download/in.ernet.dli.2015.127766/2015.127766.The-Twin-Pagodas-Of-Zayton_text.pdf#page=36",
+        "title": "The Twin Pagodas of Zayton (1935), Iconography: Western Pagoda",
+        "pdfPage": 36,
+        "note": "逐条读取原著的形制描述；传统人物归名不作为无争议身份。"
+      }
+    ],
+    "description": "圆头光长袍人物捧柄香炉，长柄向观察者右上伸出。",
+    "body": "robe",
+    "head": "bare",
+    "halo": "round",
+    "pose": "frontal",
+    "hands": {
+      "left": "holding",
+      "right": "holding"
+    },
+    "objects": [
+      {
+        "kind": "censer",
+        "side": "right",
+        "orientation": "diagonal"
+      }
+    ],
+    "support": "unknown",
+    "companions": [],
+    "details": [
+      "耳环",
+      "柄端圆形香炉",
+      "大袖垂落"
+    ]
+  },
+  {
+    "id": "W-3-09",
+    "tower": "west",
+    "level": 3,
+    "number": 9,
+    "evidence": "photo",
+    "sources": [
+      {
+        "url": "https://archive.org/download/in.ernet.dli.2015.127766/2015.127766.The-Twin-Pagodas-Of-Zayton_text.pdf#page=116",
+        "title": "The Twin Pagodas of Zayton (1935), plate 17",
+        "pdfPage": 116,
+        "plate": "17",
+        "note": "实际查看历史图版中的该尊；不是当下保存状态。"
+      },
+      {
+        "url": "https://archive.org/download/in.ernet.dli.2015.127766/2015.127766.The-Twin-Pagodas-Of-Zayton_text.pdf#page=36",
+        "title": "The Twin Pagodas of Zayton (1935), Iconography: Western Pagoda",
+        "pdfPage": 36,
+        "note": "逐条读取原著的形制描述；传统人物归名不作为无争议身份。"
+      }
+    ],
+    "description": "全身披衣护法持剑，胸腹交叠双臂，头冠两侧有翼形外伸。",
+    "body": "robe",
+    "head": "cap",
+    "halo": "unknown",
+    "pose": "frontal",
+    "hands": {
+      "left": "holding",
+      "right": "holding"
+    },
+    "objects": [
+      {
+        "kind": "sword",
+        "side": "center",
+        "orientation": "diagonal"
+      }
+    ],
+    "support": "unknown",
+    "companions": [],
+    "details": [
+      "正文明确不是甲胄",
+      "翼形头饰",
+      "长袍上有层叠衣褶"
+    ]
+  },
+  {
+    "id": "W-3-10",
+    "tower": "west",
+    "level": 3,
+    "number": 10,
+    "evidence": "photo",
+    "sources": [
+      {
+        "url": "https://archive.org/download/in.ernet.dli.2015.127766/2015.127766.The-Twin-Pagodas-Of-Zayton_text.pdf#page=113",
+        "title": "The Twin Pagodas of Zayton (1935), plate 17",
+        "pdfPage": 113,
+        "plate": "17",
+        "note": "实际查看历史图版中的该尊；不是当下保存状态。"
+      },
+      {
+        "url": "https://archive.org/download/in.ernet.dli.2015.127766/2015.127766.The-Twin-Pagodas-Of-Zayton_text.pdf#page=36",
+        "title": "The Twin Pagodas of Zayton (1935), Iconography: Western Pagoda",
+        "pdfPage": 36,
+        "note": "逐条读取原著的形制描述；传统人物归名不作为无争议身份。"
+      }
+    ],
+    "description": "着衣护法双手在腹前持长剑，头饰宽，衣摆与腰带交叠。",
+    "body": "robe",
+    "head": "cap",
+    "halo": "unknown",
+    "pose": "frontal",
+    "hands": {
+      "left": "holding",
+      "right": "holding"
+    },
+    "objects": [
+      {
+        "kind": "sword",
+        "side": "center",
+        "orientation": "diagonal"
+      }
+    ],
+    "support": "unknown",
+    "companions": [],
+    "details": [
+      "正文明确不是甲胄",
+      "翼形头饰",
+      "与9属一对，但不添加未见差异"
+    ]
+  },
+  {
+    "id": "W-3-11",
+    "tower": "west",
+    "level": 3,
+    "number": 11,
+    "evidence": "photo",
+    "sources": [
+      {
+        "url": "https://archive.org/download/in.ernet.dli.2015.127766/2015.127766.The-Twin-Pagodas-Of-Zayton_text.pdf#page=116",
+        "title": "The Twin Pagodas of Zayton (1935), plate 17",
+        "pdfPage": 116,
+        "plate": "17",
+        "note": "实际查看历史图版中的该尊；不是当下保存状态。"
+      },
+      {
+        "url": "https://archive.org/download/in.ernet.dli.2015.127766/2015.127766.The-Twin-Pagodas-Of-Zayton_text.pdf#page=36",
+        "title": "The Twin Pagodas of Zayton (1935), Iconography: Western Pagoda",
+        "pdfPage": 36,
+        "note": "逐条读取原著的形制描述；传统人物归名不作为无争议身份。"
+      }
+    ],
+    "description": "圆头光披袍人物手持短杵，身旁有开口鸟笼与飞鸟。",
+    "body": "robe",
+    "head": "bare",
+    "halo": "round",
+    "pose": "frontal",
+    "hands": {
+      "left": "holding",
+      "right": "chest"
+    },
+    "objects": [
+      {
+        "kind": "vajra",
+        "side": "left",
+        "orientation": "diagonal"
+      },
+      {
+        "kind": "cage",
+        "side": "right",
+        "orientation": "vertical"
+      }
+    ],
+    "support": "unknown",
+    "companions": [
+      "bird"
+    ],
+    "details": [
+      "右侧鸟笼",
+      "鸟从笼口飞出",
+      "笼栅与飞鸟细节参照正文，旧图高反差限制",
+      "耳环"
+    ]
+  },
+  {
+    "id": "W-3-12",
+    "tower": "west",
+    "level": 3,
+    "number": 12,
+    "evidence": "photo",
+    "sources": [
+      {
+        "url": "https://archive.org/download/in.ernet.dli.2015.127766/2015.127766.The-Twin-Pagodas-Of-Zayton_text.pdf#page=116",
+        "title": "The Twin Pagodas of Zayton (1935), plate 17",
+        "pdfPage": 116,
+        "plate": "17",
+        "note": "实际查看历史图版中的该尊；不是当下保存状态。"
+      },
+      {
+        "url": "https://archive.org/download/in.ernet.dli.2015.127766/2015.127766.The-Twin-Pagodas-Of-Zayton_text.pdf#page=37",
+        "title": "The Twin Pagodas of Zayton (1935), Iconography: Western Pagoda",
+        "pdfPage": 37,
+        "note": "逐条读取原著的形制描述；传统人物归名不作为无争议身份。"
+      }
+    ],
+    "description": "圆头光长袍人物托钵，长锡杖从腰前斜上伸出。",
+    "body": "robe",
+    "head": "bare",
+    "halo": "round",
+    "pose": "frontal",
+    "hands": {
+      "left": "holding",
+      "right": "holding"
+    },
+    "objects": [
+      {
+        "kind": "staff",
+        "side": "left",
+        "orientation": "diagonal"
+      },
+      {
+        "kind": "bowl",
+        "side": "right",
+        "orientation": "horizontal"
+      }
+    ],
+    "support": "unknown",
+    "companions": [],
+    "details": [
+      "观察者左侧杖头有环",
+      "右侧胸前钵",
+      "袍袖窄长",
+      "锡杖",
+      "环杖"
+    ]
+  },
+  {
+    "id": "W-3-13",
+    "tower": "west",
+    "level": 3,
+    "number": 13,
+    "evidence": "photo",
+    "sources": [
+      {
+        "url": "https://archive.org/download/in.ernet.dli.2015.127766/2015.127766.The-Twin-Pagodas-Of-Zayton_text.pdf#page=122",
+        "title": "The Twin Pagodas of Zayton (1935), plate 23",
+        "pdfPage": 122,
+        "plate": "23",
+        "note": "实际查看历史图版中的该尊；不是当下保存状态。"
+      },
+      {
+        "url": "https://archive.org/download/in.ernet.dli.2015.127766/2015.127766.The-Twin-Pagodas-Of-Zayton_text.pdf#page=37",
+        "title": "The Twin Pagodas of Zayton (1935), Iconography: Western Pagoda",
+        "pdfPage": 37,
+        "note": "逐条读取原著的形制描述；传统人物归名不作为无争议身份。"
+      }
+    ],
+    "description": "着衣护法双手在胸腹前交握斧柄，斧刃位于一侧。",
+    "body": "robe",
+    "head": "cap",
+    "halo": "unknown",
+    "pose": "frontal",
+    "hands": {
+      "left": "holding",
+      "right": "holding"
+    },
+    "objects": [
+      {
+        "kind": "axe",
+        "side": "center",
+        "orientation": "unknown"
+      }
+    ],
+    "support": "unknown",
+    "companions": [],
+    "details": [
+      "斧的形制由正文明确",
+      "原图斧刃边缘不清，方向暂置中",
+      "腰带和宽下摆"
+    ]
+  },
+  {
+    "id": "W-3-14",
+    "tower": "west",
+    "level": 3,
+    "number": 14,
+    "evidence": "photo",
+    "sources": [
+      {
+        "url": "https://archive.org/download/in.ernet.dli.2015.127766/2015.127766.The-Twin-Pagodas-Of-Zayton_text.pdf#page=122",
+        "title": "The Twin Pagodas of Zayton (1935), plate 23",
+        "pdfPage": 122,
+        "plate": "23",
+        "note": "实际查看历史图版中的该尊；不是当下保存状态。"
+      },
+      {
+        "url": "https://archive.org/download/in.ernet.dli.2015.127766/2015.127766.The-Twin-Pagodas-Of-Zayton_text.pdf#page=37",
+        "title": "The Twin Pagodas of Zayton (1935), Iconography: Western Pagoda",
+        "pdfPage": 37,
+        "note": "逐条读取原著的形制描述；传统人物归名不作为无争议身份。"
+      }
+    ],
+    "description": "层叠衣甲人物持弓箭，头部略向观察者右侧。",
+    "body": "armoured",
+    "head": "cap",
+    "halo": "unknown",
+    "pose": "turned-right",
+    "hands": {
+      "left": "holding",
+      "right": "holding"
+    },
+    "objects": [
+      {
+        "kind": "bow",
+        "side": "left",
+        "orientation": "vertical"
+      }
+    ],
+    "support": "unknown",
+    "companions": [],
+    "details": [
+      "观察者左侧弓弧",
+      "右侧有长箭线",
+      "原著明确弓箭，箭数不据扫描猜测"
+    ]
+  },
+  {
+    "id": "W-3-15",
+    "tower": "west",
+    "level": 3,
+    "number": 15,
+    "evidence": "photo",
+    "sources": [
+      {
+        "url": "https://archive.org/download/in.ernet.dli.2015.127766/2015.127766.The-Twin-Pagodas-Of-Zayton_text.pdf#page=113",
+        "title": "The Twin Pagodas of Zayton (1935), plate 17",
+        "pdfPage": 113,
+        "plate": "17",
+        "note": "实际查看历史图版中的该尊；不是当下保存状态。"
+      },
+      {
+        "url": "https://archive.org/download/in.ernet.dli.2015.127766/2015.127766.The-Twin-Pagodas-Of-Zayton_text.pdf#page=37",
+        "title": "The Twin Pagodas of Zayton (1935), Iconography: Western Pagoda",
+        "pdfPage": 37,
+        "note": "逐条读取原著的形制描述；传统人物归名不作为无争议身份。"
+      }
+    ],
+    "description": "冠饰长袍立像，胸前持花，袖尾与披帛纵向下垂。",
+    "body": "robe",
+    "head": "crown",
+    "halo": "unknown",
+    "pose": "frontal",
+    "hands": {
+      "left": "holding",
+      "right": "holding"
+    },
+    "objects": [
+      {
+        "kind": "flower",
+        "side": "center",
+        "orientation": "vertical"
+      }
+    ],
+    "support": "unknown",
+    "companions": [],
+    "details": [
+      "衣襟有长珠饰",
+      "脚下花瓣形承托较模糊，未强定支座"
+    ]
+  },
+  {
+    "id": "W-3-16",
+    "tower": "west",
+    "level": 3,
+    "number": 16,
+    "evidence": "photo",
+    "sources": [
+      {
+        "url": "https://archive.org/download/in.ernet.dli.2015.127766/2015.127766.The-Twin-Pagodas-Of-Zayton_text.pdf#page=113",
+        "title": "The Twin Pagodas of Zayton (1935), plate 17",
+        "pdfPage": 113,
+        "plate": "17",
+        "note": "实际查看历史图版中的该尊；不是当下保存状态。"
+      },
+      {
+        "url": "https://archive.org/download/in.ernet.dli.2015.127766/2015.127766.The-Twin-Pagodas-Of-Zayton_text.pdf#page=37",
+        "title": "The Twin Pagodas of Zayton (1935), Iconography: Western Pagoda",
+        "pdfPage": 37,
+        "note": "逐条读取原著的形制描述；传统人物归名不作为无争议身份。"
+      }
+    ],
+    "description": "冠饰长袍人物双手合掌，左下有童子举起花瓶。",
+    "body": "robe",
+    "head": "crown",
+    "halo": "unknown",
+    "pose": "frontal",
+    "hands": {
+      "left": "joined",
+      "right": "joined"
+    },
+    "objects": [],
+    "support": "unknown",
+    "companions": [
+      "child"
+    ],
+    "details": [
+      "左侧童子",
+      "童子托花瓶",
+      "长袖与胸前长饰带",
+      "主体手中不另塞花瓶"
+    ]
+  },
+  {
+    "id": "W-4-01",
+    "tower": "west",
+    "level": 4,
+    "number": 1,
+    "evidence": "photo",
+    "sources": [
+      {
+        "url": "https://archive.org/download/in.ernet.dli.2015.127766/2015.127766.The-Twin-Pagodas-Of-Zayton_text.pdf#page=123",
+        "title": "The Twin Pagodas of Zayton (1935), plate 24",
+        "pdfPage": 123,
+        "plate": "24",
+        "note": "实际查看历史图版中的该尊；不是当下保存状态。"
+      },
+      {
+        "url": "https://archive.org/download/in.ernet.dli.2015.127766/2015.127766.The-Twin-Pagodas-Of-Zayton_text.pdf#page=37",
+        "title": "The Twin Pagodas of Zayton (1935), Iconography: Western Pagoda",
+        "pdfPage": 37,
+        "note": "逐条读取原著的形制描述；传统人物归名不作为无争议身份。"
+      }
+    ],
+    "description": "圆头光官服人物戴系带冠帽，双手在胸前捧长笏。",
+    "body": "official",
+    "head": "cap",
+    "halo": "round",
+    "pose": "frontal",
+    "hands": {
+      "left": "holding",
+      "right": "holding"
+    },
+    "objects": [
+      {
+        "kind": "tablet",
+        "side": "center",
+        "orientation": "vertical"
+      }
+    ],
+    "support": "unknown",
+    "companions": [],
+    "details": [
+      "横置图须先按人物直立理解",
+      "帽带经过颊侧",
+      "衣袍有帝王式纹饰据正文",
+      "笏上题字不伪造"
+    ]
+  },
+  {
+    "id": "W-4-02",
+    "tower": "west",
+    "level": 4,
+    "number": 2,
+    "evidence": "photo",
+    "sources": [
+      {
+        "url": "https://archive.org/download/in.ernet.dli.2015.127766/2015.127766.The-Twin-Pagodas-Of-Zayton_text.pdf#page=123",
+        "title": "The Twin Pagodas of Zayton (1935), plate 24",
+        "pdfPage": 123,
+        "plate": "24",
+        "note": "实际查看历史图版中的该尊；不是当下保存状态。"
+      },
+      {
+        "url": "https://archive.org/download/in.ernet.dli.2015.127766/2015.127766.The-Twin-Pagodas-Of-Zayton_text.pdf#page=37",
+        "title": "The Twin Pagodas of Zayton (1935), Iconography: Western Pagoda",
+        "pdfPage": 37,
+        "note": "逐条读取原著的形制描述；传统人物归名不作为无争议身份。"
+      }
+    ],
+    "description": "圆头光长袍人物合掌，手前与身前有花枝状浮起。",
+    "body": "robe",
+    "head": "bare",
+    "halo": "round",
+    "pose": "frontal",
+    "hands": {
+      "left": "joined",
+      "right": "joined"
+    },
+    "objects": [
+      {
+        "kind": "flower",
+        "side": "center",
+        "orientation": "vertical"
+      }
+    ],
+    "support": "unknown",
+    "companions": [],
+    "details": [
+      "横置图已校正观察方向",
+      "花瓣垂落解释在原文带问号",
+      "宽袖下垂"
+    ]
+  },
+  {
+    "id": "W-4-03",
+    "tower": "west",
+    "level": 4,
+    "number": 3,
+    "evidence": "photo",
+    "sources": [
+      {
+        "url": "https://archive.org/download/in.ernet.dli.2015.127766/2015.127766.The-Twin-Pagodas-Of-Zayton_text.pdf#page=117",
+        "title": "The Twin Pagodas of Zayton (1935), plate 18",
+        "pdfPage": 117,
+        "plate": "18",
+        "note": "实际查看历史图版中的该尊；不是当下保存状态。"
+      },
+      {
+        "url": "https://archive.org/download/in.ernet.dli.2015.127766/2015.127766.The-Twin-Pagodas-Of-Zayton_text.pdf#page=37",
+        "title": "The Twin Pagodas of Zayton (1935), Iconography: Western Pagoda",
+        "pdfPage": 37,
+        "note": "逐条读取原著的形制描述；传统人物归名不作为无争议身份。"
+      }
+    ],
+    "description": "全甲护法双手前握宽刃长刀，刃身斜向观察者左上。",
+    "body": "armoured",
+    "head": "cap",
+    "halo": "unknown",
+    "pose": "frontal",
+    "hands": {
+      "left": "holding",
+      "right": "holding"
+    },
+    "objects": [
+      {
+        "kind": "sword",
+        "side": "left",
+        "orientation": "diagonal"
+      }
+    ],
+    "support": "unknown",
+    "companions": [],
+    "details": [
+      "长刀而非细剑",
+      "双腿分立",
+      "图右侧略截"
+    ]
+  },
+  {
+    "id": "W-4-04",
+    "tower": "west",
+    "level": 4,
+    "number": 4,
+    "evidence": "photo",
+    "sources": [
+      {
+        "url": "https://archive.org/download/in.ernet.dli.2015.127766/2015.127766.The-Twin-Pagodas-Of-Zayton_text.pdf#page=117",
+        "title": "The Twin Pagodas of Zayton (1935), plate 18",
+        "pdfPage": 117,
+        "plate": "18",
+        "note": "实际查看历史图版中的该尊；不是当下保存状态。"
+      },
+      {
+        "url": "https://archive.org/download/in.ernet.dli.2015.127766/2015.127766.The-Twin-Pagodas-Of-Zayton_text.pdf#page=37",
+        "title": "The Twin Pagodas of Zayton (1935), Iconography: Western Pagoda",
+        "pdfPage": 37,
+        "note": "逐条读取原著的形制描述；传统人物归名不作为无争议身份。"
+      }
+    ],
+    "description": "甲胄护法握长剑，剑身从腰前伸向观察者右上。",
+    "body": "armoured",
+    "head": "cap",
+    "halo": "unknown",
+    "pose": "frontal",
+    "hands": {
+      "left": "holding",
+      "right": "holding"
+    },
+    "objects": [
+      {
+        "kind": "sword",
+        "side": "right",
+        "orientation": "diagonal"
+      }
+    ],
+    "support": "unknown",
+    "companions": [],
+    "details": [
+      "甲片与裙甲",
+      "剑尖右上斜",
+      "靴分立"
+    ]
+  },
+  {
+    "id": "W-4-05",
+    "tower": "west",
+    "level": 4,
+    "number": 5,
+    "evidence": "photo",
+    "sources": [
+      {
+        "url": "https://archive.org/download/in.ernet.dli.2015.127766/2015.127766.The-Twin-Pagodas-Of-Zayton_text.pdf#page=124",
+        "title": "The Twin Pagodas of Zayton (1935), plate 25",
+        "pdfPage": 124,
+        "plate": "25",
+        "note": "实际查看历史图版中的该尊；不是当下保存状态。"
+      },
+      {
+        "url": "https://archive.org/download/in.ernet.dli.2015.127766/2015.127766.The-Twin-Pagodas-Of-Zayton_text.pdf#page=37",
+        "title": "The Twin Pagodas of Zayton (1935), Iconography: Western Pagoda",
+        "pdfPage": 37,
+        "note": "逐条读取原著的形制描述；传统人物归名不作为无争议身份。"
+      }
+    ],
+    "description": "高冠带须人物持瓶与柳枝，原著明确立于莲花；现存独立图仅上身。",
+    "body": "robe",
+    "head": "crown",
+    "halo": "unknown",
+    "pose": "unknown",
+    "hands": {
+      "left": "holding",
+      "right": "holding"
+    },
+    "objects": [
+      {
+        "kind": "flask",
+        "side": "center",
+        "orientation": "unknown"
+      },
+      {
+        "kind": "flower",
+        "side": "center",
+        "orientation": "unknown"
+      }
+    ],
+    "support": "lotus",
+    "companions": [],
+    "details": [
+      "图版25仅头胸近照，下身与持物方向依据不足",
+      "冠中小像",
+      "须髭",
+      "柳枝不能泛化成大花朵",
+      "柳枝"
+    ]
+  },
+  {
+    "id": "W-4-06",
+    "tower": "west",
+    "level": 4,
+    "number": 6,
+    "evidence": "text",
+    "sources": [
+      {
+        "url": "https://archive.org/download/in.ernet.dli.2015.127766/2015.127766.The-Twin-Pagodas-Of-Zayton_text.pdf#page=38",
+        "title": "The Twin Pagodas of Zayton (1935), Iconography: Western Pagoda",
+        "pdfPage": 38,
+        "note": "逐条读取原著的形制描述；传统人物归名不作为无争议身份。"
+      }
+    ],
+    "description": "原著记与相邻人物相近的冠饰、须髭和莲花立姿，但持杵与钟铃。",
+    "body": "robe",
+    "head": "crown",
+    "halo": "unknown",
+    "pose": "unknown",
+    "hands": {
+      "left": "unknown",
+      "right": "unknown"
+    },
+    "objects": [
+      {
+        "kind": "vajra",
+        "side": "center",
+        "orientation": "unknown"
+      },
+      {
+        "kind": "bell",
+        "side": "center",
+        "orientation": "unknown"
+      }
+    ],
+    "support": "lotus",
+    "companions": [],
+    "details": [
+      "须髭",
+      "此尊在现有Pl18残页不可辨，不能把相邻5的照片当本尊",
+      "不是瓶与花",
+      "仅文字依据；手势、头饰及持物方向未说明者保留未知，不添加随机差异。",
+      "文字未给出左右的持物以center占位；未给出朝向则orientation为unknown。"
+    ]
+  },
+  {
+    "id": "W-4-07",
+    "tower": "west",
+    "level": 4,
+    "number": 7,
+    "evidence": "text",
+    "sources": [
+      {
+        "url": "https://archive.org/download/in.ernet.dli.2015.127766/2015.127766.The-Twin-Pagodas-Of-Zayton_text.pdf#page=38",
+        "title": "The Twin Pagodas of Zayton (1935), Iconography: Western Pagoda",
+        "pdfPage": 38,
+        "note": "逐条读取原著的形制描述；传统人物归名不作为无争议身份。"
+      }
+    ],
+    "description": "原著记持杵护法，与8成对，个别衣饰姿势未展开。",
+    "body": "unknown",
+    "head": "unknown",
+    "halo": "unknown",
+    "pose": "unknown",
+    "hands": {
+      "left": "unknown",
+      "right": "unknown"
+    },
+    "objects": [
+      {
+        "kind": "vajra",
+        "side": "center",
+        "orientation": "unknown"
+      }
+    ],
+    "support": "unknown",
+    "companions": [],
+    "details": [
+      "现有Pl18残页未见",
+      "身体裸露与否未知",
+      "仅文字依据；手势、头饰及持物方向未说明者保留未知，不添加随机差异。",
+      "文字未给出左右的持物以center占位；未给出朝向则orientation为unknown。"
+    ]
+  },
+  {
+    "id": "W-4-08",
+    "tower": "west",
+    "level": 4,
+    "number": 8,
+    "evidence": "text",
+    "sources": [
+      {
+        "url": "https://archive.org/download/in.ernet.dli.2015.127766/2015.127766.The-Twin-Pagodas-Of-Zayton_text.pdf#page=38",
+        "title": "The Twin Pagodas of Zayton (1935), Iconography: Western Pagoda",
+        "pdfPage": 38,
+        "note": "逐条读取原著的形制描述；传统人物归名不作为无争议身份。"
+      }
+    ],
+    "description": "原著记持杵护法，与7成对，个别衣饰姿势未展开。",
+    "body": "unknown",
+    "head": "unknown",
+    "halo": "unknown",
+    "pose": "unknown",
+    "hands": {
+      "left": "unknown",
+      "right": "unknown"
+    },
+    "objects": [
+      {
+        "kind": "vajra",
+        "side": "center",
+        "orientation": "unknown"
+      }
+    ],
+    "support": "unknown",
+    "companions": [],
+    "details": [
+      "现有Pl18残页未见",
+      "不因成对而随机反转手势",
+      "仅文字依据；手势、头饰及持物方向未说明者保留未知，不添加随机差异。",
+      "文字未给出左右的持物以center占位；未给出朝向则orientation为unknown。"
+    ]
+  },
+  {
+    "id": "W-4-09",
+    "tower": "west",
+    "level": 4,
+    "number": 9,
+    "evidence": "text",
+    "sources": [
+      {
+        "url": "https://archive.org/download/in.ernet.dli.2015.127766/2015.127766.The-Twin-Pagodas-Of-Zayton_text.pdf#page=38",
+        "title": "The Twin Pagodas of Zayton (1935), Iconography: Western Pagoda",
+        "pdfPage": 38,
+        "note": "逐条读取原著的形制描述；传统人物归名不作为无争议身份。"
+      }
+    ],
+    "description": "原著记菩萨形人物手持念珠。",
+    "body": "unknown",
+    "head": "unknown",
+    "halo": "unknown",
+    "pose": "unknown",
+    "hands": {
+      "left": "unknown",
+      "right": "unknown"
+    },
+    "objects": [
+      {
+        "kind": "rosary",
+        "side": "center",
+        "orientation": "unknown"
+      }
+    ],
+    "support": "unknown",
+    "companions": [],
+    "details": [
+      "Pl18只剩邻图细窄残片，不能核对整尊",
+      "衣冠和支座未知",
+      "仅文字依据；手势、头饰及持物方向未说明者保留未知，不添加随机差异。",
+      "文字未给出左右的持物以center占位；未给出朝向则orientation为unknown。"
+    ]
+  },
+  {
+    "id": "W-4-10",
+    "tower": "west",
+    "level": 4,
+    "number": 10,
+    "evidence": "photo",
+    "sources": [
+      {
+        "url": "https://archive.org/download/in.ernet.dli.2015.127766/2015.127766.The-Twin-Pagodas-Of-Zayton_text.pdf#page=117",
+        "title": "The Twin Pagodas of Zayton (1935), plate 18",
+        "pdfPage": 117,
+        "plate": "18",
+        "note": "实际查看历史图版中的该尊；不是当下保存状态。"
+      },
+      {
+        "url": "https://archive.org/download/in.ernet.dli.2015.127766/2015.127766.The-Twin-Pagodas-Of-Zayton_text.pdf#page=38",
+        "title": "The Twin Pagodas of Zayton (1935), Iconography: Western Pagoda",
+        "pdfPage": 38,
+        "note": "逐条读取原著的形制描述；传统人物归名不作为无争议身份。"
+      }
+    ],
+    "description": "带头光的长袍立像在胸前持如意形器，衣摆纵向展开。",
+    "body": "robe",
+    "head": "crown",
+    "halo": "round",
+    "pose": "frontal",
+    "hands": {
+      "left": "holding",
+      "right": "holding"
+    },
+    "objects": [
+      {
+        "kind": "ruyi",
+        "side": "center",
+        "orientation": "vertical"
+      }
+    ],
+    "support": "unknown",
+    "companions": [],
+    "details": [
+      "扫描位于页左边缘",
+      "下部与右缘有截失",
+      "如意物类由正文确认"
+    ]
+  },
+  {
+    "id": "W-4-11",
+    "tower": "west",
+    "level": 4,
+    "number": 11,
+    "evidence": "photo",
+    "sources": [
+      {
+        "url": "https://archive.org/download/in.ernet.dli.2015.127766/2015.127766.The-Twin-Pagodas-Of-Zayton_text.pdf#page=125",
+        "title": "The Twin Pagodas of Zayton (1935), plate 26",
+        "pdfPage": 125,
+        "plate": "26",
+        "note": "实际查看历史图版中的该尊；不是当下保存状态。"
+      },
+      {
+        "url": "https://www.mnwhstq.com/bhjg/202406/t20240621_214053.htm",
+        "title": "泉州开元寺东西塔风华录（2024-06-21）",
+        "note": "现代图注：猴行者（西塔四层），与原著 W IV 11 猴面短衣持宽刀相合；已实际查看原网页的该尊照片。发表日期不是拍摄日期。"
+      },
+      {
+        "url": "https://archive.org/download/in.ernet.dli.2015.127766/2015.127766.The-Twin-Pagodas-Of-Zayton_text.pdf#page=38",
+        "title": "The Twin Pagodas of Zayton (1935), Iconography: Western Pagoda",
+        "pdfPage": 38,
+        "note": "逐条读取原著的形制描述；传统人物归名不作为无争议身份。"
+      }
+    ],
+    "description": "猴面短衣人物一手执珠串，另一手握宽刀，刀刃朝观察者左上。",
+    "body": "short-robe",
+    "head": "monkey",
+    "halo": "unknown",
+    "pose": "turned-left",
+    "hands": {
+      "left": "holding",
+      "right": "chest"
+    },
+    "objects": [
+      {
+        "kind": "sword",
+        "side": "left",
+        "orientation": "diagonal"
+      },
+      {
+        "kind": "rosary",
+        "side": "center",
+        "orientation": "vertical"
+      }
+    ],
+    "support": "unknown",
+    "companions": [],
+    "details": [
+      "绳腰带",
+      "腰边葫芦与卷轴据正文",
+      "短衣到大腿附近",
+      "宽刀不是金箍棒",
+      "现代近照下脚有栏杆遮挡",
+      "刀尖云中小像不据模糊扫描刻面容",
+      "腰间披带"
+    ]
+  },
+  {
+    "id": "W-4-12",
+    "tower": "west",
+    "level": 4,
+    "number": 12,
+    "evidence": "photo",
+    "sources": [
+      {
+        "url": "https://archive.org/download/in.ernet.dli.2015.127766/2015.127766.The-Twin-Pagodas-Of-Zayton_text.pdf#page=123",
+        "title": "The Twin Pagodas of Zayton (1935), plate 24",
+        "pdfPage": 123,
+        "plate": "24",
+        "note": "实际查看历史图版中的该尊；不是当下保存状态。"
+      },
+      {
+        "url": "https://www.mnwhstq.com/bhjg/202406/t20240621_214053.htm",
+        "title": "泉州开元寺东西塔风华录（2024-06-21）",
+        "note": "现代图注：火龙太子（西塔四层），与原著 W IV 12 王冠、圆珠、长枪特征相合；已实际查看原网页的该尊照片。发表日期不是拍摄日期。"
+      },
+      {
+        "url": "https://archive.org/download/in.ernet.dli.2015.127766/2015.127766.The-Twin-Pagodas-Of-Zayton_text.pdf#page=38",
+        "title": "The Twin Pagodas of Zayton (1935), Iconography: Western Pagoda",
+        "pdfPage": 38,
+        "note": "逐条读取原著的形制描述；传统人物归名不作为无争议身份。"
+      }
+    ],
+    "description": "王冠甲胄人物持长枪，另一手胸前托圆珠；枪侧有葫芦状物。",
+    "body": "armoured",
+    "head": "crown",
+    "halo": "unknown",
+    "pose": "frontal",
+    "hands": {
+      "left": "holding",
+      "right": "chest"
+    },
+    "objects": [
+      {
+        "kind": "staff",
+        "side": "left",
+        "orientation": "diagonal"
+      },
+      {
+        "kind": "pearl",
+        "side": "right",
+        "orientation": "vertical"
+      },
+      {
+        "kind": "flask",
+        "side": "left",
+        "orientation": "vertical"
+      }
+    ],
+    "support": "unknown",
+    "companions": [
+      "horse"
+    ],
+    "details": [
+      "staff 表示长枪",
+      "现代近照中枪在观察者左，圆珠在右手前",
+      "云中马在原著明确，现代图上部与侧缘遮挡，位置不强定",
+      "马鞍莲花解释原文带问号",
+      "长枪"
+    ]
+  },
+  {
+    "id": "W-4-13",
+    "tower": "west",
+    "level": 4,
+    "number": 13,
+    "evidence": "photo",
+    "sources": [
+      {
+        "url": "https://archive.org/download/in.ernet.dli.2015.127766/2015.127766.The-Twin-Pagodas-Of-Zayton_text.pdf#page=117",
+        "title": "The Twin Pagodas of Zayton (1935), plate 18",
+        "pdfPage": 117,
+        "plate": "18",
+        "note": "实际查看历史图版中的该尊；不是当下保存状态。"
+      },
+      {
+        "url": "https://archive.org/download/in.ernet.dli.2015.127766/2015.127766.The-Twin-Pagodas-Of-Zayton_text.pdf#page=39",
+        "title": "The Twin Pagodas of Zayton (1935), Iconography: Western Pagoda",
+        "pdfPage": 39,
+        "note": "逐条读取原著的形制描述；传统人物归名不作为无争议身份。"
+      }
+    ],
+    "description": "圆头光冠饰立像展开书卷，头旁另有日轮形小圆盘。",
+    "body": "robe",
+    "head": "crown",
+    "halo": "round",
+    "pose": "frontal",
+    "hands": {
+      "left": "holding",
+      "right": "holding"
+    },
+    "objects": [
+      {
+        "kind": "scroll",
+        "side": "center",
+        "orientation": "diagonal"
+      },
+      {
+        "kind": "sun",
+        "side": "left",
+        "orientation": "vertical"
+      }
+    ],
+    "support": "unknown",
+    "companions": [],
+    "details": [
+      "观察者左上日轮",
+      "书卷题名仅据原文，不伪造可读细字",
+      "长披帛沿两侧垂落"
+    ]
+  },
+  {
+    "id": "W-4-14",
+    "tower": "west",
+    "level": 4,
+    "number": 14,
+    "evidence": "text",
+    "sources": [
+      {
+        "url": "https://archive.org/download/in.ernet.dli.2015.127766/2015.127766.The-Twin-Pagodas-Of-Zayton_text.pdf#page=40",
+        "title": "The Twin Pagodas of Zayton (1935), Iconography: Western Pagoda",
+        "pdfPage": 40,
+        "note": "逐条读取原著的形制描述；传统人物归名不作为无争议身份。"
+      }
+    ],
+    "description": "原著记带月轮的人物，一手持如意，另一手持念珠。",
+    "body": "unknown",
+    "head": "unknown",
+    "halo": "unknown",
+    "pose": "unknown",
+    "hands": {
+      "left": "unknown",
+      "right": "unknown"
+    },
+    "objects": [
+      {
+        "kind": "ruyi",
+        "side": "center",
+        "orientation": "unknown"
+      },
+      {
+        "kind": "rosary",
+        "side": "center",
+        "orientation": "unknown"
+      },
+      {
+        "kind": "moon",
+        "side": "center",
+        "orientation": "unknown"
+      }
+    ],
+    "support": "unknown",
+    "companions": [],
+    "details": [
+      "持物左右未说明",
+      "Pl18可用扫描未含整尊",
+      "月轮是明确识别属性，位置未知",
+      "仅文字依据；手势、头饰及持物方向未说明者保留未知，不添加随机差异。",
+      "文字未给出左右的持物以center占位；未给出朝向则orientation为unknown。"
+    ]
+  },
+  {
+    "id": "W-4-15",
+    "tower": "west",
+    "level": 4,
+    "number": 15,
+    "evidence": "text",
+    "sources": [
+      {
+        "url": "https://archive.org/download/in.ernet.dli.2015.127766/2015.127766.The-Twin-Pagodas-Of-Zayton_text.pdf#page=40",
+        "title": "The Twin Pagodas of Zayton (1935), Iconography: Western Pagoda",
+        "pdfPage": 40,
+        "note": "逐条读取原著的形制描述；传统人物归名不作为无争议身份。"
+      }
+    ],
+    "description": "原著记持长剑的护法，与16成对。",
+    "body": "unknown",
+    "head": "unknown",
+    "halo": "unknown",
+    "pose": "unknown",
+    "hands": {
+      "left": "unknown",
+      "right": "unknown"
+    },
+    "objects": [
+      {
+        "kind": "sword",
+        "side": "center",
+        "orientation": "unknown"
+      }
+    ],
+    "support": "unknown",
+    "companions": [],
+    "details": [
+      "现有Pl18未见该尊",
+      "身体与头冠未细述",
+      "仅文字依据；手势、头饰及持物方向未说明者保留未知，不添加随机差异。",
+      "文字未给出左右的持物以center占位；未给出朝向则orientation为unknown。"
+    ]
+  },
+  {
+    "id": "W-4-16",
+    "tower": "west",
+    "level": 4,
+    "number": 16,
+    "evidence": "photo",
+    "sources": [
+      {
+        "url": "https://archive.org/download/in.ernet.dli.2015.127766/2015.127766.The-Twin-Pagodas-Of-Zayton_text.pdf#page=117",
+        "title": "The Twin Pagodas of Zayton (1935), plate 18",
+        "pdfPage": 117,
+        "plate": "18",
+        "note": "实际查看历史图版中的该尊；不是当下保存状态。"
+      },
+      {
+        "url": "https://archive.org/download/in.ernet.dli.2015.127766/2015.127766.The-Twin-Pagodas-Of-Zayton_text.pdf#page=40",
+        "title": "The Twin Pagodas of Zayton (1935), Iconography: Western Pagoda",
+        "pdfPage": 40,
+        "note": "逐条读取原著的形制描述；传统人物归名不作为无争议身份。"
+      }
+    ],
+    "description": "护法的残幅可见甲胄、手握斜剑和向外展开的衣带。",
+    "body": "armoured",
+    "head": "cap",
+    "halo": "unknown",
+    "pose": "unknown",
+    "hands": {
+      "left": "holding",
+      "right": "holding"
+    },
+    "objects": [
+      {
+        "kind": "sword",
+        "side": "right",
+        "orientation": "diagonal"
+      }
+    ],
+    "support": "unknown",
+    "companions": [],
+    "details": [
+      "该尊仅剩扫描左侧边缘的部分图像",
+      "只将可见甲胄与斜剑作photo依据，其余轮廓未知",
+      "剑尖朝观察者右上",
+      "披带"
+    ]
+  },
+  {
+    "id": "W-5-01",
+    "tower": "west",
+    "level": 5,
+    "number": 1,
+    "evidence": "photo",
+    "sources": [
+      {
+        "url": "https://archive.org/download/in.ernet.dli.2015.127766/2015.127766.The-Twin-Pagodas-Of-Zayton_text.pdf#page=118",
+        "title": "The Twin Pagodas of Zayton (1935), plate 19",
+        "pdfPage": 118,
+        "plate": "19",
+        "note": "实际查看历史图版中的该尊；不是当下保存状态。"
+      },
+      {
+        "url": "https://archive.org/download/in.ernet.dli.2015.127766/2015.127766.The-Twin-Pagodas-Of-Zayton_text.pdf#page=40",
+        "title": "The Twin Pagodas of Zayton (1935), Iconography: Western Pagoda",
+        "pdfPage": 40,
+        "note": "逐条读取原著的形制描述；传统人物归名不作为无争议身份。"
+      }
+    ],
+    "description": "圆头光长袍人物一手胸前托钵，另一手握长锡杖。",
+    "body": "robe",
+    "head": "bare",
+    "halo": "round",
+    "pose": "frontal",
+    "hands": {
+      "left": "holding",
+      "right": "holding"
+    },
+    "objects": [
+      {
+        "kind": "staff",
+        "side": "left",
+        "orientation": "vertical"
+      },
+      {
+        "kind": "bowl",
+        "side": "right",
+        "orientation": "horizontal"
+      }
+    ],
+    "support": "unknown",
+    "companions": [],
+    "details": [
+      "观察者左侧环杖",
+      "右侧胸前钵",
+      "衣纹竖向下垂",
+      "锡杖",
+      "环杖"
+    ]
+  },
+  {
+    "id": "W-5-02",
+    "tower": "west",
+    "level": 5,
+    "number": 2,
+    "evidence": "photo",
+    "sources": [
+      {
+        "url": "https://archive.org/download/in.ernet.dli.2015.127766/2015.127766.The-Twin-Pagodas-Of-Zayton_text.pdf#page=118",
+        "title": "The Twin Pagodas of Zayton (1935), plate 19",
+        "pdfPage": 118,
+        "plate": "19",
+        "note": "实际查看历史图版中的该尊；不是当下保存状态。"
+      },
+      {
+        "url": "https://archive.org/download/in.ernet.dli.2015.127766/2015.127766.The-Twin-Pagodas-Of-Zayton_text.pdf#page=40",
+        "title": "The Twin Pagodas of Zayton (1935), Iconography: Western Pagoda",
+        "pdfPage": 40,
+        "note": "逐条读取原著的形制描述；传统人物归名不作为无争议身份。"
+      }
+    ],
+    "description": "宽袍官服形人物手中有瓶与巾布，双臂在胸腹前交叠。",
+    "body": "official",
+    "head": "unknown",
+    "halo": "unknown",
+    "pose": "frontal",
+    "hands": {
+      "left": "holding",
+      "right": "holding"
+    },
+    "objects": [
+      {
+        "kind": "flask",
+        "side": "center",
+        "orientation": "unknown"
+      },
+      {
+        "kind": "cloth",
+        "side": "center",
+        "orientation": "unknown"
+      }
+    ],
+    "support": "unknown",
+    "companions": [],
+    "details": [
+      "瓶与巾布为正文明确",
+      "左右分配扫描不清，暂置中",
+      "长袖下垂"
+    ]
+  },
+  {
+    "id": "W-5-03",
+    "tower": "west",
+    "level": 5,
+    "number": 3,
+    "evidence": "photo",
+    "sources": [
+      {
+        "url": "https://archive.org/download/in.ernet.dli.2015.127766/2015.127766.The-Twin-Pagodas-Of-Zayton_text.pdf#page=118",
+        "title": "The Twin Pagodas of Zayton (1935), plate 19",
+        "pdfPage": 118,
+        "plate": "19",
+        "note": "实际查看历史图版中的该尊；不是当下保存状态。"
+      },
+      {
+        "url": "https://archive.org/download/in.ernet.dli.2015.127766/2015.127766.The-Twin-Pagodas-Of-Zayton_text.pdf#page=40",
+        "title": "The Twin Pagodas of Zayton (1935), Iconography: Western Pagoda",
+        "pdfPage": 40,
+        "note": "逐条读取原著的形制描述；传统人物归名不作为无争议身份。"
+      }
+    ],
+    "description": "圆头光披袍人物捧柄香炉状花茎，另一只手向器内伸入细杆。",
+    "body": "robe",
+    "head": "bare",
+    "halo": "round",
+    "pose": "frontal",
+    "hands": {
+      "left": "holding",
+      "right": "holding"
+    },
+    "objects": [
+      {
+        "kind": "censer",
+        "side": "center",
+        "orientation": "horizontal"
+      },
+      {
+        "kind": "flower",
+        "side": "center",
+        "orientation": "vertical"
+      }
+    ],
+    "support": "unknown",
+    "companions": [],
+    "details": [
+      "莲茎与插香的描述来自正文",
+      "细杆不能建成粗刀剑"
+    ]
+  },
+  {
+    "id": "W-5-04",
+    "tower": "west",
+    "level": 5,
+    "number": 4,
+    "evidence": "text",
+    "sources": [
+      {
+        "url": "https://archive.org/download/in.ernet.dli.2015.127766/2015.127766.The-Twin-Pagodas-Of-Zayton_text.pdf#page=40",
+        "title": "The Twin Pagodas of Zayton (1935), Iconography: Western Pagoda",
+        "pdfPage": 40,
+        "note": "逐条读取原著的形制描述；传统人物归名不作为无争议身份。"
+      }
+    ],
+    "description": "原著记带头光僧人，双手隔巾布托起小塔。",
+    "body": "robe",
+    "head": "unknown",
+    "halo": "round",
+    "pose": "unknown",
+    "hands": {
+      "left": "holding",
+      "right": "holding"
+    },
+    "objects": [
+      {
+        "kind": "stupa",
+        "side": "center",
+        "orientation": "unknown"
+      },
+      {
+        "kind": "cloth",
+        "side": "center",
+        "orientation": "unknown"
+      }
+    ],
+    "support": "unknown",
+    "companions": [],
+    "details": [
+      "Pl19在现有扫描缺少该尊",
+      "双手覆布托塔，不能只放空手",
+      "仅文字依据；手势、头饰及持物方向未说明者保留未知，不添加随机差异。",
+      "文字未给出左右的持物以center占位；未给出朝向则orientation为unknown。"
+    ]
+  },
+  {
+    "id": "W-5-05",
+    "tower": "west",
+    "level": 5,
+    "number": 5,
+    "evidence": "text",
+    "sources": [
+      {
+        "url": "https://archive.org/download/in.ernet.dli.2015.127766/2015.127766.The-Twin-Pagodas-Of-Zayton_text.pdf#page=41",
+        "title": "The Twin Pagodas of Zayton (1935), Iconography: Western Pagoda",
+        "pdfPage": 41,
+        "note": "逐条读取原著的形制描述；传统人物归名不作为无争议身份。"
+      }
+    ],
+    "description": "原著记持剑护法，出版时已因保存状况差而未刊照片。",
+    "body": "unknown",
+    "head": "unknown",
+    "halo": "unknown",
+    "pose": "unknown",
+    "hands": {
+      "left": "unknown",
+      "right": "unknown"
+    },
+    "objects": [
+      {
+        "kind": "sword",
+        "side": "center",
+        "orientation": "unknown"
+      }
+    ],
+    "support": "unknown",
+    "companions": [],
+    "details": [
+      "原著明确未刊独立照片",
+      "头冠、衣甲、姿势均未知",
+      "当前缺损程度不能由1935文字推定",
+      "仅文字依据；手势、头饰及持物方向未说明者保留未知，不添加随机差异。",
+      "文字未给出左右的持物以center占位；未给出朝向则orientation为unknown。"
+    ]
+  },
+  {
+    "id": "W-5-06",
+    "tower": "west",
+    "level": 5,
+    "number": 6,
+    "evidence": "text",
+    "sources": [
+      {
+        "url": "https://archive.org/download/in.ernet.dli.2015.127766/2015.127766.The-Twin-Pagodas-Of-Zayton_text.pdf#page=41",
+        "title": "The Twin Pagodas of Zayton (1935), Iconography: Western Pagoda",
+        "pdfPage": 41,
+        "note": "逐条读取原著的形制描述；传统人物归名不作为无争议身份。"
+      }
+    ],
+    "description": "原著记持剑护法，出版时已因保存状况差而未刊照片。",
+    "body": "unknown",
+    "head": "unknown",
+    "halo": "unknown",
+    "pose": "unknown",
+    "hands": {
+      "left": "unknown",
+      "right": "unknown"
+    },
+    "objects": [
+      {
+        "kind": "sword",
+        "side": "center",
+        "orientation": "unknown"
+      }
+    ],
+    "support": "unknown",
+    "companions": [],
+    "details": [
+      "原著明确未刊独立照片",
+      "与5成对，但不伪造区别",
+      "当前缺损程度待现代近照核对",
+      "仅文字依据；手势、头饰及持物方向未说明者保留未知，不添加随机差异。",
+      "文字未给出左右的持物以center占位；未给出朝向则orientation为unknown。"
+    ]
+  },
+  {
+    "id": "W-5-07",
+    "tower": "west",
+    "level": 5,
+    "number": 7,
+    "evidence": "photo",
+    "sources": [
+      {
+        "url": "https://archive.org/download/in.ernet.dli.2015.127766/2015.127766.The-Twin-Pagodas-Of-Zayton_text.pdf#page=126",
+        "title": "The Twin Pagodas of Zayton (1935), plate 27",
+        "pdfPage": 126,
+        "plate": "27",
+        "note": "实际查看历史图版中的该尊；不是当下保存状态。"
+      },
+      {
+        "url": "https://archive.org/download/in.ernet.dli.2015.127766/2015.127766.The-Twin-Pagodas-Of-Zayton_text.pdf#page=41",
+        "title": "The Twin Pagodas of Zayton (1935), Iconography: Western Pagoda",
+        "pdfPage": 41,
+        "note": "逐条读取原著的形制描述；传统人物归名不作为无争议身份。"
+      }
+    ],
+    "description": "坐姿人物在树下岩石前展开书册，衣裙沿膝腿垂下。",
+    "body": "seated",
+    "head": "unknown",
+    "halo": "unknown",
+    "pose": "seated",
+    "hands": {
+      "left": "holding",
+      "right": "holding"
+    },
+    "objects": [
+      {
+        "kind": "book",
+        "side": "center",
+        "orientation": "diagonal"
+      }
+    ],
+    "support": "rock",
+    "companions": [
+      "tree"
+    ],
+    "details": [
+      "右后侧树干",
+      "岩石座",
+      "书册向观察者左侧展开",
+      "人物归名在原书有不同解释，未固化",
+      "右侧树"
+    ]
+  },
+  {
+    "id": "W-5-08",
+    "tower": "west",
+    "level": 5,
+    "number": 8,
+    "evidence": "photo",
+    "sources": [
+      {
+        "url": "https://archive.org/download/in.ernet.dli.2015.127766/2015.127766.The-Twin-Pagodas-Of-Zayton_text.pdf#page=126",
+        "title": "The Twin Pagodas of Zayton (1935), plate 27",
+        "pdfPage": 126,
+        "plate": "27",
+        "note": "实际查看历史图版中的该尊；不是当下保存状态。"
+      },
+      {
+        "url": "https://archive.org/download/in.ernet.dli.2015.127766/2015.127766.The-Twin-Pagodas-Of-Zayton_text.pdf#page=41",
+        "title": "The Twin Pagodas of Zayton (1935), Iconography: Western Pagoda",
+        "pdfPage": 41,
+        "note": "逐条读取原著的形制描述；传统人物归名不作为无争议身份。"
+      }
+    ],
+    "description": "长袍人物肩上扛杆，杆端悬有小型瘦削人形，腰带夹方枕。",
+    "body": "robe",
+    "head": "bare",
+    "halo": "unknown",
+    "pose": "frontal",
+    "hands": {
+      "left": "holding",
+      "right": "waist"
+    },
+    "objects": [
+      {
+        "kind": "staff",
+        "side": "center",
+        "orientation": "diagonal"
+      }
+    ],
+    "support": "unknown",
+    "companions": [
+      "skeleton"
+    ],
+    "details": [
+      "右上方悬垂小人形",
+      "腰前方枕",
+      "原文只可支持瘦削形体，不刻露骨创伤",
+      "杆扛于肩，不等同直立僧杖",
+      "右侧悬垂小人形"
+    ]
+  },
+  {
+    "id": "W-5-09",
+    "tower": "west",
+    "level": 5,
+    "number": 9,
+    "evidence": "text",
+    "sources": [
+      {
+        "url": "https://archive.org/download/in.ernet.dli.2015.127766/2015.127766.The-Twin-Pagodas-Of-Zayton_text.pdf#page=43",
+        "title": "The Twin Pagodas of Zayton (1935), Iconography: Western Pagoda",
+        "pdfPage": 43,
+        "note": "逐条读取原著的形制描述；传统人物归名不作为无争议身份。"
+      }
+    ],
+    "description": "原著记全身着衣而不着甲的护法，持幡。",
+    "body": "robe",
+    "head": "unknown",
+    "halo": "unknown",
+    "pose": "unknown",
+    "hands": {
+      "left": "unknown",
+      "right": "unknown"
+    },
+    "objects": [
+      {
+        "kind": "banner",
+        "side": "center",
+        "orientation": "unknown"
+      }
+    ],
+    "support": "unknown",
+    "companions": [],
+    "details": [
+      "Pl19该半页未见",
+      "不能把衣袍渲染为甲胄",
+      "幡面形状未知",
+      "仅文字依据；手势、头饰及持物方向未说明者保留未知，不添加随机差异。",
+      "文字未给出左右的持物以center占位；未给出朝向则orientation为unknown。"
+    ]
+  },
+  {
+    "id": "W-5-10",
+    "tower": "west",
+    "level": 5,
+    "number": 10,
+    "evidence": "text",
+    "sources": [
+      {
+        "url": "https://archive.org/download/in.ernet.dli.2015.127766/2015.127766.The-Twin-Pagodas-Of-Zayton_text.pdf#page=43",
+        "title": "The Twin Pagodas of Zayton (1935), Iconography: Western Pagoda",
+        "pdfPage": 43,
+        "note": "逐条读取原著的形制描述；传统人物归名不作为无争议身份。"
+      }
+    ],
+    "description": "原著记全身着衣而不着甲的护法，持命令牌或筒状物。",
+    "body": "robe",
+    "head": "unknown",
+    "halo": "unknown",
+    "pose": "unknown",
+    "hands": {
+      "left": "unknown",
+      "right": "unknown"
+    },
+    "objects": [
+      {
+        "kind": "tablet",
+        "side": "center",
+        "orientation": "unknown"
+      }
+    ],
+    "support": "unknown",
+    "companions": [],
+    "details": [
+      "牌或筒为原著保留的两种解释",
+      "对象以中性狭长形表示",
+      "Pl19该半页未见",
+      "仅文字依据；手势、头饰及持物方向未说明者保留未知，不添加随机差异。",
+      "文字未给出左右的持物以center占位；未给出朝向则orientation为unknown。"
+    ]
+  },
+  {
+    "id": "W-5-11",
+    "tower": "west",
+    "level": 5,
+    "number": 11,
+    "evidence": "photo",
+    "sources": [
+      {
+        "url": "https://archive.org/download/in.ernet.dli.2015.127766/2015.127766.The-Twin-Pagodas-Of-Zayton_text.pdf#page=126",
+        "title": "The Twin Pagodas of Zayton (1935), plate 27",
+        "pdfPage": 126,
+        "plate": "27",
+        "note": "实际查看历史图版中的该尊；不是当下保存状态。"
+      },
+      {
+        "url": "https://archive.org/download/in.ernet.dli.2015.127766/2015.127766.The-Twin-Pagodas-Of-Zayton_text.pdf#page=43",
+        "title": "The Twin Pagodas of Zayton (1935), Iconography: Western Pagoda",
+        "pdfPage": 43,
+        "note": "逐条读取原著的形制描述；传统人物归名不作为无争议身份。"
+      }
+    ],
+    "description": "圆头光冠饰人物立于花瓣座，胸前一手托卷，另一手作手势。",
+    "body": "robe",
+    "head": "crown",
+    "halo": "round",
+    "pose": "frontal",
+    "hands": {
+      "left": "chest",
+      "right": "holding"
+    },
+    "objects": [
+      {
+        "kind": "scroll",
+        "side": "right",
+        "orientation": "diagonal"
+      }
+    ],
+    "support": "lotus",
+    "companions": [],
+    "details": [
+      "原文自身左手持卷即观察者右",
+      "另一手具体手印不细造",
+      "衣纹细密"
+    ]
+  },
+  {
+    "id": "W-5-12",
+    "tower": "west",
+    "level": 5,
+    "number": 12,
+    "evidence": "photo",
+    "sources": [
+      {
+        "url": "https://archive.org/download/in.ernet.dli.2015.127766/2015.127766.The-Twin-Pagodas-Of-Zayton_text.pdf#page=118",
+        "title": "The Twin Pagodas of Zayton (1935), plate 19",
+        "pdfPage": 118,
+        "plate": "19",
+        "note": "实际查看历史图版中的该尊；不是当下保存状态。"
+      },
+      {
+        "url": "https://archive.org/download/in.ernet.dli.2015.127766/2015.127766.The-Twin-Pagodas-Of-Zayton_text.pdf#page=43",
+        "title": "The Twin Pagodas of Zayton (1935), Iconography: Western Pagoda",
+        "pdfPage": 43,
+        "note": "逐条读取原著的形制描述；传统人物归名不作为无争议身份。"
+      }
+    ],
+    "description": "长袍冠饰人物带圆头光，一手持矩形扇，另一手有念珠。",
+    "body": "robe",
+    "head": "crown",
+    "halo": "round",
+    "pose": "frontal",
+    "hands": {
+      "left": "holding",
+      "right": "holding"
+    },
+    "objects": [
+      {
+        "kind": "fan",
+        "side": "left",
+        "orientation": "diagonal"
+      },
+      {
+        "kind": "rosary",
+        "side": "right",
+        "orientation": "vertical"
+      }
+    ],
+    "support": "lotus",
+    "companions": [],
+    "details": [
+      "原文自身右手扇、左手珠，已换算",
+      "莲花承托由正文确认",
+      "扇边在旧图中较浅",
+      "矩形扇"
+    ]
+  },
+  {
+    "id": "W-5-13",
+    "tower": "west",
+    "level": 5,
+    "number": 13,
+    "evidence": "photo",
+    "sources": [
+      {
+        "url": "https://archive.org/download/in.ernet.dli.2015.127766/2015.127766.The-Twin-Pagodas-Of-Zayton_text.pdf#page=118",
+        "title": "The Twin Pagodas of Zayton (1935), plate 19",
+        "pdfPage": 118,
+        "plate": "19",
+        "note": "实际查看历史图版中的该尊；不是当下保存状态。"
+      },
+      {
+        "url": "https://archive.org/download/in.ernet.dli.2015.127766/2015.127766.The-Twin-Pagodas-Of-Zayton_text.pdf#page=43",
+        "title": "The Twin Pagodas of Zayton (1935), Iconography: Western Pagoda",
+        "pdfPage": 43,
+        "note": "逐条读取原著的形制描述；传统人物归名不作为无争议身份。"
+      }
+    ],
+    "description": "双髻短袍童子形人物持长筒，宽袖与裤腿分开。",
+    "body": "short-robe",
+    "head": "topknot",
+    "halo": "unknown",
+    "pose": "frontal",
+    "hands": {
+      "left": "holding",
+      "right": "holding"
+    },
+    "objects": [
+      {
+        "kind": "other",
+        "side": "center",
+        "orientation": "vertical"
+      }
+    ],
+    "support": "unknown",
+    "companions": [],
+    "details": [
+      "双髻",
+      "other 为命令筒状物",
+      "膝下露裤腿",
+      "不能渲染为成年人王冠"
+    ]
+  },
+  {
+    "id": "W-5-14",
+    "tower": "west",
+    "level": 5,
+    "number": 14,
+    "evidence": "photo",
+    "sources": [
+      {
+        "url": "https://archive.org/download/in.ernet.dli.2015.127766/2015.127766.The-Twin-Pagodas-Of-Zayton_text.pdf#page=126",
+        "title": "The Twin Pagodas of Zayton (1935), plate 27",
+        "pdfPage": 126,
+        "plate": "27",
+        "note": "实际查看历史图版中的该尊；不是当下保存状态。"
+      },
+      {
+        "url": "https://archive.org/download/in.ernet.dli.2015.127766/2015.127766.The-Twin-Pagodas-Of-Zayton_text.pdf#page=43",
+        "title": "The Twin Pagodas of Zayton (1935), Iconography: Western Pagoda",
+        "pdfPage": 43,
+        "note": "逐条读取原著的形制描述；传统人物归名不作为无争议身份。"
+      }
+    ],
+    "description": "双髻短袍童子形人物在胸前捧包布的方印。",
+    "body": "short-robe",
+    "head": "topknot",
+    "halo": "unknown",
+    "pose": "frontal",
+    "hands": {
+      "left": "holding",
+      "right": "holding"
+    },
+    "objects": [
+      {
+        "kind": "seal",
+        "side": "center",
+        "orientation": "horizontal"
+      },
+      {
+        "kind": "cloth",
+        "side": "center",
+        "orientation": "horizontal"
+      }
+    ],
+    "support": "unknown",
+    "companions": [],
+    "details": [
+      "双髻",
+      "短袍下露宽裤",
+      "方印由布包裹，不加未见刻字"
+    ]
+  },
+  {
+    "id": "W-5-15",
+    "tower": "west",
+    "level": 5,
+    "number": 15,
+    "evidence": "text",
+    "sources": [
+      {
+        "url": "https://archive.org/download/in.ernet.dli.2015.127766/2015.127766.The-Twin-Pagodas-Of-Zayton_text.pdf#page=44",
+        "title": "The Twin Pagodas of Zayton (1935), Iconography: Western Pagoda",
+        "pdfPage": 44,
+        "note": "逐条读取原著的形制描述；传统人物归名不作为无争议身份。"
+      }
+    ],
+    "description": "原著记菩萨形人物手持盛饭的钵。",
+    "body": "unknown",
+    "head": "unknown",
+    "halo": "unknown",
+    "pose": "unknown",
+    "hands": {
+      "left": "unknown",
+      "right": "unknown"
+    },
+    "objects": [
+      {
+        "kind": "bowl",
+        "side": "center",
+        "orientation": "unknown"
+      }
+    ],
+    "support": "unknown",
+    "companions": [],
+    "details": [
+      "Pl19该半页未见",
+      "米饭只概括钵内浅隆起，不造颗粒身份图案",
+      "衣冠未知",
+      "仅文字依据；手势、头饰及持物方向未说明者保留未知，不添加随机差异。",
+      "文字未给出左右的持物以center占位；未给出朝向则orientation为unknown。"
+    ]
+  },
+  {
+    "id": "W-5-16",
+    "tower": "west",
+    "level": 5,
+    "number": 16,
+    "evidence": "text",
+    "sources": [
+      {
+        "url": "https://archive.org/download/in.ernet.dli.2015.127766/2015.127766.The-Twin-Pagodas-Of-Zayton_text.pdf#page=44",
+        "title": "The Twin Pagodas of Zayton (1935), Iconography: Western Pagoda",
+        "pdfPage": 44,
+        "note": "逐条读取原著的形制描述；传统人物归名不作为无争议身份。"
+      }
+    ],
+    "description": "原著记菩萨形人物手持插花的瓶。",
+    "body": "unknown",
+    "head": "unknown",
+    "halo": "unknown",
+    "pose": "unknown",
+    "hands": {
+      "left": "unknown",
+      "right": "unknown"
+    },
+    "objects": [
+      {
+        "kind": "flask",
+        "side": "center",
+        "orientation": "unknown"
+      },
+      {
+        "kind": "flower",
+        "side": "center",
+        "orientation": "unknown"
+      }
+    ],
+    "support": "unknown",
+    "companions": [],
+    "details": [
+      "Pl19该半页未见",
+      "花的品种在原文为传统解释，不建成确定植物种",
+      "衣冠未知",
+      "仅文字依据；手势、头饰及持物方向未说明者保留未知，不添加随机差异。",
+      "文字未给出左右的持物以center占位；未给出朝向则orientation为unknown。"
+    ]
+  }
+]

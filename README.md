@@ -48,7 +48,7 @@ npm run dev -- --port 5179 --strictPort
 
 细部参考：[闽南文化生态保护区《泉州开元寺东西塔风华录》](https://www.mnwhstq.com/bhjg/202406/t20240621_214053.htm)。增加浅浮雕人物的头光、衣褶与持物差异、石栏卷草、檐角铃、石柱分节及塔座线脚。具体人物与方位仍为简化意象，并非逐尊测绘。详见 `docs/DETAIL-NOTES.md`。
 
-人物补充资料：[Ecke、Demiéville《刺桐双塔》（1935）扫描本](https://archive.org/details/in.ernet.dli.2015.127766)。已查阅东西塔五层的代表图版，结合有明确图注的近期照片核对姿态与轮廓。逐层图版索引、覆盖范围和缺口见 [雕刻研究记录](docs/SCULPTURE-RESEARCH.md)；材料与航拍观察方法见 [本轮校核说明](docs/DRONE-REFINEMENT.md)。这不等于160尊人物已逐尊复原。
+人物补充资料：[Ecke、Demiéville《刺桐双塔》（1935）扫描本](https://archive.org/details/in.ernet.dli.2015.127766)与可定位现代照片。两塔160处均有独立来源记录：121处有可核对图像（含历史照片与局部残幅），39处主要据文字保守补形。衣冠、手势、持物、承托与从者由逐条记录驱动，未知细节留缺，不随机制造差异。见 [160处逐尊索引](docs/SCULPTURE-CATALOG.md)、[研究方法与缺口](docs/SCULPTURE-RESEARCH.md)及[航拍校核说明](docs/DRONE-REFINEMENT.md)。模型仍是形态概括，不是160尊高精度测绘复原。
 
 补充的 [kknews 页面](https://kknews.cc/zh-sg/culture/ag48e6x.html)在本次制作时受站点访问验证阻挡，未取得正文与图片，因此未作为已验证的建模依据。
 
@@ -68,6 +68,9 @@ npm run dev -- --port 5179 --strictPort
 ## 主要文件
 
 - `src/heritage/architecture.ts`：双塔几何、叠涩石构与营造次序。
+- `src/heritage/sculptureGeometry.ts`：按逐尊证据构造人物浮雕。
+- `src/heritage/data/*-sculptures.json`：160处人物的形态、证据和未知项。
+- `scripts/check-sculptures.mjs`：逐尊编号、位置覆盖与证据字段检查。
 - `src/heritage/materials.ts`：花岗岩的颜色、凹凸和粗糙度。
 - `src/heritage/builder.ts`：按材质合批、GPU逐构件运动、同步阴影。
 - `src/PagodaThreeScene.tsx`：灯光、相机、响应式构图和按需渲染。

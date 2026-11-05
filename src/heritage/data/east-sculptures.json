@@ -1,0 +1,3595 @@
+[
+  {
+    "id": "E-1-01",
+    "tower": "east",
+    "level": 1,
+    "number": 1,
+    "evidence": "photo",
+    "sources": [
+      {
+        "url": "https://archive.org/details/in.ernet.dli.2015.127766",
+        "title": "The Twin Pagodas of Zayton：历史实物照片",
+        "pdfPage": 140,
+        "plate": "42",
+        "note": "已实际打开该图版并核对图内层号/编号；历史黑白照片不代表今日材色。"
+      },
+      {
+        "url": "https://archive.org/details/in.ernet.dli.2015.127766",
+        "title": "Ecke / Demiéville, The Twin Pagodas of Zayton (1935)",
+        "pdfPage": 69,
+        "note": "原书印刷页 66，E 1 1 的逐条形态描述；传统名号与作者推定不当作现代定论。"
+      }
+    ],
+    "description": "南面右侧护法，裸臂扭身，长杵由腹前斜向画面右上。",
+    "body": "bare",
+    "head": "topknot",
+    "halo": "unknown",
+    "pose": "turned-left",
+    "hands": {
+      "left": "waist",
+      "right": "raised"
+    },
+    "objects": [
+      {
+        "kind": "vajra",
+        "side": "center",
+        "orientation": "diagonal"
+      }
+    ],
+    "support": "unknown",
+    "companions": [],
+    "details": [
+      "双髻",
+      "裸臂",
+      "屈膝",
+      "闭口",
+      "腰间披带"
+    ]
+  },
+  {
+    "id": "E-1-02",
+    "tower": "east",
+    "level": 1,
+    "number": 2,
+    "evidence": "photo",
+    "sources": [
+      {
+        "url": "https://archive.org/details/in.ernet.dli.2015.127766",
+        "title": "The Twin Pagodas of Zayton：历史实物照片",
+        "pdfPage": 140,
+        "plate": "42",
+        "note": "已实际打开该图版并核对图内层号/编号；历史黑白照片不代表今日材色。"
+      },
+      {
+        "url": "https://archive.org/details/in.ernet.dli.2015.127766",
+        "title": "Ecke / Demiéville, The Twin Pagodas of Zayton (1935)",
+        "pdfPage": 69,
+        "note": "原书印刷页 66，E 1 2 的逐条形态描述；传统名号与作者推定不当作现代定论。"
+      }
+    ],
+    "description": "南面左侧护法，一臂举起、另一臂横过腹部，斜杵与飘带形成交叉。",
+    "body": "bare",
+    "head": "topknot",
+    "halo": "unknown",
+    "pose": "turned-right",
+    "hands": {
+      "left": "raised",
+      "right": "waist"
+    },
+    "objects": [
+      {
+        "kind": "vajra",
+        "side": "center",
+        "orientation": "diagonal"
+      }
+    ],
+    "support": "unknown",
+    "companions": [],
+    "details": [
+      "双髻",
+      "裸臂",
+      "屈膝",
+      "张口",
+      "腰间披带"
+    ]
+  },
+  {
+    "id": "E-1-03",
+    "tower": "east",
+    "level": 1,
+    "number": 3,
+    "evidence": "photo",
+    "sources": [
+      {
+        "url": "https://www.mnwhstq.com/bhjg/202406/t20240621_214053.htm",
+        "title": "泉州开元寺东西塔风华录，2024-06-21",
+        "note": "已看现代彩色近照；与旧图轮廓对应，现代标题不作为无争议神格认定。"
+      },
+      {
+        "url": "https://archive.org/details/in.ernet.dli.2015.127766",
+        "title": "The Twin Pagodas of Zayton：历史实物照片",
+        "pdfPage": 140,
+        "plate": "42",
+        "note": "已实际打开该图版并核对图内层号/编号；历史黑白照片不代表今日材色。"
+      },
+      {
+        "url": "https://archive.org/details/in.ernet.dli.2015.127766",
+        "title": "Ecke / Demiéville, The Twin Pagodas of Zayton (1935)",
+        "pdfPage": 69,
+        "note": "原书印刷页 66，E 1 3 的逐条形态描述；传统名号与作者推定不当作现代定论。"
+      }
+    ],
+    "description": "西南面右侧穿甲人物合掌，腿边有长身兽形围绕。",
+    "body": "armoured",
+    "head": "topknot",
+    "halo": "unknown",
+    "pose": "frontal",
+    "hands": {
+      "left": "joined",
+      "right": "joined"
+    },
+    "objects": [],
+    "support": "unknown",
+    "companions": [
+      "dragon"
+    ],
+    "details": [
+      "合掌",
+      "火焰状发髻",
+      "盔甲裙摆",
+      "腿边龙蛇状兽形；具体神格旧书存疑"
+    ]
+  },
+  {
+    "id": "E-1-04",
+    "tower": "east",
+    "level": 1,
+    "number": 4,
+    "evidence": "photo",
+    "sources": [
+      {
+        "url": "https://www.mnwhstq.com/bhjg/202406/t20240621_214053.htm",
+        "title": "泉州开元寺东西塔风华录，2024-06-21",
+        "note": "已看现代彩色近照；与旧图轮廓对应，现代标题不作为无争议神格认定。"
+      },
+      {
+        "url": "https://archive.org/details/in.ernet.dli.2015.127766",
+        "title": "The Twin Pagodas of Zayton：历史实物照片",
+        "pdfPage": 140,
+        "plate": "42",
+        "note": "已实际打开该图版并核对图内层号/编号；历史黑白照片不代表今日材色。"
+      },
+      {
+        "url": "https://archive.org/details/in.ernet.dli.2015.127766",
+        "title": "Ecke / Demiéville, The Twin Pagodas of Zayton (1935)",
+        "pdfPage": 69,
+        "note": "原书印刷页 66，E 1 4 的逐条形态描述；传统名号与作者推定不当作现代定论。"
+      }
+    ],
+    "description": "西南面左侧冠服人物，双手叠放在垂直长剑顶端。",
+    "body": "robe",
+    "head": "crown",
+    "halo": "unknown",
+    "pose": "frontal",
+    "hands": {
+      "left": "holding",
+      "right": "holding"
+    },
+    "objects": [
+      {
+        "kind": "sword",
+        "side": "center",
+        "orientation": "vertical"
+      }
+    ],
+    "support": "unknown",
+    "companions": [],
+    "details": [
+      "翼状冠饰",
+      "垂剑",
+      "装饰裙摆",
+      "长剑近地",
+      "两侧披带"
+    ]
+  },
+  {
+    "id": "E-1-05",
+    "tower": "east",
+    "level": 1,
+    "number": 5,
+    "evidence": "photo",
+    "sources": [
+      {
+        "url": "https://archive.org/details/in.ernet.dli.2015.127766",
+        "title": "The Twin Pagodas of Zayton：历史实物照片",
+        "pdfPage": 141,
+        "plate": "43",
+        "note": "已实际打开该图版并核对图内层号/编号；历史黑白照片不代表今日材色。"
+      },
+      {
+        "url": "https://archive.org/details/in.ernet.dli.2015.127766",
+        "title": "Ecke / Demiéville, The Twin Pagodas of Zayton (1935)",
+        "pdfPage": 70,
+        "note": "原书印刷页 67，E 1 5 的逐条形态描述；传统名号与作者推定不当作现代定论。"
+      }
+    ],
+    "description": "西面右侧护法上身侧转，杵横斜在胸腹之间。",
+    "body": "bare",
+    "head": "topknot",
+    "halo": "unknown",
+    "pose": "turned-left",
+    "hands": {
+      "left": "waist",
+      "right": "raised"
+    },
+    "objects": [
+      {
+        "kind": "vajra",
+        "side": "center",
+        "orientation": "diagonal"
+      }
+    ],
+    "support": "unknown",
+    "companions": [],
+    "details": [
+      "双髻",
+      "裸臂",
+      "屈膝",
+      "闭口",
+      "腰间披带"
+    ]
+  },
+  {
+    "id": "E-1-06",
+    "tower": "east",
+    "level": 1,
+    "number": 6,
+    "evidence": "photo",
+    "sources": [
+      {
+        "url": "https://archive.org/details/in.ernet.dli.2015.127766",
+        "title": "The Twin Pagodas of Zayton：历史实物照片",
+        "pdfPage": 141,
+        "plate": "43",
+        "note": "已实际打开该图版并核对图内层号/编号；历史黑白照片不代表今日材色。"
+      },
+      {
+        "url": "https://archive.org/details/in.ernet.dli.2015.127766",
+        "title": "Ecke / Demiéville, The Twin Pagodas of Zayton (1935)",
+        "pdfPage": 70,
+        "note": "原书印刷页 67，E 1 6 的逐条形态描述；传统名号与作者推定不当作现代定论。"
+      }
+    ],
+    "description": "西面左侧护法张口，举臂与腹前斜臂呈反向动势。",
+    "body": "bare",
+    "head": "topknot",
+    "halo": "unknown",
+    "pose": "turned-right",
+    "hands": {
+      "left": "raised",
+      "right": "waist"
+    },
+    "objects": [
+      {
+        "kind": "vajra",
+        "side": "center",
+        "orientation": "diagonal"
+      }
+    ],
+    "support": "unknown",
+    "companions": [],
+    "details": [
+      "双髻",
+      "裸臂",
+      "屈膝",
+      "张口"
+    ]
+  },
+  {
+    "id": "E-1-07",
+    "tower": "east",
+    "level": 1,
+    "number": 7,
+    "evidence": "photo",
+    "sources": [
+      {
+        "url": "https://archive.org/details/in.ernet.dli.2015.127766",
+        "title": "The Twin Pagodas of Zayton：历史实物照片",
+        "pdfPage": 141,
+        "plate": "43",
+        "note": "已实际打开该图版并核对图内层号/编号；历史黑白照片不代表今日材色。"
+      },
+      {
+        "url": "https://archive.org/details/in.ernet.dli.2015.127766",
+        "title": "Ecke / Demiéville, The Twin Pagodas of Zayton (1935)",
+        "pdfPage": 70,
+        "note": "原书印刷页 67，E 1 7 的逐条形态描述；传统名号与作者推定不当作现代定论。"
+      }
+    ],
+    "description": "西北面右侧着衣人物，两手在胸前结势，短重杵横承于前臂。",
+    "body": "robe",
+    "head": "topknot",
+    "halo": "unknown",
+    "pose": "frontal",
+    "hands": {
+      "left": "joined",
+      "right": "joined"
+    },
+    "objects": [
+      {
+        "kind": "vajra",
+        "side": "center",
+        "orientation": "horizontal"
+      }
+    ],
+    "support": "unknown",
+    "companions": [],
+    "details": [
+      "双髻",
+      "装饰裙摆",
+      "胸前结手势"
+    ]
+  },
+  {
+    "id": "E-1-08",
+    "tower": "east",
+    "level": 1,
+    "number": 8,
+    "evidence": "photo",
+    "sources": [
+      {
+        "url": "https://archive.org/details/in.ernet.dli.2015.127766",
+        "title": "The Twin Pagodas of Zayton：历史实物照片",
+        "pdfPage": 141,
+        "plate": "43",
+        "note": "已实际打开该图版并核对图内层号/编号；历史黑白照片不代表今日材色。"
+      },
+      {
+        "url": "https://archive.org/details/in.ernet.dli.2015.127766",
+        "title": "Ecke / Demiéville, The Twin Pagodas of Zayton (1935)",
+        "pdfPage": 70,
+        "note": "原书印刷页 67，E 1 8 的逐条形态描述；传统名号与作者推定不当作现代定论。"
+      }
+    ],
+    "description": "西北面左侧着衣人物，胸前捧长方物，旁垂长剑。",
+    "body": "robe",
+    "head": "topknot",
+    "halo": "unknown",
+    "pose": "frontal",
+    "hands": {
+      "left": "chest",
+      "right": "chest"
+    },
+    "objects": [
+      {
+        "kind": "other",
+        "side": "center",
+        "orientation": "horizontal"
+      },
+      {
+        "kind": "sword",
+        "side": "left",
+        "orientation": "vertical"
+      }
+    ],
+    "support": "unknown",
+    "companions": [],
+    "details": [
+      "双髻",
+      "装饰裙摆",
+      "长方物可能为书，暂不定名",
+      "原文自身右前臂垂剑，换算为画面左侧"
+    ]
+  },
+  {
+    "id": "E-1-09",
+    "tower": "east",
+    "level": 1,
+    "number": 9,
+    "evidence": "photo",
+    "sources": [
+      {
+        "url": "https://archive.org/details/in.ernet.dli.2015.127766",
+        "title": "The Twin Pagodas of Zayton：历史实物照片",
+        "pdfPage": 142,
+        "plate": "44",
+        "note": "已实际打开该图版并核对图内层号/编号；历史黑白照片不代表今日材色。"
+      },
+      {
+        "url": "https://archive.org/details/in.ernet.dli.2015.127766",
+        "title": "Ecke / Demiéville, The Twin Pagodas of Zayton (1935)",
+        "pdfPage": 70,
+        "note": "原书印刷页 67，E 1 9 的逐条形态描述；传统名号与作者推定不当作现代定论。"
+      }
+    ],
+    "description": "北面右侧护法一臂举起，另一臂横向胸腹，下肢有兽形相伴。",
+    "body": "bare",
+    "head": "topknot",
+    "halo": "unknown",
+    "pose": "turned-left",
+    "hands": {
+      "left": "raised",
+      "right": "waist"
+    },
+    "objects": [
+      {
+        "kind": "vajra",
+        "side": "center",
+        "orientation": "diagonal"
+      }
+    ],
+    "support": "unknown",
+    "companions": [],
+    "details": [
+      "双髻",
+      "裸臂",
+      "屈膝",
+      "闭口",
+      "腿边兽形未定种，不填dragon"
+    ]
+  },
+  {
+    "id": "E-1-10",
+    "tower": "east",
+    "level": 1,
+    "number": 10,
+    "evidence": "photo",
+    "sources": [
+      {
+        "url": "https://archive.org/details/in.ernet.dli.2015.127766",
+        "title": "The Twin Pagodas of Zayton：历史实物照片",
+        "pdfPage": 142,
+        "plate": "44",
+        "note": "已实际打开该图版并核对图内层号/编号；历史黑白照片不代表今日材色。"
+      },
+      {
+        "url": "https://archive.org/details/in.ernet.dli.2015.127766",
+        "title": "Ecke / Demiéville, The Twin Pagodas of Zayton (1935)",
+        "pdfPage": 70,
+        "note": "原书印刷页 67，E 1 10 的逐条形态描述；传统名号与作者推定不当作现代定论。"
+      }
+    ],
+    "description": "北面左侧护法举起画面左臂，身体扭转，腿部与兽形交织。",
+    "body": "bare",
+    "head": "unknown",
+    "halo": "unknown",
+    "pose": "turned-right",
+    "hands": {
+      "left": "raised",
+      "right": "waist"
+    },
+    "objects": [
+      {
+        "kind": "vajra",
+        "side": "center",
+        "orientation": "diagonal"
+      }
+    ],
+    "support": "unknown",
+    "companions": [],
+    "details": [
+      "裸臂",
+      "屈膝",
+      "闭口",
+      "原书注明头部是当时的近代修补，不据该头恢复宋代原貌",
+      "腿边兽形未定种"
+    ]
+  },
+  {
+    "id": "E-1-11",
+    "tower": "east",
+    "level": 1,
+    "number": 11,
+    "evidence": "photo",
+    "sources": [
+      {
+        "url": "https://archive.org/details/in.ernet.dli.2015.127766",
+        "title": "The Twin Pagodas of Zayton：历史实物照片",
+        "pdfPage": 142,
+        "plate": "44",
+        "note": "已实际打开该图版并核对图内层号/编号；历史黑白照片不代表今日材色。"
+      },
+      {
+        "url": "https://archive.org/details/in.ernet.dli.2015.127766",
+        "title": "Ecke / Demiéville, The Twin Pagodas of Zayton (1935)",
+        "pdfPage": 70,
+        "note": "原书印刷页 67，E 1 11 的逐条形态描述；传统名号与作者推定不当作现代定论。"
+      }
+    ],
+    "description": "东北面右侧铠甲人物，一侧执长矛，另一手托小塔。",
+    "body": "armoured",
+    "head": "cap",
+    "halo": "unknown",
+    "pose": "frontal",
+    "hands": {
+      "left": "holding",
+      "right": "holding"
+    },
+    "objects": [
+      {
+        "kind": "staff",
+        "side": "left",
+        "orientation": "vertical"
+      },
+      {
+        "kind": "banner",
+        "side": "left",
+        "orientation": "vertical"
+      },
+      {
+        "kind": "stupa",
+        "side": "center",
+        "orientation": "vertical"
+      }
+    ],
+    "support": "unknown",
+    "companions": [],
+    "details": [
+      "头盔",
+      "长矛",
+      "盔甲裙摆",
+      "塔与长矛",
+      "staff代表长矛，不是僧杖",
+      "旧书认为是毗沙门；本记录以可见物形为主"
+    ]
+  },
+  {
+    "id": "E-1-12",
+    "tower": "east",
+    "level": 1,
+    "number": 12,
+    "evidence": "photo",
+    "sources": [
+      {
+        "url": "https://archive.org/details/in.ernet.dli.2015.127766",
+        "title": "The Twin Pagodas of Zayton：历史实物照片",
+        "pdfPage": 142,
+        "plate": "44",
+        "note": "已实际打开该图版并核对图内层号/编号；历史黑白照片不代表今日材色。"
+      },
+      {
+        "url": "https://archive.org/details/in.ernet.dli.2015.127766",
+        "title": "Ecke / Demiéville, The Twin Pagodas of Zayton (1935)",
+        "pdfPage": 71,
+        "note": "原书印刷页 68，E 1 12 的逐条形态描述；传统名号与作者推定不当作现代定论。"
+      }
+    ],
+    "description": "东北面左侧人物穿长衣裙，身体略转，持杵横斜胸前。",
+    "body": "robe",
+    "head": "topknot",
+    "halo": "unknown",
+    "pose": "turned-left",
+    "hands": {
+      "left": "holding",
+      "right": "holding"
+    },
+    "objects": [
+      {
+        "kind": "vajra",
+        "side": "center",
+        "orientation": "diagonal"
+      }
+    ],
+    "support": "unknown",
+    "companions": [],
+    "details": [
+      "双髻",
+      "装饰裙摆",
+      "袍带回卷"
+    ]
+  },
+  {
+    "id": "E-1-13",
+    "tower": "east",
+    "level": 1,
+    "number": 13,
+    "evidence": "photo",
+    "sources": [
+      {
+        "url": "https://archive.org/details/in.ernet.dli.2015.127766",
+        "title": "The Twin Pagodas of Zayton：历史实物照片",
+        "pdfPage": 143,
+        "plate": "45",
+        "note": "已实际打开该图版并核对图内层号/编号；历史黑白照片不代表今日材色。"
+      },
+      {
+        "url": "https://archive.org/details/in.ernet.dli.2015.127766",
+        "title": "Ecke / Demiéville, The Twin Pagodas of Zayton (1935)",
+        "pdfPage": 71,
+        "note": "原书印刷页 68，E 1 13 的逐条形态描述；传统名号与作者推定不当作现代定论。"
+      }
+    ],
+    "description": "东面右侧护法张口，斜持杵，屈腿与扭转肩线相呼应。",
+    "body": "bare",
+    "head": "topknot",
+    "halo": "unknown",
+    "pose": "turned-left",
+    "hands": {
+      "left": "waist",
+      "right": "raised"
+    },
+    "objects": [
+      {
+        "kind": "vajra",
+        "side": "center",
+        "orientation": "diagonal"
+      }
+    ],
+    "support": "unknown",
+    "companions": [],
+    "details": [
+      "双髻",
+      "裸臂",
+      "屈膝",
+      "张口"
+    ]
+  },
+  {
+    "id": "E-1-14",
+    "tower": "east",
+    "level": 1,
+    "number": 14,
+    "evidence": "photo",
+    "sources": [
+      {
+        "url": "https://archive.org/details/in.ernet.dli.2015.127766",
+        "title": "The Twin Pagodas of Zayton：历史实物照片",
+        "pdfPage": 143,
+        "plate": "45",
+        "note": "已实际打开该图版并核对图内层号/编号；历史黑白照片不代表今日材色。"
+      },
+      {
+        "url": "https://archive.org/details/in.ernet.dli.2015.127766",
+        "title": "Ecke / Demiéville, The Twin Pagodas of Zayton (1935)",
+        "pdfPage": 71,
+        "note": "原书印刷页 68，E 1 14 的逐条形态描述；传统名号与作者推定不当作现代定论。"
+      }
+    ],
+    "description": "东面左侧护法闭口，一手高举火焰状物，另一臂横过腹部。",
+    "body": "bare",
+    "head": "topknot",
+    "halo": "unknown",
+    "pose": "turned-right",
+    "hands": {
+      "left": "raised",
+      "right": "waist"
+    },
+    "objects": [
+      {
+        "kind": "other",
+        "side": "left",
+        "orientation": "vertical"
+      }
+    ],
+    "support": "unknown",
+    "companions": [],
+    "details": [
+      "双髻",
+      "裸臂",
+      "屈膝",
+      "闭口",
+      "高举物呈火焰团，性质未确定"
+    ]
+  },
+  {
+    "id": "E-1-15",
+    "tower": "east",
+    "level": 1,
+    "number": 15,
+    "evidence": "photo",
+    "sources": [
+      {
+        "url": "https://archive.org/details/in.ernet.dli.2015.127766",
+        "title": "The Twin Pagodas of Zayton：历史实物照片",
+        "pdfPage": 143,
+        "plate": "45",
+        "note": "已实际打开该图版并核对图内层号/编号；历史黑白照片不代表今日材色。"
+      },
+      {
+        "url": "https://archive.org/details/in.ernet.dli.2015.127766",
+        "title": "Ecke / Demiéville, The Twin Pagodas of Zayton (1935)",
+        "pdfPage": 71,
+        "note": "原书印刷页 68，E 1 15 的逐条形态描述；传统名号与作者推定不当作现代定论。"
+      }
+    ],
+    "description": "东南面右侧多头多臂人物，中央两手合掌，另有举轮与持剑手臂。",
+    "body": "armoured",
+    "head": "topknot",
+    "halo": "unknown",
+    "pose": "frontal",
+    "hands": {
+      "left": "joined",
+      "right": "joined"
+    },
+    "objects": [
+      {
+        "kind": "sun",
+        "side": "center",
+        "orientation": "vertical"
+      },
+      {
+        "kind": "moon",
+        "side": "center",
+        "orientation": "vertical"
+      },
+      {
+        "kind": "sword",
+        "side": "center",
+        "orientation": "diagonal"
+      }
+    ],
+    "support": "unknown",
+    "companions": [],
+    "details": [
+      "三头六臂",
+      "合掌",
+      "日月左右不能由扫描分清，side=center仅表示左右未定，需保留待核",
+      "中央额眼",
+      "火焰状发髻"
+    ]
+  },
+  {
+    "id": "E-1-16",
+    "tower": "east",
+    "level": 1,
+    "number": 16,
+    "evidence": "photo",
+    "sources": [
+      {
+        "url": "https://archive.org/details/in.ernet.dli.2015.127766",
+        "title": "The Twin Pagodas of Zayton：历史实物照片",
+        "pdfPage": 143,
+        "plate": "45",
+        "note": "已实际打开该图版并核对图内层号/编号；历史黑白照片不代表今日材色。"
+      },
+      {
+        "url": "https://archive.org/details/in.ernet.dli.2015.127766",
+        "title": "Ecke / Demiéville, The Twin Pagodas of Zayton (1935)",
+        "pdfPage": 71,
+        "note": "原书印刷页 68，E 1 16 的逐条形态描述；传统名号与作者推定不当作现代定论。"
+      }
+    ],
+    "description": "东南面左侧穿甲人物斜持弓箭，腿旁有长身龙形。",
+    "body": "armoured",
+    "head": "cap",
+    "halo": "unknown",
+    "pose": "turned-left",
+    "hands": {
+      "left": "holding",
+      "right": "holding"
+    },
+    "objects": [
+      {
+        "kind": "bow",
+        "side": "center",
+        "orientation": "diagonal"
+      },
+      {
+        "kind": "cloth",
+        "side": "right",
+        "orientation": "diagonal"
+      }
+    ],
+    "support": "unknown",
+    "companions": [
+      "dragon"
+    ],
+    "details": [
+      "头盔",
+      "弓箭",
+      "盔甲裙摆",
+      "头盔上有波状饰物"
+    ]
+  },
+  {
+    "id": "E-2-01",
+    "tower": "east",
+    "level": 2,
+    "number": 1,
+    "evidence": "photo",
+    "sources": [
+      {
+        "url": "https://www.qzwb.com/gb/content/2020-09/26/content_7058692.htm",
+        "title": "泉州网：杨湘贤所摄东塔二层南面拾得、寒山",
+        "note": "已看成对近照。2020为发表日期；不据此声称拍于2020。图左拾得对应E II2，右寒山对应E II1。"
+      },
+      {
+        "url": "https://archive.org/details/in.ernet.dli.2015.127766",
+        "title": "The Twin Pagodas of Zayton：历史实物照片",
+        "pdfPage": 145,
+        "plate": "47",
+        "note": "已实际打开该图版并核对图内层号/编号；历史黑白照片不代表今日材色。"
+      },
+      {
+        "url": "https://archive.org/details/in.ernet.dli.2015.127766",
+        "title": "Ecke / Demiéville, The Twin Pagodas of Zayton (1935)",
+        "pdfPage": 72,
+        "note": "原书印刷页 69，E 2 1 的逐条形态描述；传统名号与作者推定不当作现代定论。"
+      }
+    ],
+    "description": "南面右侧笑面人物，宽袍，一手举起念珠，另一手在腹前。",
+    "body": "robe",
+    "head": "cap",
+    "halo": "round",
+    "pose": "frontal",
+    "hands": {
+      "left": "raised",
+      "right": "holding"
+    },
+    "objects": [
+      {
+        "kind": "rosary",
+        "side": "left",
+        "orientation": "diagonal"
+      }
+    ],
+    "support": "unknown",
+    "companions": [],
+    "details": [
+      "笑面",
+      "宽袖",
+      "帽沿或束发带",
+      "2020杨湘贤图注将这一尊称为寒山"
+    ]
+  },
+  {
+    "id": "E-2-02",
+    "tower": "east",
+    "level": 2,
+    "number": 2,
+    "evidence": "photo",
+    "sources": [
+      {
+        "url": "https://www.qzwb.com/gb/content/2020-09/26/content_7058692.htm",
+        "title": "泉州网：杨湘贤所摄东塔二层南面拾得、寒山",
+        "note": "已看成对近照。2020为发表日期；不据此声称拍于2020。图左拾得对应E II2，右寒山对应E II1。"
+      },
+      {
+        "url": "https://archive.org/details/in.ernet.dli.2015.127766",
+        "title": "The Twin Pagodas of Zayton：历史实物照片",
+        "pdfPage": 145,
+        "plate": "47",
+        "note": "已实际打开该图版并核对图内层号/编号；历史黑白照片不代表今日材色。"
+      },
+      {
+        "url": "https://archive.org/details/in.ernet.dli.2015.127766",
+        "title": "Ecke / Demiéville, The Twin Pagodas of Zayton (1935)",
+        "pdfPage": 72,
+        "note": "原书印刷页 69，E 2 2 的逐条形态描述；传统名号与作者推定不当作现代定论。"
+      }
+    ],
+    "description": "南面左侧笑面人物，宽袖，一手抬在胸前，另一手持卷。",
+    "body": "robe",
+    "head": "cap",
+    "halo": "round",
+    "pose": "frontal",
+    "hands": {
+      "left": "chest",
+      "right": "holding"
+    },
+    "objects": [
+      {
+        "kind": "scroll",
+        "side": "right",
+        "orientation": "diagonal"
+      }
+    ],
+    "support": "unknown",
+    "companions": [],
+    "details": [
+      "笑面",
+      "宽袖",
+      "帽沿或束发带",
+      "2020杨湘贤图注将这一尊称为拾得"
+    ]
+  },
+  {
+    "id": "E-2-03",
+    "tower": "east",
+    "level": 2,
+    "number": 3,
+    "evidence": "photo",
+    "sources": [
+      {
+        "url": "https://archive.org/details/in.ernet.dli.2015.127766",
+        "title": "The Twin Pagodas of Zayton：历史实物照片",
+        "pdfPage": 145,
+        "plate": "47",
+        "note": "已实际打开该图版并核对图内层号/编号；历史黑白照片不代表今日材色。"
+      },
+      {
+        "url": "https://archive.org/details/in.ernet.dli.2015.127766",
+        "title": "Ecke / Demiéville, The Twin Pagodas of Zayton (1935)",
+        "pdfPage": 72,
+        "note": "原书印刷页 69，E 2 3 的逐条形态描述；传统名号与作者推定不当作现代定论。"
+      }
+    ],
+    "description": "西南面右侧僧人持拂尘，足旁另有莲形座承圆物。",
+    "body": "robe",
+    "head": "bare",
+    "halo": "round",
+    "pose": "frontal",
+    "hands": {
+      "left": "holding",
+      "right": "waist"
+    },
+    "objects": [
+      {
+        "kind": "whisk",
+        "side": "left",
+        "orientation": "diagonal"
+      },
+      {
+        "kind": "pearl",
+        "side": "right",
+        "orientation": "vertical"
+      }
+    ],
+    "support": "unknown",
+    "companions": [],
+    "details": [
+      "长袍",
+      "足旁莲座承球，不等于人物站在莲台",
+      "传统归名雪峰义存，原书明确表示缺乏保证"
+    ]
+  },
+  {
+    "id": "E-2-04",
+    "tower": "east",
+    "level": 2,
+    "number": 4,
+    "evidence": "photo",
+    "sources": [
+      {
+        "url": "https://archive.org/details/in.ernet.dli.2015.127766",
+        "title": "The Twin Pagodas of Zayton：历史实物照片",
+        "pdfPage": 145,
+        "plate": "47",
+        "note": "已实际打开该图版并核对图内层号/编号；历史黑白照片不代表今日材色。"
+      },
+      {
+        "url": "https://archive.org/details/in.ernet.dli.2015.127766",
+        "title": "Ecke / Demiéville, The Twin Pagodas of Zayton (1935)",
+        "pdfPage": 72,
+        "note": "原书印刷页 69，E 2 4 的逐条形态描述；传统名号与作者推定不当作现代定论。"
+      }
+    ],
+    "description": "西南面左侧罩帽僧人一手置于虎首附近，衣褶斜绕胸腹。",
+    "body": "robe",
+    "head": "hood",
+    "halo": "round",
+    "pose": "turned-left",
+    "hands": {
+      "left": "waist",
+      "right": "down"
+    },
+    "objects": [],
+    "support": "unknown",
+    "companions": [
+      "tiger"
+    ],
+    "details": [
+      "罩帽",
+      "右侧虎",
+      "右侧老虎",
+      "左手落在虎首（画面右）"
+    ]
+  },
+  {
+    "id": "E-2-05",
+    "tower": "east",
+    "level": 2,
+    "number": 5,
+    "evidence": "photo",
+    "sources": [
+      {
+        "url": "https://archive.org/details/in.ernet.dli.2015.127766",
+        "title": "The Twin Pagodas of Zayton：历史实物照片",
+        "pdfPage": 146,
+        "plate": "48",
+        "note": "已实际打开该图版并核对图内层号/编号；历史黑白照片不代表今日材色。"
+      },
+      {
+        "url": "https://archive.org/details/in.ernet.dli.2015.127766",
+        "title": "Ecke / Demiéville, The Twin Pagodas of Zayton (1935)",
+        "pdfPage": 73,
+        "note": "原书印刷页 70，E 2 5 的逐条形态描述；传统名号与作者推定不当作现代定论。"
+      }
+    ],
+    "description": "西面右侧僧人合掌，长袍垂直，头后有圆光。",
+    "body": "robe",
+    "head": "bare",
+    "halo": "round",
+    "pose": "frontal",
+    "hands": {
+      "left": "joined",
+      "right": "joined"
+    },
+    "objects": [],
+    "support": "unknown",
+    "companions": [],
+    "details": [
+      "合掌",
+      "长袍",
+      "身份未定"
+    ]
+  },
+  {
+    "id": "E-2-06",
+    "tower": "east",
+    "level": 2,
+    "number": 6,
+    "evidence": "photo",
+    "sources": [
+      {
+        "url": "https://archive.org/details/in.ernet.dli.2015.127766",
+        "title": "The Twin Pagodas of Zayton：历史实物照片",
+        "pdfPage": 146,
+        "plate": "48",
+        "note": "已实际打开该图版并核对图内层号/编号；历史黑白照片不代表今日材色。"
+      },
+      {
+        "url": "https://archive.org/details/in.ernet.dli.2015.127766",
+        "title": "Ecke / Demiéville, The Twin Pagodas of Zayton (1935)",
+        "pdfPage": 73,
+        "note": "原书印刷页 70，E 2 6 的逐条形态描述；传统名号与作者推定不当作现代定论。"
+      }
+    ],
+    "description": "西面左侧穿甲人物，胸前合手，杵横承双臂。",
+    "body": "armoured",
+    "head": "topknot",
+    "halo": "unknown",
+    "pose": "frontal",
+    "hands": {
+      "left": "joined",
+      "right": "joined"
+    },
+    "objects": [
+      {
+        "kind": "vajra",
+        "side": "center",
+        "orientation": "horizontal"
+      }
+    ],
+    "support": "unknown",
+    "companions": [],
+    "details": [
+      "单髻",
+      "盔甲裙摆",
+      "火焰状发髻",
+      "旧书推定韦驮；照片未足够清楚确认独立圆头光"
+    ]
+  },
+  {
+    "id": "E-2-07",
+    "tower": "east",
+    "level": 2,
+    "number": 7,
+    "evidence": "photo",
+    "sources": [
+      {
+        "url": "https://archive.org/details/in.ernet.dli.2015.127766",
+        "title": "The Twin Pagodas of Zayton：历史实物照片",
+        "pdfPage": 146,
+        "plate": "48",
+        "note": "已实际打开该图版并核对图内层号/编号；历史黑白照片不代表今日材色。"
+      },
+      {
+        "url": "https://archive.org/details/in.ernet.dli.2015.127766",
+        "title": "Ecke / Demiéville, The Twin Pagodas of Zayton (1935)",
+        "pdfPage": 73,
+        "note": "原书印刷页 70，E 2 7 的逐条形态描述；传统名号与作者推定不当作现代定论。"
+      }
+    ],
+    "description": "西北面右侧僧人举长杆，杆端悬葫芦形物，旁有童子扶杆。",
+    "body": "robe",
+    "head": "bare",
+    "halo": "round",
+    "pose": "frontal",
+    "hands": {
+      "left": "raised",
+      "right": "waist"
+    },
+    "objects": [
+      {
+        "kind": "staff",
+        "side": "left",
+        "orientation": "vertical"
+      },
+      {
+        "kind": "flask",
+        "side": "left",
+        "orientation": "vertical"
+      }
+    ],
+    "support": "unknown",
+    "companions": [
+      "child"
+    ],
+    "details": [
+      "左侧童子",
+      "杆端悬葫芦",
+      "右手收住宽袖"
+    ]
+  },
+  {
+    "id": "E-2-08",
+    "tower": "east",
+    "level": 2,
+    "number": 8,
+    "evidence": "photo",
+    "sources": [
+      {
+        "url": "https://www.mnwhstq.com/bhjg/202406/t20240621_214053.htm",
+        "title": "泉州开元寺东西塔风华录，2024-06-21",
+        "note": "已看现代彩色近照；与旧图轮廓对应，现代标题不作为无争议神格认定。"
+      },
+      {
+        "url": "https://archive.org/details/in.ernet.dli.2015.127766",
+        "title": "The Twin Pagodas of Zayton：历史实物照片",
+        "pdfPage": 146,
+        "plate": "48",
+        "note": "已实际打开该图版并核对图内层号/编号；历史黑白照片不代表今日材色。"
+      },
+      {
+        "url": "https://archive.org/details/in.ernet.dli.2015.127766",
+        "title": "Ecke / Demiéville, The Twin Pagodas of Zayton (1935)",
+        "pdfPage": 74,
+        "note": "原书印刷页 71，E 2 8 的逐条形态描述；传统名号与作者推定不当作现代定论。"
+      }
+    ],
+    "description": "西北面左侧罩帽僧人持念珠，右下方有着衣小猴。",
+    "body": "robe",
+    "head": "hood",
+    "halo": "round",
+    "pose": "frontal",
+    "hands": {
+      "left": "down",
+      "right": "holding"
+    },
+    "objects": [
+      {
+        "kind": "rosary",
+        "side": "right",
+        "orientation": "vertical"
+      }
+    ],
+    "support": "unknown",
+    "companions": [
+      "monkey"
+    ],
+    "details": [
+      "罩帽",
+      "右侧猴",
+      "右侧小猴",
+      "厚袍",
+      "现代图注称玄奘，旧书亦讨论这一解释"
+    ]
+  },
+  {
+    "id": "E-2-09",
+    "tower": "east",
+    "level": 2,
+    "number": 9,
+    "evidence": "photo",
+    "sources": [
+      {
+        "url": "https://archive.org/details/in.ernet.dli.2015.127766",
+        "title": "The Twin Pagodas of Zayton：历史实物照片",
+        "pdfPage": 147,
+        "plate": "49",
+        "note": "已实际打开该图版并核对图内层号/编号；历史黑白照片不代表今日材色。"
+      },
+      {
+        "url": "https://archive.org/details/in.ernet.dli.2015.127766",
+        "title": "Ecke / Demiéville, The Twin Pagodas of Zayton (1935)",
+        "pdfPage": 74,
+        "note": "原书印刷页 71，E 2 9 的逐条形态描述；传统名号与作者推定不当作现代定论。"
+      }
+    ],
+    "description": "北面右侧僧人袒露部分上身，卷轴横于腹前，足下芦苇状线条。",
+    "body": "bare",
+    "head": "unknown",
+    "halo": "round",
+    "pose": "turned-left",
+    "hands": {
+      "left": "holding",
+      "right": "holding"
+    },
+    "objects": [
+      {
+        "kind": "scroll",
+        "side": "center",
+        "orientation": "horizontal"
+      }
+    ],
+    "support": "unknown",
+    "companions": [],
+    "details": [
+      "踏芦苇",
+      "袒露上身",
+      "原书据卷上题字认作达摩；不以该题字生成当前不可辨文字"
+    ]
+  },
+  {
+    "id": "E-2-10",
+    "tower": "east",
+    "level": 2,
+    "number": 10,
+    "evidence": "photo",
+    "sources": [
+      {
+        "url": "https://archive.org/details/in.ernet.dli.2015.127766",
+        "title": "The Twin Pagodas of Zayton：历史实物照片",
+        "pdfPage": 147,
+        "plate": "49",
+        "note": "已实际打开该图版并核对图内层号/编号；历史黑白照片不代表今日材色。"
+      },
+      {
+        "url": "https://archive.org/details/in.ernet.dli.2015.127766",
+        "title": "Ecke / Demiéville, The Twin Pagodas of Zayton (1935)",
+        "pdfPage": 74,
+        "note": "原书印刷页 71，E 2 10 的逐条形态描述；传统名号与作者推定不当作现代定论。"
+      }
+    ],
+    "description": "北面左侧人物剃发，身穿宽大的官式衣袍，双手置于腹前。",
+    "body": "official",
+    "head": "bare",
+    "halo": "round",
+    "pose": "frontal",
+    "hands": {
+      "left": "waist",
+      "right": "waist"
+    },
+    "objects": [],
+    "support": "unknown",
+    "companions": [],
+    "details": [
+      "圆腹",
+      "宽袖",
+      "旧书记录梁武帝的传统归名"
+    ]
+  },
+  {
+    "id": "E-2-11",
+    "tower": "east",
+    "level": 2,
+    "number": 11,
+    "evidence": "photo",
+    "sources": [
+      {
+        "url": "https://archive.org/details/in.ernet.dli.2015.127766",
+        "title": "The Twin Pagodas of Zayton：历史实物照片",
+        "pdfPage": 147,
+        "plate": "49",
+        "note": "已实际打开该图版并核对图内层号/编号；历史黑白照片不代表今日材色。"
+      },
+      {
+        "url": "https://archive.org/details/in.ernet.dli.2015.127766",
+        "title": "Ecke / Demiéville, The Twin Pagodas of Zayton (1935)",
+        "pdfPage": 75,
+        "note": "原书印刷页 72，E 2 11 的逐条形态描述；传统名号与作者推定不当作现代定论。"
+      }
+    ],
+    "description": "东北面右侧圆腹人物，手边布袋与杆，足旁有两名童子。",
+    "body": "robe",
+    "head": "bare",
+    "halo": "round",
+    "pose": "lean-left",
+    "hands": {
+      "left": "holding",
+      "right": "holding"
+    },
+    "objects": [
+      {
+        "kind": "staff",
+        "side": "center",
+        "orientation": "diagonal"
+      },
+      {
+        "kind": "cloth",
+        "side": "right",
+        "orientation": "vertical"
+      }
+    ],
+    "support": "unknown",
+    "companions": [
+      "child"
+    ],
+    "details": [
+      "布袋",
+      "双童子",
+      "圆腹",
+      "袒腹",
+      "传统归名布袋和尚"
+    ]
+  },
+  {
+    "id": "E-2-12",
+    "tower": "east",
+    "level": 2,
+    "number": 12,
+    "evidence": "photo",
+    "sources": [
+      {
+        "url": "https://archive.org/details/in.ernet.dli.2015.127766",
+        "title": "The Twin Pagodas of Zayton：历史实物照片",
+        "pdfPage": 147,
+        "plate": "49",
+        "note": "已实际打开该图版并核对图内层号/编号；历史黑白照片不代表今日材色。"
+      },
+      {
+        "url": "https://archive.org/details/in.ernet.dli.2015.127766",
+        "title": "Ecke / Demiéville, The Twin Pagodas of Zayton (1935)",
+        "pdfPage": 75,
+        "note": "原书印刷页 72，E 2 12 的逐条形态描述；传统名号与作者推定不当作现代定论。"
+      }
+    ],
+    "description": "东北面左侧老僧前倾倚长杆，头光清楚，衣摆斜向外展。",
+    "body": "robe",
+    "head": "bare",
+    "halo": "round",
+    "pose": "lean-left",
+    "hands": {
+      "left": "holding",
+      "right": "holding"
+    },
+    "objects": [
+      {
+        "kind": "staff",
+        "side": "left",
+        "orientation": "diagonal"
+      }
+    ],
+    "support": "unknown",
+    "companions": [],
+    "details": [
+      "倚杖",
+      "斜杖向左上",
+      "老僧",
+      "人物身份未定"
+    ]
+  },
+  {
+    "id": "E-2-13",
+    "tower": "east",
+    "level": 2,
+    "number": 13,
+    "evidence": "photo",
+    "sources": [
+      {
+        "url": "https://archive.org/details/in.ernet.dli.2015.127766",
+        "title": "The Twin Pagodas of Zayton：历史实物照片",
+        "pdfPage": 148,
+        "plate": "50",
+        "note": "已实际打开该图版并核对图内层号/编号；历史黑白照片不代表今日材色。"
+      },
+      {
+        "url": "https://archive.org/details/in.ernet.dli.2015.127766",
+        "title": "Ecke / Demiéville, The Twin Pagodas of Zayton (1935)",
+        "pdfPage": 75,
+        "note": "原书印刷页 72，E 2 13 的逐条形态描述；传统名号与作者推定不当作现代定论。"
+      }
+    ],
+    "description": "东面右侧僧人双手处理经卷和系带，手臂交错在胸前。",
+    "body": "robe",
+    "head": "bare",
+    "halo": "round",
+    "pose": "frontal",
+    "hands": {
+      "left": "holding",
+      "right": "holding"
+    },
+    "objects": [
+      {
+        "kind": "scroll",
+        "side": "center",
+        "orientation": "diagonal"
+      }
+    ],
+    "support": "unknown",
+    "companions": [],
+    "details": [
+      "经卷系带",
+      "长袍"
+    ]
+  },
+  {
+    "id": "E-2-14",
+    "tower": "east",
+    "level": 2,
+    "number": 14,
+    "evidence": "photo",
+    "sources": [
+      {
+        "url": "https://archive.org/details/in.ernet.dli.2015.127766",
+        "title": "The Twin Pagodas of Zayton：历史实物照片",
+        "pdfPage": 148,
+        "plate": "50",
+        "note": "已实际打开该图版并核对图内层号/编号；历史黑白照片不代表今日材色。"
+      },
+      {
+        "url": "https://archive.org/details/in.ernet.dli.2015.127766",
+        "title": "Ecke / Demiéville, The Twin Pagodas of Zayton (1935)",
+        "pdfPage": 75,
+        "note": "原书印刷页 72，E 2 14 的逐条形态描述；传统名号与作者推定不当作现代定论。"
+      }
+    ],
+    "description": "东面左侧僧人持念珠及长杆，杆端悬拂尘。",
+    "body": "robe",
+    "head": "bare",
+    "halo": "round",
+    "pose": "frontal",
+    "hands": {
+      "left": "holding",
+      "right": "holding"
+    },
+    "objects": [
+      {
+        "kind": "rosary",
+        "side": "left",
+        "orientation": "vertical"
+      },
+      {
+        "kind": "staff",
+        "side": "right",
+        "orientation": "diagonal"
+      },
+      {
+        "kind": "whisk",
+        "side": "right",
+        "orientation": "vertical"
+      }
+    ],
+    "support": "unknown",
+    "companions": [],
+    "details": [
+      "长袍",
+      "杆端悬拂尘",
+      "长杆端悬拂尘"
+    ]
+  },
+  {
+    "id": "E-2-15",
+    "tower": "east",
+    "level": 2,
+    "number": 15,
+    "evidence": "photo",
+    "sources": [
+      {
+        "url": "https://archive.org/details/in.ernet.dli.2015.127766",
+        "title": "The Twin Pagodas of Zayton：历史实物照片",
+        "pdfPage": 148,
+        "plate": "50",
+        "note": "已实际打开该图版并核对图内层号/编号；历史黑白照片不代表今日材色。"
+      },
+      {
+        "url": "https://archive.org/details/in.ernet.dli.2015.127766",
+        "title": "Ecke / Demiéville, The Twin Pagodas of Zayton (1935)",
+        "pdfPage": 75,
+        "note": "原书印刷页 72，E 2 15 的逐条形态描述；传统名号与作者推定不当作现代定论。"
+      }
+    ],
+    "description": "东南面右侧袒身僧人抬高手臂托钵，上方有火焰和龙形。",
+    "body": "bare",
+    "head": "bare",
+    "halo": "round",
+    "pose": "lean-right",
+    "hands": {
+      "left": "raised",
+      "right": "chest"
+    },
+    "objects": [
+      {
+        "kind": "bowl",
+        "side": "left",
+        "orientation": "horizontal"
+      }
+    ],
+    "support": "unknown",
+    "companions": [
+      "dragon"
+    ],
+    "details": [
+      "裸臂",
+      "袒露上身",
+      "托钵",
+      "钵上方龙焰",
+      "长耳环"
+    ]
+  },
+  {
+    "id": "E-2-16",
+    "tower": "east",
+    "level": 2,
+    "number": 16,
+    "evidence": "photo",
+    "sources": [
+      {
+        "url": "https://archive.org/details/in.ernet.dli.2015.127766",
+        "title": "The Twin Pagodas of Zayton：历史实物照片",
+        "pdfPage": 148,
+        "plate": "50",
+        "note": "已实际打开该图版并核对图内层号/编号；历史黑白照片不代表今日材色。"
+      },
+      {
+        "url": "https://archive.org/details/in.ernet.dli.2015.127766",
+        "title": "Ecke / Demiéville, The Twin Pagodas of Zayton (1935)",
+        "pdfPage": 75,
+        "note": "原书印刷页 72，E 2 16 的逐条形态描述；传统名号与作者推定不当作现代定论。"
+      }
+    ],
+    "description": "东南面左侧罩帽僧人一手举袖过头，另一手持长锡杖。",
+    "body": "robe",
+    "head": "hood",
+    "halo": "round",
+    "pose": "frontal",
+    "hands": {
+      "left": "holding",
+      "right": "raised"
+    },
+    "objects": [
+      {
+        "kind": "staff",
+        "side": "center",
+        "orientation": "diagonal"
+      }
+    ],
+    "support": "unknown",
+    "companions": [],
+    "details": [
+      "罩帽",
+      "举袖过头",
+      "锡杖"
+    ]
+  },
+  {
+    "id": "E-3-01",
+    "tower": "east",
+    "level": 3,
+    "number": 1,
+    "evidence": "photo",
+    "sources": [
+      {
+        "url": "https://archive.org/details/in.ernet.dli.2015.127766",
+        "title": "The Twin Pagodas of Zayton：历史实物照片",
+        "pdfPage": 149,
+        "plate": "51",
+        "note": "已实际打开该图版并核对图内层号/编号；历史黑白照片不代表今日材色。"
+      },
+      {
+        "url": "https://archive.org/details/in.ernet.dli.2015.127766",
+        "title": "Ecke / Demiéville, The Twin Pagodas of Zayton (1935)",
+        "pdfPage": 76,
+        "note": "原书印刷页 73，E 3 1 的逐条形态描述；传统名号与作者推定不当作现代定论。"
+      }
+    ],
+    "description": "南面右侧僧人合掌，赤足立莲，头后没有圆光。",
+    "body": "robe",
+    "head": "bare",
+    "halo": "none",
+    "pose": "frontal",
+    "hands": {
+      "left": "joined",
+      "right": "joined"
+    },
+    "objects": [],
+    "support": "lotus",
+    "companions": [],
+    "details": [
+      "合掌",
+      "赤足",
+      "传统归名阿难或迦叶，不强分个人名"
+    ]
+  },
+  {
+    "id": "E-3-02",
+    "tower": "east",
+    "level": 3,
+    "number": 2,
+    "evidence": "photo",
+    "sources": [
+      {
+        "url": "https://archive.org/details/in.ernet.dli.2015.127766",
+        "title": "The Twin Pagodas of Zayton：历史实物照片",
+        "pdfPage": 149,
+        "plate": "51",
+        "note": "已实际打开该图版并核对图内层号/编号；历史黑白照片不代表今日材色。"
+      },
+      {
+        "url": "https://archive.org/details/in.ernet.dli.2015.127766",
+        "title": "Ecke / Demiéville, The Twin Pagodas of Zayton (1935)",
+        "pdfPage": 76,
+        "note": "原书印刷页 73，E 3 2 的逐条形态描述；传统名号与作者推定不当作现代定论。"
+      }
+    ],
+    "description": "南面左侧僧人合掌，长袍宽袖，赤足立莲。",
+    "body": "robe",
+    "head": "bare",
+    "halo": "none",
+    "pose": "frontal",
+    "hands": {
+      "left": "joined",
+      "right": "joined"
+    },
+    "objects": [],
+    "support": "lotus",
+    "companions": [],
+    "details": [
+      "合掌",
+      "赤足",
+      "传统归名阿难或迦叶，不强分个人名"
+    ]
+  },
+  {
+    "id": "E-3-03",
+    "tower": "east",
+    "level": 3,
+    "number": 3,
+    "evidence": "photo",
+    "sources": [
+      {
+        "url": "https://archive.org/details/in.ernet.dli.2015.127766",
+        "title": "The Twin Pagodas of Zayton：历史实物照片",
+        "pdfPage": 149,
+        "plate": "51",
+        "note": "已实际打开该图版并核对图内层号/编号；历史黑白照片不代表今日材色。"
+      },
+      {
+        "url": "https://archive.org/details/in.ernet.dli.2015.127766",
+        "title": "Ecke / Demiéville, The Twin Pagodas of Zayton (1935)",
+        "pdfPage": 76,
+        "note": "原书印刷页 73，E 3 3 的逐条形态描述；传统名号与作者推定不当作现代定论。"
+      }
+    ],
+    "description": "西南面右侧僧人一手摇铃，另一手向旁边童子伸出。",
+    "body": "robe",
+    "head": "bare",
+    "halo": "none",
+    "pose": "frontal",
+    "hands": {
+      "left": "raised",
+      "right": "down"
+    },
+    "objects": [
+      {
+        "kind": "bell",
+        "side": "left",
+        "orientation": "vertical"
+      }
+    ],
+    "support": "unknown",
+    "companions": [
+      "child"
+    ],
+    "details": [
+      "手铃",
+      "左侧童子",
+      "原书描述给童子钱物；图上小物不作具体币纹"
+    ]
+  },
+  {
+    "id": "E-3-04",
+    "tower": "east",
+    "level": 3,
+    "number": 4,
+    "evidence": "photo",
+    "sources": [
+      {
+        "url": "https://archive.org/details/in.ernet.dli.2015.127766",
+        "title": "The Twin Pagodas of Zayton：历史实物照片",
+        "pdfPage": 149,
+        "plate": "51",
+        "note": "已实际打开该图版并核对图内层号/编号；历史黑白照片不代表今日材色。"
+      },
+      {
+        "url": "https://archive.org/details/in.ernet.dli.2015.127766",
+        "title": "Ecke / Demiéville, The Twin Pagodas of Zayton (1935)",
+        "pdfPage": 76,
+        "note": "原书印刷页 73，E 3 4 的逐条形态描述；传统名号与作者推定不当作现代定论。"
+      }
+    ],
+    "description": "西南面左侧老僧长眉下垂，一手抬于上胸，另一手低持袍。",
+    "body": "robe",
+    "head": "bare",
+    "halo": "none",
+    "pose": "frontal",
+    "hands": {
+      "left": "chest",
+      "right": "down"
+    },
+    "objects": [],
+    "support": "unknown",
+    "companions": [],
+    "details": [
+      "长眉",
+      "长袍",
+      "传统归名长眉尊者"
+    ]
+  },
+  {
+    "id": "E-3-05",
+    "tower": "east",
+    "level": 3,
+    "number": 5,
+    "evidence": "photo",
+    "sources": [
+      {
+        "url": "https://archive.org/details/in.ernet.dli.2015.127766",
+        "title": "The Twin Pagodas of Zayton：历史实物照片",
+        "pdfPage": 150,
+        "plate": "53",
+        "note": "已实际打开该图版并核对图内层号/编号；历史黑白照片不代表今日材色。"
+      },
+      {
+        "url": "https://archive.org/details/in.ernet.dli.2015.127766",
+        "title": "Ecke / Demiéville, The Twin Pagodas of Zayton (1935)",
+        "pdfPage": 77,
+        "note": "原书印刷页 74，E 3 5 的逐条形态描述；传统名号与作者推定不当作现代定论。"
+      }
+    ],
+    "description": "西面右侧僧人身旁上方有盘曲龙形，手臂在身前。",
+    "body": "robe",
+    "head": "bare",
+    "halo": "none",
+    "pose": "turned-left",
+    "hands": {
+      "left": "holding",
+      "right": "chest"
+    },
+    "objects": [],
+    "support": "unknown",
+    "companions": [
+      "dragon"
+    ],
+    "details": [
+      "头略倾",
+      "龙形悬在身旁",
+      "不由传统人名补造未辨持物"
+    ]
+  },
+  {
+    "id": "E-3-06",
+    "tower": "east",
+    "level": 3,
+    "number": 6,
+    "evidence": "text",
+    "sources": [
+      {
+        "url": "https://archive.org/details/in.ernet.dli.2015.127766",
+        "title": "Ecke / Demiéville, The Twin Pagodas of Zayton (1935)",
+        "pdfPage": 77,
+        "note": "原书印刷页 74，E 3 6 的逐条形态描述；传统名号与作者推定不当作现代定论。"
+      }
+    ],
+    "description": "正文记载圆扇在画面左手，云气出自画面右掌。",
+    "body": "robe",
+    "head": "unknown",
+    "halo": "none",
+    "pose": "unknown",
+    "hands": {
+      "left": "holding",
+      "right": "open"
+    },
+    "objects": [
+      {
+        "kind": "fan",
+        "side": "left",
+        "orientation": "unknown"
+      }
+    ],
+    "support": "unknown",
+    "companions": [],
+    "details": [
+      "圆扇",
+      "右掌云气（画面右）",
+      "原文自身右手圆扇已换算为画面左",
+      "传统归名佛图澄；此条仅文字证据"
+    ]
+  },
+  {
+    "id": "E-3-07",
+    "tower": "east",
+    "level": 3,
+    "number": 7,
+    "evidence": "photo",
+    "sources": [
+      {
+        "url": "https://archive.org/details/in.ernet.dli.2015.127766",
+        "title": "The Twin Pagodas of Zayton：历史实物照片",
+        "pdfPage": 150,
+        "plate": "53",
+        "note": "已实际打开该图版并核对图内层号/编号；历史黑白照片不代表今日材色。"
+      },
+      {
+        "url": "https://archive.org/details/in.ernet.dli.2015.127766",
+        "title": "Ecke / Demiéville, The Twin Pagodas of Zayton (1935)",
+        "pdfPage": 77,
+        "note": "原书印刷页 74，E 3 7 的逐条形态描述；传统名号与作者推定不当作现代定论。"
+      }
+    ],
+    "description": "西北面右侧僧人打开卷轴，双手高低相对，头后无圆光。",
+    "body": "robe",
+    "head": "bare",
+    "halo": "none",
+    "pose": "frontal",
+    "hands": {
+      "left": "holding",
+      "right": "holding"
+    },
+    "objects": [
+      {
+        "kind": "scroll",
+        "side": "center",
+        "orientation": "diagonal"
+      }
+    ],
+    "support": "unknown",
+    "companions": [],
+    "details": [
+      "展开经卷",
+      "传统归名智顗但原书认为很可疑"
+    ]
+  },
+  {
+    "id": "E-3-08",
+    "tower": "east",
+    "level": 3,
+    "number": 8,
+    "evidence": "photo",
+    "sources": [
+      {
+        "url": "https://archive.org/details/in.ernet.dli.2015.127766",
+        "title": "The Twin Pagodas of Zayton：历史实物照片",
+        "pdfPage": 150,
+        "plate": "53",
+        "note": "已实际打开该图版并核对图内层号/编号；历史黑白照片不代表今日材色。"
+      },
+      {
+        "url": "https://archive.org/details/in.ernet.dli.2015.127766",
+        "title": "Ecke / Demiéville, The Twin Pagodas of Zayton (1935)",
+        "pdfPage": 77,
+        "note": "原书印刷页 74，E 3 8 的逐条形态描述；传统名号与作者推定不当作现代定论。"
+      }
+    ],
+    "description": "西北面左侧僧人胸前持如意形长柄物。",
+    "body": "robe",
+    "head": "bare",
+    "halo": "none",
+    "pose": "frontal",
+    "hands": {
+      "left": "holding",
+      "right": "holding"
+    },
+    "objects": [
+      {
+        "kind": "ruyi",
+        "side": "left",
+        "orientation": "diagonal"
+      }
+    ],
+    "support": "unknown",
+    "companions": [],
+    "details": [
+      "如意上端小像只保留轮廓，不刻具体面貌",
+      "传统归名法藏属于旧书记录"
+    ]
+  },
+  {
+    "id": "E-3-09",
+    "tower": "east",
+    "level": 3,
+    "number": 9,
+    "evidence": "photo",
+    "sources": [
+      {
+        "url": "https://archive.org/details/in.ernet.dli.2015.127766",
+        "title": "The Twin Pagodas of Zayton：历史实物照片",
+        "pdfPage": 150,
+        "plate": "53",
+        "note": "已实际打开该图版并核对图内层号/编号；历史黑白照片不代表今日材色。"
+      },
+      {
+        "url": "https://archive.org/details/in.ernet.dli.2015.127766",
+        "title": "Ecke / Demiéville, The Twin Pagodas of Zayton (1935)",
+        "pdfPage": 77,
+        "note": "原书印刷页 74，E 3 9 的逐条形态描述；传统名号与作者推定不当作现代定论。"
+      }
+    ],
+    "description": "北面右侧僧人抬手托小塔，另一臂横在身前。",
+    "body": "robe",
+    "head": "bare",
+    "halo": "none",
+    "pose": "lean-right",
+    "hands": {
+      "left": "raised",
+      "right": "waist"
+    },
+    "objects": [
+      {
+        "kind": "stupa",
+        "side": "left",
+        "orientation": "vertical"
+      }
+    ],
+    "support": "unknown",
+    "companions": [],
+    "details": [
+      "托塔",
+      "宽袖"
+    ]
+  },
+  {
+    "id": "E-3-10",
+    "tower": "east",
+    "level": 3,
+    "number": 10,
+    "evidence": "photo",
+    "sources": [
+      {
+        "url": "https://archive.org/details/in.ernet.dli.2015.127766",
+        "title": "The Twin Pagodas of Zayton：历史实物照片",
+        "pdfPage": 151,
+        "plate": "54",
+        "note": "已实际打开该图版并核对图内层号/编号；历史黑白照片不代表今日材色。"
+      },
+      {
+        "url": "https://archive.org/details/in.ernet.dli.2015.127766",
+        "title": "Ecke / Demiéville, The Twin Pagodas of Zayton (1935)",
+        "pdfPage": 77,
+        "note": "原书印刷页 74，E 3 10 的逐条形态描述；传统名号与作者推定不当作现代定论。"
+      }
+    ],
+    "description": "北面左侧僧人持带长柄的香炉，横向手臂压住厚重衣褶。",
+    "body": "robe",
+    "head": "bare",
+    "halo": "none",
+    "pose": "frontal",
+    "hands": {
+      "left": "holding",
+      "right": "holding"
+    },
+    "objects": [
+      {
+        "kind": "censer",
+        "side": "center",
+        "orientation": "horizontal"
+      }
+    ],
+    "support": "unknown",
+    "companions": [],
+    "details": [
+      "长柄香炉",
+      "旧书据持物讨论慈云忏主，身份不写死"
+    ]
+  },
+  {
+    "id": "E-3-11",
+    "tower": "east",
+    "level": 3,
+    "number": 11,
+    "evidence": "photo",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Kaiyuan_Temple_-_Zhenguo_Pagoda_-_DSCF8608.JPG",
+        "title": "Vmenkov，第三层东北面原拍，2012-02-23",
+        "note": "已实际看图并以童子、斜杖、托盘和相对位置与Pl54/55对读。"
+      },
+      {
+        "url": "https://archive.org/details/in.ernet.dli.2015.127766",
+        "title": "The Twin Pagodas of Zayton：历史实物照片",
+        "pdfPage": 151,
+        "plate": "54",
+        "note": "已实际打开该图版并核对图内层号/编号；历史黑白照片不代表今日材色。"
+      },
+      {
+        "url": "https://archive.org/details/in.ernet.dli.2015.127766",
+        "title": "Ecke / Demiéville, The Twin Pagodas of Zayton (1935)",
+        "pdfPage": 78,
+        "note": "原书印刷页 75，E 3 11 的逐条形态描述；传统名号与作者推定不当作现代定论。"
+      }
+    ],
+    "description": "东北面右侧僧人俯向童子，童子托盘中有球形物，另手有念珠。",
+    "body": "robe",
+    "head": "bare",
+    "halo": "none",
+    "pose": "lean-left",
+    "hands": {
+      "left": "down",
+      "right": "holding"
+    },
+    "objects": [
+      {
+        "kind": "rosary",
+        "side": "right",
+        "orientation": "vertical"
+      },
+      {
+        "kind": "pearl",
+        "side": "left",
+        "orientation": "horizontal"
+      }
+    ],
+    "support": "unknown",
+    "companions": [
+      "child"
+    ],
+    "details": [
+      "左侧童子",
+      "童子托盘",
+      "右掌向盘中球结势（画面左）"
+    ]
+  },
+  {
+    "id": "E-3-12",
+    "tower": "east",
+    "level": 3,
+    "number": 12,
+    "evidence": "photo",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Kaiyuan_Temple_-_Zhenguo_Pagoda_-_DSCF8608.JPG",
+        "title": "Vmenkov，第三层东北面原拍，2012-02-23",
+        "note": "已实际看图并以童子、斜杖、托盘和相对位置与Pl54/55对读。"
+      },
+      {
+        "url": "https://archive.org/details/in.ernet.dli.2015.127766",
+        "title": "The Twin Pagodas of Zayton：历史实物照片",
+        "pdfPage": 152,
+        "plate": "55",
+        "note": "已实际打开该图版并核对图内层号/编号；历史黑白照片不代表今日材色。"
+      },
+      {
+        "url": "https://archive.org/details/in.ernet.dli.2015.127766",
+        "title": "Ecke / Demiéville, The Twin Pagodas of Zayton (1935)",
+        "pdfPage": 78,
+        "note": "原书印刷页 75，E 3 12 的逐条形态描述；传统名号与作者推定不当作现代定论。"
+      }
+    ],
+    "description": "东北面左侧老僧双手倚斜杖，右侧小童仰望合手。",
+    "body": "robe",
+    "head": "bare",
+    "halo": "none",
+    "pose": "lean-left",
+    "hands": {
+      "left": "holding",
+      "right": "holding"
+    },
+    "objects": [
+      {
+        "kind": "staff",
+        "side": "center",
+        "orientation": "diagonal"
+      }
+    ],
+    "support": "unknown",
+    "companions": [
+      "child"
+    ],
+    "details": [
+      "倚杖",
+      "斜杖向左上",
+      "右侧童子",
+      "老僧",
+      "低头",
+      "两手叠置斜杖"
+    ]
+  },
+  {
+    "id": "E-3-13",
+    "tower": "east",
+    "level": 3,
+    "number": 13,
+    "evidence": "photo",
+    "sources": [
+      {
+        "url": "https://archive.org/details/in.ernet.dli.2015.127766",
+        "title": "The Twin Pagodas of Zayton：历史实物照片",
+        "pdfPage": 151,
+        "plate": "54",
+        "note": "已实际打开该图版并核对图内层号/编号；历史黑白照片不代表今日材色。"
+      },
+      {
+        "url": "https://archive.org/details/in.ernet.dli.2015.127766",
+        "title": "Ecke / Demiéville, The Twin Pagodas of Zayton (1935)",
+        "pdfPage": 78,
+        "note": "原书印刷页 75，E 3 13 的逐条形态描述；传统名号与作者推定不当作现代定论。"
+      }
+    ],
+    "description": "东面右侧僧人一手托出钵，另一手在胸前作势。",
+    "body": "robe",
+    "head": "bare",
+    "halo": "none",
+    "pose": "frontal",
+    "hands": {
+      "left": "holding",
+      "right": "chest"
+    },
+    "objects": [
+      {
+        "kind": "bowl",
+        "side": "left",
+        "orientation": "horizontal"
+      }
+    ],
+    "support": "unknown",
+    "companions": [],
+    "details": [
+      "钵中有焰状线条",
+      "传统归名蒙山法师，原书说身份不清"
+    ]
+  },
+  {
+    "id": "E-3-14",
+    "tower": "east",
+    "level": 3,
+    "number": 14,
+    "evidence": "photo",
+    "sources": [
+      {
+        "url": "https://archive.org/details/in.ernet.dli.2015.127766",
+        "title": "The Twin Pagodas of Zayton：历史实物照片",
+        "pdfPage": 151,
+        "plate": "54",
+        "note": "已实际打开该图版并核对图内层号/编号；历史黑白照片不代表今日材色。"
+      },
+      {
+        "url": "https://archive.org/details/in.ernet.dli.2015.127766",
+        "title": "Ecke / Demiéville, The Twin Pagodas of Zayton (1935)",
+        "pdfPage": 78,
+        "note": "原书印刷页 75，E 3 14 的逐条形态描述；传统名号与作者推定不当作现代定论。"
+      }
+    ],
+    "description": "东面左侧僧人持长锡杖与钵，斜杖贯穿袍服前方。",
+    "body": "robe",
+    "head": "bare",
+    "halo": "none",
+    "pose": "frontal",
+    "hands": {
+      "left": "holding",
+      "right": "holding"
+    },
+    "objects": [
+      {
+        "kind": "staff",
+        "side": "left",
+        "orientation": "diagonal"
+      },
+      {
+        "kind": "bowl",
+        "side": "right",
+        "orientation": "horizontal"
+      }
+    ],
+    "support": "unknown",
+    "companions": [],
+    "details": [
+      "锡杖",
+      "托钵",
+      "传统归名目犍连"
+    ]
+  },
+  {
+    "id": "E-3-15",
+    "tower": "east",
+    "level": 3,
+    "number": 15,
+    "evidence": "photo",
+    "sources": [
+      {
+        "url": "https://archive.org/details/in.ernet.dli.2015.127766",
+        "title": "The Twin Pagodas of Zayton：历史实物照片",
+        "pdfPage": 151,
+        "plate": "54",
+        "note": "已实际打开该图版并核对图内层号/编号；历史黑白照片不代表今日材色。"
+      },
+      {
+        "url": "https://archive.org/details/in.ernet.dli.2015.127766",
+        "title": "Ecke / Demiéville, The Twin Pagodas of Zayton (1935)",
+        "pdfPage": 78,
+        "note": "原书印刷页 75，E 3 15 的逐条形态描述；传统名号与作者推定不当作现代定论。"
+      }
+    ],
+    "description": "东南面右侧僧人持念珠，衣袍在胸腹斜向交叠。",
+    "body": "robe",
+    "head": "bare",
+    "halo": "none",
+    "pose": "frontal",
+    "hands": {
+      "left": "holding",
+      "right": "waist"
+    },
+    "objects": [
+      {
+        "kind": "rosary",
+        "side": "center",
+        "orientation": "vertical"
+      }
+    ],
+    "support": "unknown",
+    "companions": [],
+    "details": [
+      "念珠",
+      "传统归名慧远但旧书表示无确证"
+    ]
+  },
+  {
+    "id": "E-3-16",
+    "tower": "east",
+    "level": 3,
+    "number": 16,
+    "evidence": "photo",
+    "sources": [
+      {
+        "url": "https://archive.org/details/in.ernet.dli.2015.127766",
+        "title": "The Twin Pagodas of Zayton：历史实物照片",
+        "pdfPage": 151,
+        "plate": "54",
+        "note": "已实际打开该图版并核对图内层号/编号；历史黑白照片不代表今日材色。"
+      },
+      {
+        "url": "https://archive.org/details/in.ernet.dli.2015.127766",
+        "title": "Ecke / Demiéville, The Twin Pagodas of Zayton (1935)",
+        "pdfPage": 78,
+        "note": "原书印刷页 75，E 3 16 的逐条形态描述；传统名号与作者推定不当作现代定论。"
+      }
+    ],
+    "description": "东南面左侧僧人双手持拂尘，拂尘沿身体一侧下垂。",
+    "body": "robe",
+    "head": "bare",
+    "halo": "none",
+    "pose": "frontal",
+    "hands": {
+      "left": "holding",
+      "right": "holding"
+    },
+    "objects": [
+      {
+        "kind": "whisk",
+        "side": "center",
+        "orientation": "diagonal"
+      }
+    ],
+    "support": "unknown",
+    "companions": [],
+    "details": [
+      "双手持拂尘",
+      "传统归名道宣但旧书认为只是猜测"
+    ]
+  },
+  {
+    "id": "E-4-01",
+    "tower": "east",
+    "level": 4,
+    "number": 1,
+    "evidence": "photo",
+    "sources": [
+      {
+        "url": "https://archive.org/details/in.ernet.dli.2015.127766",
+        "title": "The Twin Pagodas of Zayton：历史实物照片",
+        "pdfPage": 154,
+        "plate": "57",
+        "note": "已实际打开该图版并核对图内层号/编号；历史黑白照片不代表今日材色。"
+      },
+      {
+        "url": "https://archive.org/details/in.ernet.dli.2015.127766",
+        "title": "Ecke / Demiéville, The Twin Pagodas of Zayton (1935)",
+        "pdfPage": 79,
+        "note": "原书印刷页 76，E 4 1 的逐条形态描述；传统名号与作者推定不当作现代定论。"
+      }
+    ],
+    "description": "南面右侧菩萨骑坐狮背，有头光，手持花形物。",
+    "body": "mounted",
+    "head": "crown",
+    "halo": "round",
+    "pose": "mounted",
+    "hands": {
+      "left": "holding",
+      "right": "holding"
+    },
+    "objects": [
+      {
+        "kind": "flower",
+        "side": "center",
+        "orientation": "vertical"
+      }
+    ],
+    "support": "lion",
+    "companions": [],
+    "details": [
+      "骑狮",
+      "冠饰",
+      "圆头光",
+      "传统识别文殊"
+    ]
+  },
+  {
+    "id": "E-4-02",
+    "tower": "east",
+    "level": 4,
+    "number": 2,
+    "evidence": "photo",
+    "sources": [
+      {
+        "url": "https://archive.org/details/in.ernet.dli.2015.127766",
+        "title": "The Twin Pagodas of Zayton：历史实物照片",
+        "pdfPage": 154,
+        "plate": "57",
+        "note": "已实际打开该图版并核对图内层号/编号；历史黑白照片不代表今日材色。"
+      },
+      {
+        "url": "https://archive.org/details/in.ernet.dli.2015.127766",
+        "title": "Ecke / Demiéville, The Twin Pagodas of Zayton (1935)",
+        "pdfPage": 79,
+        "note": "原书印刷页 76，E 4 2 的逐条形态描述；传统名号与作者推定不当作现代定论。"
+      }
+    ],
+    "description": "南面左侧菩萨骑坐象背，手持长茎莲花。",
+    "body": "mounted",
+    "head": "crown",
+    "halo": "round",
+    "pose": "mounted",
+    "hands": {
+      "left": "holding",
+      "right": "holding"
+    },
+    "objects": [
+      {
+        "kind": "flower",
+        "side": "left",
+        "orientation": "vertical"
+      }
+    ],
+    "support": "elephant",
+    "companions": [],
+    "details": [
+      "骑象",
+      "冠饰",
+      "圆头光",
+      "传统识别普贤"
+    ]
+  },
+  {
+    "id": "E-4-03",
+    "tower": "east",
+    "level": 4,
+    "number": 3,
+    "evidence": "photo",
+    "sources": [
+      {
+        "url": "https://archive.org/details/in.ernet.dli.2015.127766",
+        "title": "The Twin Pagodas of Zayton：历史实物照片",
+        "pdfPage": 154,
+        "plate": "57",
+        "note": "已实际打开该图版并核对图内层号/编号；历史黑白照片不代表今日材色。"
+      },
+      {
+        "url": "https://archive.org/details/in.ernet.dli.2015.127766",
+        "title": "Ecke / Demiéville, The Twin Pagodas of Zayton (1935)",
+        "pdfPage": 79,
+        "note": "原书印刷页 76，E 4 3 的逐条形态描述；传统名号与作者推定不当作现代定论。"
+      }
+    ],
+    "description": "西南面右侧立像手持瓶与枝条，衣袖旁有小童。",
+    "body": "robe",
+    "head": "crown",
+    "halo": "round",
+    "pose": "frontal",
+    "hands": {
+      "left": "holding",
+      "right": "holding"
+    },
+    "objects": [
+      {
+        "kind": "flask",
+        "side": "center",
+        "orientation": "vertical"
+      },
+      {
+        "kind": "flower",
+        "side": "center",
+        "orientation": "vertical"
+      }
+    ],
+    "support": "lotus",
+    "companions": [
+      "child"
+    ],
+    "details": [
+      "长披帛",
+      "左侧童子",
+      "柳枝",
+      "柳枝以flower类记录",
+      "童子攀人物自身右袖，换算在画面左",
+      "传统识别观音"
+    ]
+  },
+  {
+    "id": "E-4-04",
+    "tower": "east",
+    "level": 4,
+    "number": 4,
+    "evidence": "photo",
+    "sources": [
+      {
+        "url": "https://archive.org/details/in.ernet.dli.2015.127766",
+        "title": "The Twin Pagodas of Zayton：历史实物照片",
+        "pdfPage": 154,
+        "plate": "57",
+        "note": "已实际打开该图版并核对图内层号/编号；历史黑白照片不代表今日材色。"
+      },
+      {
+        "url": "https://archive.org/details/in.ernet.dli.2015.127766",
+        "title": "Ecke / Demiéville, The Twin Pagodas of Zayton (1935)",
+        "pdfPage": 79,
+        "note": "原书印刷页 76，E 4 4 的逐条形态描述；传统名号与作者推定不当作现代定论。"
+      }
+    ],
+    "description": "西南面左侧菩萨立莲，持长茎花，头饰中有瓶形物。",
+    "body": "robe",
+    "head": "crown",
+    "halo": "round",
+    "pose": "frontal",
+    "hands": {
+      "left": "holding",
+      "right": "holding"
+    },
+    "objects": [
+      {
+        "kind": "flower",
+        "side": "left",
+        "orientation": "vertical"
+      }
+    ],
+    "support": "lotus",
+    "companions": [],
+    "details": [
+      "长披帛",
+      "冠中瓶形物",
+      "瓶形物属于头饰，不作为手持flask生成",
+      "旧书识别大势至；不与现代泛称观音标题直接等同"
+    ]
+  },
+  {
+    "id": "E-4-05",
+    "tower": "east",
+    "level": 4,
+    "number": 5,
+    "evidence": "photo",
+    "sources": [
+      {
+        "url": "https://archive.org/details/in.ernet.dli.2015.127766",
+        "title": "The Twin Pagodas of Zayton：历史实物照片",
+        "pdfPage": 153,
+        "plate": "56",
+        "note": "已实际打开该图版并核对图内层号/编号；历史黑白照片不代表今日材色。"
+      },
+      {
+        "url": "https://archive.org/details/in.ernet.dli.2015.127766",
+        "title": "Ecke / Demiéville, The Twin Pagodas of Zayton (1935)",
+        "pdfPage": 79,
+        "note": "原书印刷页 76，E 4 5 的逐条形态描述；传统名号与作者推定不当作现代定论。"
+      }
+    ],
+    "description": "西面右侧菩萨一手在腹前结势，另一手上方出现承小佛的莲花。",
+    "body": "robe",
+    "head": "crown",
+    "halo": "round",
+    "pose": "frontal",
+    "hands": {
+      "left": "open",
+      "right": "waist"
+    },
+    "objects": [
+      {
+        "kind": "flower",
+        "side": "left",
+        "orientation": "vertical"
+      }
+    ],
+    "support": "lotus",
+    "companions": [],
+    "details": [
+      "莲上小佛",
+      "原图在清洗前拍摄且扫描对比度差，具体手指依正文，不从噪点补纹"
+    ]
+  },
+  {
+    "id": "E-4-06",
+    "tower": "east",
+    "level": 4,
+    "number": 6,
+    "evidence": "photo",
+    "sources": [
+      {
+        "url": "https://archive.org/details/in.ernet.dli.2015.127766",
+        "title": "The Twin Pagodas of Zayton：历史实物照片",
+        "pdfPage": 153,
+        "plate": "56",
+        "note": "已实际打开该图版并核对图内层号/编号；历史黑白照片不代表今日材色。"
+      },
+      {
+        "url": "https://archive.org/details/in.ernet.dli.2015.127766",
+        "title": "Ecke / Demiéville, The Twin Pagodas of Zayton (1935)",
+        "pdfPage": 79,
+        "note": "原书印刷页 76，E 4 6 的逐条形态描述；传统名号与作者推定不当作现代定论。"
+      }
+    ],
+    "description": "西面左侧菩萨一手托大花，另一手抬起作势。",
+    "body": "robe",
+    "head": "unknown",
+    "halo": "round",
+    "pose": "frontal",
+    "hands": {
+      "left": "raised",
+      "right": "holding"
+    },
+    "objects": [
+      {
+        "kind": "flower",
+        "side": "right",
+        "orientation": "vertical"
+      }
+    ],
+    "support": "lotus",
+    "companions": [],
+    "details": [
+      "大花",
+      "原书说明不是莲花",
+      "清洗前历史照片局部模糊，头冠细节不确定"
+    ]
+  },
+  {
+    "id": "E-4-07",
+    "tower": "east",
+    "level": 4,
+    "number": 7,
+    "evidence": "photo",
+    "sources": [
+      {
+        "url": "https://archive.org/details/in.ernet.dli.2015.127766",
+        "title": "The Twin Pagodas of Zayton：历史实物照片",
+        "pdfPage": 154,
+        "plate": "57",
+        "note": "已实际打开该图版并核对图内层号/编号；历史黑白照片不代表今日材色。"
+      },
+      {
+        "url": "https://archive.org/details/in.ernet.dli.2015.127766",
+        "title": "Ecke / Demiéville, The Twin Pagodas of Zayton (1935)",
+        "pdfPage": 79,
+        "note": "原书印刷页 76，E 4 7 的逐条形态描述；传统名号与作者推定不当作现代定论。"
+      }
+    ],
+    "description": "西北面右侧菩萨一手执念珠，另一手搭在其腕部。",
+    "body": "robe",
+    "head": "crown",
+    "halo": "round",
+    "pose": "frontal",
+    "hands": {
+      "left": "holding",
+      "right": "holding"
+    },
+    "objects": [
+      {
+        "kind": "rosary",
+        "side": "left",
+        "orientation": "vertical"
+      }
+    ],
+    "support": "lotus",
+    "companions": [],
+    "details": [
+      "手腕交叠",
+      "长披帛"
+    ]
+  },
+  {
+    "id": "E-4-08",
+    "tower": "east",
+    "level": 4,
+    "number": 8,
+    "evidence": "photo",
+    "sources": [
+      {
+        "url": "https://archive.org/details/in.ernet.dli.2015.127766",
+        "title": "The Twin Pagodas of Zayton：历史实物照片",
+        "pdfPage": 154,
+        "plate": "57",
+        "note": "已实际打开该图版并核对图内层号/编号；历史黑白照片不代表今日材色。"
+      },
+      {
+        "url": "https://archive.org/details/in.ernet.dli.2015.127766",
+        "title": "Ecke / Demiéville, The Twin Pagodas of Zayton (1935)",
+        "pdfPage": 79,
+        "note": "原书印刷页 76，E 4 8 的逐条形态描述；传统名号与作者推定不当作现代定论。"
+      }
+    ],
+    "description": "西北面左侧菩萨持打开的册页，一手牵系带。",
+    "body": "robe",
+    "head": "crown",
+    "halo": "round",
+    "pose": "frontal",
+    "hands": {
+      "left": "holding",
+      "right": "holding"
+    },
+    "objects": [
+      {
+        "kind": "book",
+        "side": "right",
+        "orientation": "diagonal"
+      }
+    ],
+    "support": "lotus",
+    "companions": [],
+    "details": [
+      "展开册页",
+      "经书系带",
+      "原书说明为册式经而非卷轴"
+    ]
+  },
+  {
+    "id": "E-4-09",
+    "tower": "east",
+    "level": 4,
+    "number": 9,
+    "evidence": "text",
+    "sources": [
+      {
+        "url": "https://archive.org/details/in.ernet.dli.2015.127766",
+        "title": "Ecke / Demiéville, The Twin Pagodas of Zayton (1935)",
+        "pdfPage": 80,
+        "note": "原书印刷页 77，E 4 9 的逐条形态描述；传统名号与作者推定不当作现代定论。"
+      }
+    ],
+    "description": "正文记载官式冠服人物持花与笏状物，足下可能为云。",
+    "body": "official",
+    "head": "cap",
+    "halo": "unknown",
+    "pose": "unknown",
+    "hands": {
+      "left": "holding",
+      "right": "holding"
+    },
+    "objects": [
+      {
+        "kind": "flower",
+        "side": "left",
+        "orientation": "unknown"
+      },
+      {
+        "kind": "tablet",
+        "side": "right",
+        "orientation": "unknown"
+      }
+    ],
+    "support": "unknown",
+    "companions": [],
+    "details": [
+      "官服",
+      "花不是莲花",
+      "云形底座原书也加问号，support保留unknown",
+      "仅正文；该页独立图Pl58在当前扫描缺失"
+    ]
+  },
+  {
+    "id": "E-4-10",
+    "tower": "east",
+    "level": 4,
+    "number": 10,
+    "evidence": "text",
+    "sources": [
+      {
+        "url": "https://archive.org/details/in.ernet.dli.2015.127766",
+        "title": "Ecke / Demiéville, The Twin Pagodas of Zayton (1935)",
+        "pdfPage": 80,
+        "note": "原书印刷页 77，E 4 10 的逐条形态描述；传统名号与作者推定不当作现代定论。"
+      }
+    ],
+    "description": "正文记载菩萨双手持如意状物，上端似有宝珠。",
+    "body": "unknown",
+    "head": "unknown",
+    "halo": "round",
+    "pose": "unknown",
+    "hands": {
+      "left": "holding",
+      "right": "holding"
+    },
+    "objects": [
+      {
+        "kind": "ruyi",
+        "side": "center",
+        "orientation": "unknown"
+      },
+      {
+        "kind": "pearl",
+        "side": "center",
+        "orientation": "unknown"
+      }
+    ],
+    "support": "lotus",
+    "companions": [],
+    "details": [
+      "如意状物",
+      "宝珠为原书带保留的辨识",
+      "仅正文；冠服与动作幅度不确定"
+    ]
+  },
+  {
+    "id": "E-4-11",
+    "tower": "east",
+    "level": 4,
+    "number": 11,
+    "evidence": "photo",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Kaiyuan_Temple_-_Zhenguo_Pagoda_-_DSCF8607.JPG",
+        "title": "Vmenkov，镇国塔四、五层原拍，2012-02-23",
+        "note": "已实际看图。中央东北面由同一机位 DSCF8608 中 E III12/11 与原书图版对读定位；朝向是图像对应推断。只据可见轮廓补充，不把普通图片说明的笼统名号当定论。"
+      },
+      {
+        "url": "https://archive.org/details/in.ernet.dli.2015.127766",
+        "title": "Ecke / Demiéville, The Twin Pagodas of Zayton (1935)",
+        "pdfPage": 80,
+        "note": "原书印刷页 77，E 4 11 的逐条形态描述；传统名号与作者推定不当作现代定论。"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Kaiyuan_Temple_-_Zhenguo_Pagoda_-_DSCF8608.JPG",
+        "title": "Vmenkov，镇国塔第三层原拍，2012-02-23",
+        "note": "同机位定位参照：中央左为 E III12（倚斜杖与童子），右为 E III11（俯身与童子），与 Pl55 / Pl54 对应。"
+      }
+    ],
+    "description": "东北面右侧菩萨持长柄如意形物，现代照片可见冠饰与下垂披帛。",
+    "body": "robe",
+    "head": "crown",
+    "halo": "round",
+    "pose": "frontal",
+    "hands": {
+      "left": "holding",
+      "right": "holding"
+    },
+    "objects": [
+      {
+        "kind": "ruyi",
+        "side": "left",
+        "orientation": "vertical"
+      }
+    ],
+    "support": "lotus",
+    "companions": [],
+    "details": [
+      "长披帛",
+      "头饰中圆形宝珠仍按文字保留，不从低分辨率照片刻纹"
+    ]
+  },
+  {
+    "id": "E-4-12",
+    "tower": "east",
+    "level": 4,
+    "number": 12,
+    "evidence": "photo",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Kaiyuan_Temple_-_Zhenguo_Pagoda_-_DSCF8607.JPG",
+        "title": "Vmenkov，镇国塔四、五层原拍，2012-02-23",
+        "note": "已实际看图。中央东北面由同一机位 DSCF8608 中 E III12/11 与原书图版对读定位；朝向是图像对应推断。只据可见轮廓补充，不把普通图片说明的笼统名号当定论。"
+      },
+      {
+        "url": "https://archive.org/details/in.ernet.dli.2015.127766",
+        "title": "Ecke / Demiéville, The Twin Pagodas of Zayton (1935)",
+        "pdfPage": 80,
+        "note": "原书印刷页 77，E 4 12 的逐条形态描述；传统名号与作者推定不当作现代定论。"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Kaiyuan_Temple_-_Zhenguo_Pagoda_-_DSCF8608.JPG",
+        "title": "Vmenkov，镇国塔第三层原拍，2012-02-23",
+        "note": "同机位定位参照：中央左为 E III12（倚斜杖与童子），右为 E III11（俯身与童子），与 Pl55 / Pl54 对应。"
+      }
+    ],
+    "description": "东北面左侧菩萨一手在腹前持物，另一手向画面右侧伸出作势。",
+    "body": "robe",
+    "head": "crown",
+    "halo": "round",
+    "pose": "frontal",
+    "hands": {
+      "left": "holding",
+      "right": "open"
+    },
+    "objects": [
+      {
+        "kind": "rosary",
+        "side": "center",
+        "orientation": "unknown"
+      }
+    ],
+    "support": "lotus",
+    "companions": [],
+    "details": [
+      "长披帛",
+      "念珠的具体珠数未辨",
+      "外视者右向手势"
+    ]
+  },
+  {
+    "id": "E-4-13",
+    "tower": "east",
+    "level": 4,
+    "number": 13,
+    "evidence": "text",
+    "sources": [
+      {
+        "url": "https://archive.org/details/in.ernet.dli.2015.127766",
+        "title": "Ecke / Demiéville, The Twin Pagodas of Zayton (1935)",
+        "pdfPage": 80,
+        "note": "原书印刷页 77，E 4 13 的逐条形态描述；传统名号与作者推定不当作现代定论。"
+      }
+    ],
+    "description": "正文记载菩萨双手作相同手印，具体手指形态没有已核照片。",
+    "body": "unknown",
+    "head": "unknown",
+    "halo": "round",
+    "pose": "unknown",
+    "hands": {
+      "left": "unknown",
+      "right": "unknown"
+    },
+    "objects": [],
+    "support": "lotus",
+    "companions": [],
+    "details": [
+      "双手同类手印",
+      "不能把文字中的mudra自动解释为合掌",
+      "仅正文；传统名号金刚藏在原书中被质疑"
+    ]
+  },
+  {
+    "id": "E-4-14",
+    "tower": "east",
+    "level": 4,
+    "number": 14,
+    "evidence": "text",
+    "sources": [
+      {
+        "url": "https://archive.org/details/in.ernet.dli.2015.127766",
+        "title": "Ecke / Demiéville, The Twin Pagodas of Zayton (1935)",
+        "pdfPage": 80,
+        "note": "原书印刷页 77，E 4 14 的逐条形态描述；传统名号与作者推定不当作现代定论。"
+      }
+    ],
+    "description": "正文记载菩萨一手落在旁边狮首上；人物自身立莲。",
+    "body": "unknown",
+    "head": "unknown",
+    "halo": "round",
+    "pose": "unknown",
+    "hands": {
+      "left": "unknown",
+      "right": "down"
+    },
+    "objects": [],
+    "support": "lotus",
+    "companions": [],
+    "details": [
+      "右侧狮首",
+      "原文人物自身左手，换算外视者右手",
+      "狮在身旁，不把support改为骑狮",
+      "传统地藏归名被原书质疑"
+    ]
+  },
+  {
+    "id": "E-4-15",
+    "tower": "east",
+    "level": 4,
+    "number": 15,
+    "evidence": "text",
+    "sources": [
+      {
+        "url": "https://archive.org/details/in.ernet.dli.2015.127766",
+        "title": "Ecke / Demiéville, The Twin Pagodas of Zayton (1935)",
+        "pdfPage": 80,
+        "note": "原书印刷页 77，E 4 15 的逐条形态描述；传统名号与作者推定不当作现代定论。"
+      }
+    ],
+    "description": "正文记载日轮菩萨，手持包含鸟形的日轮。",
+    "body": "unknown",
+    "head": "unknown",
+    "halo": "round",
+    "pose": "unknown",
+    "hands": {
+      "left": "holding",
+      "right": "holding"
+    },
+    "objects": [
+      {
+        "kind": "sun",
+        "side": "center",
+        "orientation": "vertical"
+      }
+    ],
+    "support": "lotus",
+    "companions": [],
+    "details": [
+      "日轮中鸟形",
+      "具体冠服未有已核图",
+      "仅正文"
+    ]
+  },
+  {
+    "id": "E-4-16",
+    "tower": "east",
+    "level": 4,
+    "number": 16,
+    "evidence": "text",
+    "sources": [
+      {
+        "url": "https://archive.org/details/in.ernet.dli.2015.127766",
+        "title": "Ecke / Demiéville, The Twin Pagodas of Zayton (1935)",
+        "pdfPage": 80,
+        "note": "原书印刷页 77，E 4 16 的逐条形态描述；传统名号与作者推定不当作现代定论。"
+      }
+    ],
+    "description": "正文记载月轮菩萨，手持含树与兔形的月轮。",
+    "body": "unknown",
+    "head": "unknown",
+    "halo": "round",
+    "pose": "unknown",
+    "hands": {
+      "left": "holding",
+      "right": "holding"
+    },
+    "objects": [
+      {
+        "kind": "moon",
+        "side": "center",
+        "orientation": "vertical"
+      }
+    ],
+    "support": "lotus",
+    "companions": [],
+    "details": [
+      "月轮中树兔",
+      "具体冠服未有已核图",
+      "仅正文"
+    ]
+  },
+  {
+    "id": "E-5-01",
+    "tower": "east",
+    "level": 5,
+    "number": 1,
+    "evidence": "text",
+    "sources": [
+      {
+        "url": "https://archive.org/details/in.ernet.dli.2015.127766",
+        "title": "Ecke / Demiéville, The Twin Pagodas of Zayton (1935)",
+        "pdfPage": 81,
+        "note": "原书印刷页 78，E 5 1 的逐条形态描述；传统名号与作者推定不当作现代定论。"
+      }
+    ],
+    "description": "正文记载南面右侧穿甲守护人物，持长剑。",
+    "body": "armoured",
+    "head": "unknown",
+    "halo": "unknown",
+    "pose": "unknown",
+    "hands": {
+      "left": "unknown",
+      "right": "unknown"
+    },
+    "objects": [
+      {
+        "kind": "sword",
+        "side": "center",
+        "orientation": "unknown"
+      }
+    ],
+    "support": "unknown",
+    "companions": [],
+    "details": [
+      "盔甲裙摆",
+      "仅正文；原书标注1—8未刊独立照片",
+      "头冠和剑的朝向未知"
+    ]
+  },
+  {
+    "id": "E-5-02",
+    "tower": "east",
+    "level": 5,
+    "number": 2,
+    "evidence": "text",
+    "sources": [
+      {
+        "url": "https://archive.org/details/in.ernet.dli.2015.127766",
+        "title": "Ecke / Demiéville, The Twin Pagodas of Zayton (1935)",
+        "pdfPage": 81,
+        "note": "原书印刷页 78，E 5 2 的逐条形态描述；传统名号与作者推定不当作现代定论。"
+      }
+    ],
+    "description": "正文记载南面左侧穿甲守护人物，与1成对，同持长剑。",
+    "body": "armoured",
+    "head": "unknown",
+    "halo": "unknown",
+    "pose": "unknown",
+    "hands": {
+      "left": "unknown",
+      "right": "unknown"
+    },
+    "objects": [
+      {
+        "kind": "sword",
+        "side": "center",
+        "orientation": "unknown"
+      }
+    ],
+    "support": "unknown",
+    "companions": [],
+    "details": [
+      "盔甲裙摆",
+      "仅正文；原书标注1—8未刊独立照片",
+      "不为区分成对人物随意反转姿态"
+    ]
+  },
+  {
+    "id": "E-5-03",
+    "tower": "east",
+    "level": 5,
+    "number": 3,
+    "evidence": "text",
+    "sources": [
+      {
+        "url": "https://archive.org/details/in.ernet.dli.2015.127766",
+        "title": "Ecke / Demiéville, The Twin Pagodas of Zayton (1935)",
+        "pdfPage": 81,
+        "note": "原书印刷页 78，E 5 3 的逐条形态描述；传统名号与作者推定不当作现代定论。"
+      }
+    ],
+    "description": "正文记载西南面右侧卷发佛，穿僧衣、立莲并结手印。",
+    "body": "robe",
+    "head": "curled",
+    "halo": "unknown",
+    "pose": "unknown",
+    "hands": {
+      "left": "unknown",
+      "right": "unknown"
+    },
+    "objects": [],
+    "support": "lotus",
+    "companions": [],
+    "details": [
+      "卷发",
+      "眉间白毫",
+      "原书只说明3与4手印不同，未以文字给出全部手指位置",
+      "仅正文"
+    ]
+  },
+  {
+    "id": "E-5-04",
+    "tower": "east",
+    "level": 5,
+    "number": 4,
+    "evidence": "text",
+    "sources": [
+      {
+        "url": "https://archive.org/details/in.ernet.dli.2015.127766",
+        "title": "Ecke / Demiéville, The Twin Pagodas of Zayton (1935)",
+        "pdfPage": 81,
+        "note": "原书印刷页 78，E 5 4 的逐条形态描述；传统名号与作者推定不当作现代定论。"
+      }
+    ],
+    "description": "正文记载西南面左侧卷发佛，穿僧衣、立莲，手印与3不同。",
+    "body": "robe",
+    "head": "curled",
+    "halo": "unknown",
+    "pose": "unknown",
+    "hands": {
+      "left": "unknown",
+      "right": "unknown"
+    },
+    "objects": [],
+    "support": "lotus",
+    "companions": [],
+    "details": [
+      "卷发",
+      "眉间白毫",
+      "手印不明确，不复制3的手势或自行发明",
+      "仅正文"
+    ]
+  },
+  {
+    "id": "E-5-05",
+    "tower": "east",
+    "level": 5,
+    "number": 5,
+    "evidence": "text",
+    "sources": [
+      {
+        "url": "https://archive.org/details/in.ernet.dli.2015.127766",
+        "title": "Ecke / Demiéville, The Twin Pagodas of Zayton (1935)",
+        "pdfPage": 81,
+        "note": "原书印刷页 78，E 5 5 的逐条形态描述；传统名号与作者推定不当作现代定论。"
+      }
+    ],
+    "description": "正文记载西面右侧裸胸、裸臂的护法，握拳但没有持杵。",
+    "body": "bare",
+    "head": "topknot",
+    "halo": "unknown",
+    "pose": "unknown",
+    "hands": {
+      "left": "unknown",
+      "right": "unknown"
+    },
+    "objects": [],
+    "support": "unknown",
+    "companions": [],
+    "details": [
+      "双髻",
+      "裸臂",
+      "无上衣",
+      "双手握拳",
+      "原书明确无杵；不为丰富细节添加武器",
+      "仅正文"
+    ]
+  },
+  {
+    "id": "E-5-06",
+    "tower": "east",
+    "level": 5,
+    "number": 6,
+    "evidence": "text",
+    "sources": [
+      {
+        "url": "https://archive.org/details/in.ernet.dli.2015.127766",
+        "title": "Ecke / Demiéville, The Twin Pagodas of Zayton (1935)",
+        "pdfPage": 81,
+        "note": "原书印刷页 78，E 5 6 的逐条形态描述；传统名号与作者推定不当作现代定论。"
+      }
+    ],
+    "description": "正文记载西面左侧裸胸护法，双髻、握拳，与5成对。",
+    "body": "bare",
+    "head": "topknot",
+    "halo": "unknown",
+    "pose": "unknown",
+    "hands": {
+      "left": "unknown",
+      "right": "unknown"
+    },
+    "objects": [],
+    "support": "unknown",
+    "companions": [],
+    "details": [
+      "双髻",
+      "裸臂",
+      "无上衣",
+      "双手握拳",
+      "原书明确无杵",
+      "仅正文"
+    ]
+  },
+  {
+    "id": "E-5-07",
+    "tower": "east",
+    "level": 5,
+    "number": 7,
+    "evidence": "text",
+    "sources": [
+      {
+        "url": "https://archive.org/details/in.ernet.dli.2015.127766",
+        "title": "Ecke / Demiéville, The Twin Pagodas of Zayton (1935)",
+        "pdfPage": 81,
+        "note": "原书印刷页 78，E 5 7 的逐条形态描述；传统名号与作者推定不当作现代定论。"
+      }
+    ],
+    "description": "正文记载西北面右侧佛像立在一朵莲花上。",
+    "body": "robe",
+    "head": "unknown",
+    "halo": "unknown",
+    "pose": "unknown",
+    "hands": {
+      "left": "unknown",
+      "right": "unknown"
+    },
+    "objects": [],
+    "support": "lotus",
+    "companions": [],
+    "details": [
+      "单莲台",
+      "右臂部分裸露（人物自身右，外视者左）",
+      "手印未清楚记载",
+      "仅正文"
+    ]
+  },
+  {
+    "id": "E-5-08",
+    "tower": "east",
+    "level": 5,
+    "number": 8,
+    "evidence": "text",
+    "sources": [
+      {
+        "url": "https://archive.org/details/in.ernet.dli.2015.127766",
+        "title": "Ecke / Demiéville, The Twin Pagodas of Zayton (1935)",
+        "pdfPage": 81,
+        "note": "原书印刷页 78，E 5 8 的逐条形态描述；传统名号与作者推定不当作现代定论。"
+      }
+    ],
+    "description": "正文记载西北面左侧佛像分别立在两朵莲花上，作与愿印。",
+    "body": "robe",
+    "head": "unknown",
+    "halo": "unknown",
+    "pose": "unknown",
+    "hands": {
+      "left": "unknown",
+      "right": "unknown"
+    },
+    "objects": [],
+    "support": "lotus",
+    "companions": [],
+    "details": [
+      "双莲台",
+      "与愿印见正文但未明确哪只手，不擅自设左右",
+      "右臂部分裸露（人物自身右，外视者左）",
+      "仅正文"
+    ]
+  },
+  {
+    "id": "E-5-09",
+    "tower": "east",
+    "level": 5,
+    "number": 9,
+    "evidence": "photo",
+    "sources": [
+      {
+        "url": "https://archive.org/details/in.ernet.dli.2015.127766",
+        "title": "The Twin Pagodas of Zayton：历史实物照片",
+        "pdfPage": 155,
+        "plate": "59（页头被裁）",
+        "note": "已实际打开该图版并核对图内层号/编号；历史黑白照片不代表今日材色。 此扫描左缘与页头裁切，仅使用实际可见编号。"
+      },
+      {
+        "url": "https://archive.org/details/in.ernet.dli.2015.127766",
+        "title": "Ecke / Demiéville, The Twin Pagodas of Zayton (1935)",
+        "pdfPage": 81,
+        "note": "原书印刷页 78，E 5 9 的逐条形态描述；传统名号与作者推定不当作现代定论。"
+      }
+    ],
+    "description": "北面右侧力士闭口、斜持杵，裸臂与屈膝形成扭转动势。",
+    "body": "bare",
+    "head": "topknot",
+    "halo": "unknown",
+    "pose": "turned-left",
+    "hands": {
+      "left": "waist",
+      "right": "raised"
+    },
+    "objects": [
+      {
+        "kind": "vajra",
+        "side": "center",
+        "orientation": "diagonal"
+      }
+    ],
+    "support": "unknown",
+    "companions": [],
+    "details": [
+      "双髻",
+      "裸臂",
+      "屈膝",
+      "闭口",
+      "腰间披带"
+    ]
+  },
+  {
+    "id": "E-5-10",
+    "tower": "east",
+    "level": 5,
+    "number": 10,
+    "evidence": "photo",
+    "sources": [
+      {
+        "url": "https://archive.org/details/in.ernet.dli.2015.127766",
+        "title": "The Twin Pagodas of Zayton：历史实物照片",
+        "pdfPage": 155,
+        "plate": "59（页头被裁）",
+        "note": "已实际打开该图版并核对图内层号/编号；历史黑白照片不代表今日材色。 此扫描左缘与页头裁切，仅使用实际可见编号。"
+      },
+      {
+        "url": "https://archive.org/details/in.ernet.dli.2015.127766",
+        "title": "Ecke / Demiéville, The Twin Pagodas of Zayton (1935)",
+        "pdfPage": 81,
+        "note": "原书印刷页 78，E 5 10 的逐条形态描述；传统名号与作者推定不当作现代定论。"
+      }
+    ],
+    "description": "北面左侧力士张口，一臂举起，另一臂横向腹前。",
+    "body": "bare",
+    "head": "topknot",
+    "halo": "unknown",
+    "pose": "turned-right",
+    "hands": {
+      "left": "raised",
+      "right": "waist"
+    },
+    "objects": [
+      {
+        "kind": "vajra",
+        "side": "center",
+        "orientation": "diagonal"
+      }
+    ],
+    "support": "unknown",
+    "companions": [],
+    "details": [
+      "双髻",
+      "裸臂",
+      "屈膝",
+      "张口"
+    ]
+  },
+  {
+    "id": "E-5-11",
+    "tower": "east",
+    "level": 5,
+    "number": 11,
+    "evidence": "photo",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Kaiyuan_Temple_-_Zhenguo_Pagoda_-_DSCF8607.JPG",
+        "title": "Vmenkov，镇国塔四、五层原拍，2012-02-23",
+        "note": "已实际看图。中央东北面由同一机位 DSCF8608 中 E III12/11 与原书图版对读定位；朝向是图像对应推断。只据可见轮廓补充，不把普通图片说明的笼统名号当定论。"
+      },
+      {
+        "url": "https://archive.org/details/in.ernet.dli.2015.127766",
+        "title": "The Twin Pagodas of Zayton：历史实物照片",
+        "pdfPage": 155,
+        "plate": "59（页头被裁）",
+        "note": "已实际打开该图版并核对图内层号/编号；历史黑白照片不代表今日材色。 此扫描左缘与页头裁切，仅使用实际可见编号。"
+      },
+      {
+        "url": "https://archive.org/details/in.ernet.dli.2015.127766",
+        "title": "Ecke / Demiéville, The Twin Pagodas of Zayton (1935)",
+        "pdfPage": 81,
+        "note": "原书印刷页 78，E 5 11 的逐条形态描述；传统名号与作者推定不当作现代定论。"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Kaiyuan_Temple_-_Zhenguo_Pagoda_-_DSCF8608.JPG",
+        "title": "Vmenkov，镇国塔第三层原拍，2012-02-23",
+        "note": "同机位定位参照：中央左为 E III12（倚斜杖与童子），右为 E III11（俯身与童子），与 Pl55 / Pl54 对应。"
+      }
+    ],
+    "description": "东北面右侧罩帽僧人持拂尘，宽袍垂下，姿态近正立。",
+    "body": "robe",
+    "head": "hood",
+    "halo": "unknown",
+    "pose": "frontal",
+    "hands": {
+      "left": "holding",
+      "right": "holding"
+    },
+    "objects": [
+      {
+        "kind": "whisk",
+        "side": "center",
+        "orientation": "vertical"
+      }
+    ],
+    "support": "unknown",
+    "companions": [],
+    "details": [
+      "罩帽",
+      "拂尘",
+      "原图左边缘裁切，结合正文和现代整体照辨识"
+    ]
+  },
+  {
+    "id": "E-5-12",
+    "tower": "east",
+    "level": 5,
+    "number": 12,
+    "evidence": "photo",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Kaiyuan_Temple_-_Zhenguo_Pagoda_-_DSCF8607.JPG",
+        "title": "Vmenkov，镇国塔四、五层原拍，2012-02-23",
+        "note": "已实际看图。中央东北面由同一机位 DSCF8608 中 E III12/11 与原书图版对读定位；朝向是图像对应推断。只据可见轮廓补充，不把普通图片说明的笼统名号当定论。"
+      },
+      {
+        "url": "https://archive.org/details/in.ernet.dli.2015.127766",
+        "title": "Ecke / Demiéville, The Twin Pagodas of Zayton (1935)",
+        "pdfPage": 81,
+        "note": "原书印刷页 78，E 5 12 的逐条形态描述；传统名号与作者推定不当作现代定论。"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Kaiyuan_Temple_-_Zhenguo_Pagoda_-_DSCF8608.JPG",
+        "title": "Vmenkov，镇国塔第三层原拍，2012-02-23",
+        "note": "同机位定位参照：中央左为 E III12（倚斜杖与童子），右为 E III11（俯身与童子），与 Pl55 / Pl54 对应。"
+      }
+    ],
+    "description": "东北面左侧着衣人物持卷，现代照片可见身前横向手势与长袍。",
+    "body": "robe",
+    "head": "unknown",
+    "halo": "unknown",
+    "pose": "frontal",
+    "hands": {
+      "left": "holding",
+      "right": "holding"
+    },
+    "objects": [
+      {
+        "kind": "scroll",
+        "side": "center",
+        "orientation": "horizontal"
+      }
+    ],
+    "support": "unknown",
+    "companions": [],
+    "details": [
+      "卷轴",
+      "右臂部分裸露（人物自身右，外视者左）",
+      "旧书对双髻还是肉髻不确定，head保留unknown"
+    ]
+  },
+  {
+    "id": "E-5-13",
+    "tower": "east",
+    "level": 5,
+    "number": 13,
+    "evidence": "photo",
+    "sources": [
+      {
+        "url": "https://archive.org/details/in.ernet.dli.2015.127766",
+        "title": "The Twin Pagodas of Zayton：历史实物照片",
+        "pdfPage": 155,
+        "plate": "59（页头被裁）",
+        "note": "已实际打开该图版并核对图内层号/编号；历史黑白照片不代表今日材色。 此扫描左缘与页头裁切，仅使用实际可见编号。"
+      },
+      {
+        "url": "https://archive.org/details/in.ernet.dli.2015.127766",
+        "title": "Ecke / Demiéville, The Twin Pagodas of Zayton (1935)",
+        "pdfPage": 82,
+        "note": "原书印刷页 79，E 5 13 的逐条形态描述；传统名号与作者推定不当作现代定论。"
+      }
+    ],
+    "description": "东面右侧护法闭口，杵斜过胸腹，身体扭向一侧。",
+    "body": "bare",
+    "head": "topknot",
+    "halo": "unknown",
+    "pose": "turned-left",
+    "hands": {
+      "left": "waist",
+      "right": "holding"
+    },
+    "objects": [
+      {
+        "kind": "vajra",
+        "side": "center",
+        "orientation": "diagonal"
+      }
+    ],
+    "support": "unknown",
+    "companions": [],
+    "details": [
+      "双髻",
+      "裸臂",
+      "屈膝",
+      "闭口"
+    ]
+  },
+  {
+    "id": "E-5-14",
+    "tower": "east",
+    "level": 5,
+    "number": 14,
+    "evidence": "photo",
+    "sources": [
+      {
+        "url": "https://archive.org/details/in.ernet.dli.2015.127766",
+        "title": "The Twin Pagodas of Zayton：历史实物照片",
+        "pdfPage": 155,
+        "plate": "59（页头被裁）",
+        "note": "已实际打开该图版并核对图内层号/编号；历史黑白照片不代表今日材色。 此扫描左缘与页头裁切，仅使用实际可见编号。"
+      },
+      {
+        "url": "https://archive.org/details/in.ernet.dli.2015.127766",
+        "title": "Ecke / Demiéville, The Twin Pagodas of Zayton (1935)",
+        "pdfPage": 82,
+        "note": "原书印刷页 79，E 5 14 的逐条形态描述；传统名号与作者推定不当作现代定论。"
+      }
+    ],
+    "description": "东面左侧护法张口，一臂高举，另一臂横斜腹前。",
+    "body": "bare",
+    "head": "topknot",
+    "halo": "unknown",
+    "pose": "turned-right",
+    "hands": {
+      "left": "raised",
+      "right": "waist"
+    },
+    "objects": [],
+    "support": "unknown",
+    "companions": [],
+    "details": [
+      "双髻",
+      "裸臂",
+      "屈膝",
+      "张口",
+      "此对中正文仅明确13持杵，不给14补杵"
+    ]
+  },
+  {
+    "id": "E-5-15",
+    "tower": "east",
+    "level": 5,
+    "number": 15,
+    "evidence": "photo",
+    "sources": [
+      {
+        "url": "https://archive.org/details/in.ernet.dli.2015.127766",
+        "title": "The Twin Pagodas of Zayton：历史实物照片",
+        "pdfPage": 155,
+        "plate": "59（页头被裁）",
+        "note": "已实际打开该图版并核对图内层号/编号；历史黑白照片不代表今日材色。 此扫描左缘与页头裁切，仅使用实际可见编号。"
+      },
+      {
+        "url": "https://archive.org/details/in.ernet.dli.2015.127766",
+        "title": "Ecke / Demiéville, The Twin Pagodas of Zayton (1935)",
+        "pdfPage": 82,
+        "note": "原书印刷页 79，E 5 15 的逐条形态描述；传统名号与作者推定不当作现代定论。"
+      }
+    ],
+    "description": "东南面右侧佛形人物披袍，抬起的衣袖遮住双手。",
+    "body": "robe",
+    "head": "unknown",
+    "halo": "unknown",
+    "pose": "turned-left",
+    "hands": {
+      "left": "unknown",
+      "right": "unknown"
+    },
+    "objects": [
+      {
+        "kind": "cloth",
+        "side": "center",
+        "orientation": "diagonal"
+      }
+    ],
+    "support": "none",
+    "companions": [],
+    "details": [
+      "肉髻",
+      "眉间白毫",
+      "双手藏袖",
+      "正文明确没有莲座",
+      "具体佛名在原书中也有不同解释"
+    ]
+  },
+  {
+    "id": "E-5-16",
+    "tower": "east",
+    "level": 5,
+    "number": 16,
+    "evidence": "text",
+    "sources": [
+      {
+        "url": "https://archive.org/details/in.ernet.dli.2015.127766",
+        "title": "Ecke / Demiéville, The Twin Pagodas of Zayton (1935)",
+        "pdfPage": 82,
+        "note": "原书印刷页 79，E 5 16 的逐条形态描述；传统名号与作者推定不当作现代定论。"
+      }
+    ],
+    "description": "正文记载东南面左侧罩帽僧人，双手藏于袖中，行于植物上。",
+    "body": "robe",
+    "head": "hood",
+    "halo": "unknown",
+    "pose": "unknown",
+    "hands": {
+      "left": "unknown",
+      "right": "unknown"
+    },
+    "objects": [],
+    "support": "unknown",
+    "companions": [],
+    "details": [
+      "罩帽",
+      "双手藏袖",
+      "足下植物，未直接认定芦苇",
+      "仅正文；PDF155裁切边缘未见此尊完整照片"
+    ]
+  }
+]
