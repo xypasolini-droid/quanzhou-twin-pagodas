@@ -5,6 +5,7 @@ import ReliefGallery from './ReliefGallery';
 import type { SculptureRecord } from './heritage/sculptureTypes';
 import { SCULPTURES } from './heritage/sculptureCatalog';
 import { WEST_BUILD_END } from './heritage/history';
+import { MONKEY_PILGRIM_ID } from './heritage/reliefReading';
 const DURATION = 22;
 const stages = [['台基',.10],['第一层',.26],['第二层',.42],['第三层',.58],['第四层',.74],['第五层',.90],['塔刹',1]] as const;
 const views: [DetailView,string][] = [['overview','双塔全景'],['west','西塔 · 仁寿'],['east','东塔 · 镇国'],['eaves','石檐斗拱'],['reliefs','人物石刻'],['base','须弥塔座']];
@@ -87,6 +88,9 @@ export default function App(){
   const localStage=progress===WEST_BUILD_END?'落成':stages.find(([,end])=>progress<=stageEnd(end))?.[0]??'塔刹';
   const stage=progress===1?'双塔落成':`${buildTower==='west'?'西塔':'东塔'} · ${localStage}`;
   const disabled=!ready||!!error;
+  const sculptureCaption = sculpture?.id === MONKEY_PILGRIM_ID
+    ? '猴行者 · 仁寿塔四层'
+    : sculpture && `${tower==='east'?'镇国塔':'仁寿塔'} · 第 ${sculpture.level} 层 · ${sculpture.id}`;
   return <main ref={appRef} className={`exhibition${fullscreen?' is-fullscreen':''}${focusMode?' is-focus-mode':''}`}>
     <header className="site-header">
       <a className="brand" href="#main-scene" aria-label="泉州双塔，跳至三维场景"><span className="seal">泉</span><span>刺桐古建<small>QUANZHOU HERITAGE</small></span></a>
@@ -106,7 +110,9 @@ export default function App(){
 
       <div className="scene-information">
       <div className="scene-meta"><i/><span>{!ready?'正在准备场景':progress===1?'双塔已成':stage}</span><span>{Math.round(progress*100)}%</span></div>
-      {detailNotes[view]?<div className="detail-caption"><span>{view==='reliefs'&&sculpture?`${tower==='east'?'镇国塔':'仁寿塔'} · 第 ${sculpture.level} 层 · ${sculpture.id}`:detailNotes[view]![0]}</span><small>{view==='reliefs'?<button className="gallery-inline" onClick={openGallery} aria-haspopup="dialog">查看实物照片与介绍 ↗</button>:detailNotes[view]![1]}</small></div>:view==='overview'?<div className="tower-facts"><span className="facts-label">双塔档案</span><span>仁寿塔 <b>45.06</b> 米</span><i/><span>镇国塔 <b>48.27</b> 米</span></div>:<div className="detail-caption"><span>{view==='west'?'西塔 · 仁寿塔':'东塔 · 镇国塔'}</span><small>{view==='west'?'1228—1237 · 45.06 米':'1238—1250 · 48.27 米'}</small></div>}
+      {detailNotes[view]?<div className="detail-caption"><span>{view==='reliefs'&&sculpture?sculptureCaption:detailNotes[view]![0]}</span><small>{view==='reliefs'?<button className="gallery-inline" onClick={openGallery} aria-haspopup="dialog">查看实物照片与介绍 ↗</button>:detailNotes[view]![1]}</small></div>:view==='overview'?<div className="tower-facts"><span className="facts-label">双塔档案</span><span>仁寿塔 <b>45.06</b> 米</span><i/><span>镇国塔 <b>48.27</b> 米</span></div>:<div className="detail-caption"><span>{view==='west'?'西塔 · 仁寿塔':'东塔 · 镇国塔'}</span><small>{view==='west'?'1228—1237 · 45.06 米':'1238—1250 · 48.27 米'}</small>
+        {view==='west'&&<button className="gallery-inline" onClick={()=>inspectRelief(MONKEY_PILGRIM_ID)} aria-haspopup="dialog">看四层猴行者 ↗</button>}
+      </div>}
       </div>
       <div className="light-switch" role="group" aria-label="观察光线"><button aria-pressed={sunlight==='day'} onClick={()=>setSunlight('day')}>日光</button><button aria-pressed={sunlight==='late'} onClick={()=>setSunlight('late')}>斜阳</button></div>
 

@@ -192,7 +192,7 @@
 | W-4-08 / 西北面左 | 文字补形 | 原著记持杵护法，与7成对，个别衣饰姿势未展开。 | [PDF 38](https://archive.org/download/in.ernet.dli.2015.127766/2015.127766.The-Twin-Pagodas-Of-Zayton_text.pdf#page=38) |
 | W-4-09 / 北面右 | 文字补形 | 原著记菩萨形人物手持念珠。 | [PDF 38](https://archive.org/download/in.ernet.dli.2015.127766/2015.127766.The-Twin-Pagodas-Of-Zayton_text.pdf#page=38) |
 | W-4-10 / 北面左 | 图像核对 | 带头光的长袍立像在胸前持如意形器，衣摆纵向展开。 | [PDF 117 · 图版18](https://archive.org/download/in.ernet.dli.2015.127766/2015.127766.The-Twin-Pagodas-Of-Zayton_text.pdf#page=117) |
-| W-4-11 / 东北面右 | 图像核对 | 猴面短衣人物一手执珠串，另一手握宽刀，刀刃朝观察者左上。 | [PDF 125 · 图版26](https://archive.org/download/in.ernet.dli.2015.127766/2015.127766.The-Twin-Pagodas-Of-Zayton_text.pdf#page=125) |
+| W-4-11 / 东北面右 | 图像核对 | 猴行者穿短衣，一手托念珠，另一手握宽刀，刀刃朝观察者左上。与火龙太子隔门相对。 | [现代特写 · 文保图录](https://www.mnwhstq.com/bhjg/202406/t20240621_214053.htm) · [PDF 125 · 图版26](https://archive.org/download/in.ernet.dli.2015.127766/2015.127766.The-Twin-Pagodas-Of-Zayton_text.pdf#page=125) |
 | W-4-12 / 东北面左 | 图像核对 | 王冠甲胄人物持长枪，另一手胸前托圆珠；枪侧有葫芦状物。 | [对应实拍 · Zhangzhugang](https://commons.wikimedia.org/wiki/File:Quanzhou_Kaiyuan_Si_20120229-80.jpg) · [PDF 123 · 图版24](https://archive.org/download/in.ernet.dli.2015.127766/2015.127766.The-Twin-Pagodas-Of-Zayton_text.pdf#page=123) |
 | W-4-13 / 东面右 | 图像核对 | 圆头光冠饰立像展开书卷，头旁另有日轮形小圆盘。 | [对应实拍 · Zhangzhugang](https://commons.wikimedia.org/wiki/File:Quanzhou_Kaiyuan_Si_20120229-80.jpg) · [PDF 117 · 图版18](https://archive.org/download/in.ernet.dli.2015.127766/2015.127766.The-Twin-Pagodas-Of-Zayton_text.pdf#page=117) |
 | W-4-14 / 东面左 | 图像核对 | 原著记带月轮的人物，一手持如意，另一手持念珠。 | [现代实拍 · Zhangzhugang](https://commons.wikimedia.org/wiki/File:Quanzhou_Kaiyuan_Si_20120229-80.jpg) |

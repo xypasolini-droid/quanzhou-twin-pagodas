@@ -1,13 +1,15 @@
 import { useEffect, useRef, useState } from 'react';
 import type { TowerSide } from './HistoryPanel';
 import { RELIEF_PHOTOS } from './heritage/reliefPhotos';
-import { reliefReadings } from './heritage/reliefReading';
+import { MONKEY_PILGRIM_ID, reliefReadings } from './heritage/reliefReading';
 import { SCULPTURES } from './heritage/sculptureCatalog';
 import type { SculptureRecord } from './heritage/sculptureTypes';
 import './relief-gallery.css';
 
 const faces = ['南', '西南', '西', '西北', '北', '东北', '东', '东南'];
 const photoUrl = (image: string) => `${import.meta.env.BASE_URL}sculptures/${image}`;
+const mountedPhotoCount = RELIEF_PHOTOS.filter(photo => photo.onTower).length;
+const monkeyReading = reliefReadings.find(item => item.id === MONKEY_PILGRIM_ID);
 const exhibits = RELIEF_PHOTOS.map(photo => {
   const record = SCULPTURES.find(figure => figure.id === photo.id);
   if (!record) throw new Error(`No sculpture record for ${photo.id}`);
@@ -48,6 +50,7 @@ export default function ReliefGallery({ open, tower, selectedId, onClose, onLoca
   const photos = floor ? towerPhotos.filter(entry => entry.record.level === floor) : towerPhotos;
   const index = Math.max(0, photos.findIndex(entry => entry.photo.id === selected));
   const exhibit = photos[index];
+  const isMonkeyPilgrim = exhibit?.photo.id === MONKEY_PILGRIM_ID;
   const chooseTower = (next: TowerSide) => {
     if (next === side) return;
     setSide(next);
@@ -57,6 +60,11 @@ export default function ReliefGallery({ open, tower, selectedId, onClose, onLoca
   const step = (delta: number) => {
     const next = photos[index + delta];
     if (next) setSelected(next.photo.id);
+  };
+  const showMonkeyPilgrim = () => {
+    setSide('west');
+    setFloor(4);
+    setSelected(MONKEY_PILGRIM_ID);
   };
 
   useEffect(() => {
@@ -84,7 +92,10 @@ export default function ReliefGallery({ open, tower, selectedId, onClose, onLoca
     </div>
     {open && <>
       <div className="relief-gallery-bar">
-        <p>从实物照片细看手势、衣纹和持物。<span className="relief-total">已上塔 {exhibits.length} 处</span></p>
+        <p>
+          从实物照片细看手势、衣纹和持物。<span className="relief-total">已上塔 {mountedPhotoCount} 处</span>
+          <button type="button" className="gallery-inline relief-feature" onClick={showMonkeyPilgrim}>猴行者 · 西塔四层 <span aria-hidden="true">↗</span></button>
+        </p>
         <div className="relief-gallery-towers" role="group" aria-label="选择石刻所在塔">
           <button type="button" aria-pressed={side === 'east'} onClick={() => chooseTower('east')}>东塔 · 镇国</button>
           <button type="button" aria-pressed={side === 'west'} onClick={() => chooseTower('west')}>西塔 · 仁寿</button>
@@ -113,7 +124,10 @@ export default function ReliefGallery({ open, tower, selectedId, onClose, onLoca
           <h3>{exhibit.photo.title}</h3>
           <p>{exhibit.photo.introduction}</p>
           <p className="relief-catalogue-id">图录编号 {exhibit.record.id} · 方位按面向石板时的左右</p>
-          <button className="relief-locate" type="button" disabled={!canLocate} onClick={() => onLocate(exhibit.record)}>在塔上查看 <span aria-hidden="true">↗</span></button>
+          <div className="relief-exhibit-actions">
+            <button className="relief-locate" type="button" disabled={!canLocate} onClick={() => onLocate(exhibit.record)}>在塔上查看 <span aria-hidden="true">↗</span></button>
+            {isMonkeyPilgrim && monkeyReading && <a href={monkeyReading.sourceUrl} target="_blank" rel="noreferrer">查看文保图录特写 ↗</a>}
+          </div>
           {!exhibit.photo.onTower && <p className="relief-catalogue-id">实物照片供对照，对应塔身为形态示意。</p>}
           <div className="relief-photo-source">
             <span>摄影 {exhibit.photo.photographer} · 裁切与透视校正</span>

@@ -56,6 +56,11 @@
   line-height: 1.7;
 }
 
+.relief-feature {
+  min-height: 40px;
+  white-space: nowrap;
+}
+
 .relief-gallery-towers {
   display: flex;
   gap: 6px;
@@ -234,6 +239,20 @@
 .relief-locate:hover:not(:disabled) {
   color: #fffdf6;
   background: #526452;
+}
+
+.relief-exhibit-actions {
+  display: flex;
+  align-items: baseline;
+  flex-wrap: wrap;
+  gap: 0 14px;
+}
+
+.relief-exhibit-actions a {
+  margin-bottom: 16px;
+  color: var(--accent);
+  font-size: 13px;
+  text-underline-offset: 3px;
 }
 
 .relief-photo-source {

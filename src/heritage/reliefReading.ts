@@ -1,3 +1,5 @@
+export const MONKEY_PILGRIM_ID = 'W-4-11';
+
 // External photo references: link to the original articles; no image reuse permission is assumed.
 export const reliefReadings = [
   {
@@ -50,11 +52,11 @@ export const reliefReadings = [
     "sourceLabel": "泉州网 · 东西塔风华录"
   },
   {
-    "id": "W-4-11",
+    "id": MONKEY_PILGRIM_ID,
     "title": "猴行者 · 宽刀与念珠",
-    "introduction": "猴面人物穿着短衣，手握宽刀，胸前还垂着一串念珠。这些细节呈现了南宋石塔上的猴行者形象，也让人看到取经故事在不同年代的不同面貌。",
-    "sourceUrl": "https://www.qzwb.com/gb/content/2024-06/21/content_9058919.htm",
-    "sourceLabel": "泉州网 · 东西塔风华录"
+    "introduction": "石门右侧的猴行者转头侧立，宽刀斜举，另一手托着颈间念珠。对面的火龙太子与它同属东北面。研究者把这组南宋石刻与早期取经故事联系起来。",
+    "sourceUrl": "https://www.mnwhstq.com/bhjg/202406/t20240621_214053.htm",
+    "sourceLabel": "闽南文化生态保护区 · 东西塔风华录"
   },
   {
     "id": "W-4-12",

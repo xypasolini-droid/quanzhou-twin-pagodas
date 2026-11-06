@@ -729,6 +729,20 @@
     "imageNote": "远摄局部"
   },
   {
+    "id": "W-4-11",
+    "image": "w-4-11.webp",
+    "title": "猴行者",
+    "alt": "仁寿塔第四层东北面石门右侧的猴行者石刻，斜侧远摄",
+    "introduction": "猴面人物穿短衣，转头侧立，斜举宽刀，一手托着颈间念珠。石门左侧的火龙太子与它相对。这组南宋石刻为研究早期取经故事留下了实物线索。",
+    "date": "2012-02-29",
+    "photographer": "Zhangzhugang",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Quanzhou_Kaiyuan_Si_20120229-80.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "onTower": false,
+    "imageNote": "斜侧远摄 · 石板下缘受檐角遮挡"
+  },
+  {
     "id": "W-4-12",
     "image": "w-4-12.webp",
     "title": "持长枪武士",

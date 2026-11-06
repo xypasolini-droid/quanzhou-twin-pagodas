@@ -15,7 +15,7 @@
 | [Quanzhou Kaiyuan Si 20120229-70.jpg](https://commons.wikimedia.org/wiki/File:Quanzhou_Kaiyuan_Si_20120229-70.jpg) | Zhangzhugang | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | W-1-01, W-1-02, W-1-03, W-1-04 |
 | [Quanzhou Kaiyuan Si 20120229-68.jpg](https://commons.wikimedia.org/wiki/File:Quanzhou_Kaiyuan_Si_20120229-68.jpg) | Zhangzhugang | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | W-1-11, W-1-12, W-1-13, W-1-14, W-1-15, W-1-16 |
 | [Quanzhou Kaiyuan Si 20120229-67.jpg](https://commons.wikimedia.org/wiki/File:Quanzhou_Kaiyuan_Si_20120229-67.jpg) | Zhangzhugang | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | W-2-12, W-2-13, W-3-12, W-3-13, W-3-14 |
-| [Quanzhou Kaiyuan Si 20120229-80.jpg](https://commons.wikimedia.org/wiki/File:Quanzhou_Kaiyuan_Si_20120229-80.jpg) | Zhangzhugang | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | W-4-12, W-4-13, W-4-14, W-4-15, W-4-16 |
+| [Quanzhou Kaiyuan Si 20120229-80.jpg](https://commons.wikimedia.org/wiki/File:Quanzhou_Kaiyuan_Si_20120229-80.jpg) | Zhangzhugang | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | W-4-11（图志远摄）, W-4-12, W-4-13, W-4-14, W-4-15, W-4-16 |
 | [Quanzhou Kaiyuan Si 20120229-81.jpg](https://commons.wikimedia.org/wiki/File:Quanzhou_Kaiyuan_Si_20120229-81.jpg) | Zhangzhugang | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | W-5-13, W-5-14, W-5-15, W-5-16 |
 
 20120229-80 和 20120229-81 的 Commons 文件说明中的塔名与实物不符。五层东面双髻侍从和四层东面日月成对人物均与《刺桐双塔》仁寿塔图版相符。
